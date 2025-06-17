@@ -1,0 +1,5 @@
+admonisher.n.01	restrain.v.03	person.n.01
+airplane.n.01	fly.v.01	road.n.01
+airplane.n.01	fly.v.01	sky.n.01
+tree.n.01	cover.v.01	person.n.01
+vase.n.01	carry.v.02	plant.n.02

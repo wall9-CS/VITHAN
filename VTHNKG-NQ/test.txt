@@ -1,0 +1,133 @@
+person.n.01	wash.v.01	glass.n.02	lifespan	0.166667
+person.n.01	attach.v.03	snowboard.n.01	lifespan	0.166667
+table.n.02	have.v.01	keyboard.n.01
+cart.n.01	keep.v.01	baggage.n.01	weightAverage	0.499165
+person.n.01	hold.v.02	elephant.n.01	lifespan	0.166667
+person.n.01	carry.v.02	teddy.n.01	lifespan	0.166667
+person.n.01	walk.v.09	elephant.n.01	lifespan	0.166667
+person.n.01	tall.a.01	elephant.n.01	lifespan	0.166667
+person.n.01	wash.v.03	spoon.n.01	lifespan	0.166667
+person.n.01	inspect.v.01	fireplug.n.01	lifespan	0.166667
+person.n.01	eat.v.01	hotdog.n.02	lifespan	0.166667
+person.n.01	stand.v.01	chair.n.01	lifespan	0.166667
+person.n.01	hold.v.02	giraffe.n.01	lifespan	0.166667
+motorcycle.n.01	have.v.02	bag.n.01	weightAverage	0.599332	lengthAverage	0.057627
+person.n.01	load.v.01	airplane.n.01	lifespan	0.166667
+bench.n.01	get.v.03	person.n.01	lengthAverage	0.033898
+person.n.01	inspect.v.01	bottle.n.01	lifespan	0.166667
+person.n.01	have.v.01	basket.n.01	lifespan	0.166667
+person.n.01	ride.v.02	bicycle.n.01	lifespan	0.166667
+tower.n.01	keep.v.01	clock.n.01
+motorcycle.n.01	have.v.01	helmet.n.01	weightAverage	0.599332	lengthAverage	0.057627
+person.n.01	repair.v.01	mouse.n.04	lifespan	0.166667
+dog.n.01	wear.v.02	shirt.n.01	legAmount	1.000000
+person.n.01	skate.v.01	road.n.01	lifespan	0.166667
+tree.n.01	attach_to.v.01	tree.n.01	lifespan	1.000000	lengthAverage	0.322034
+road.n.01	have.v.01	bus.n.01
+person.n.01	lodge.v.02	knife.n.01	lifespan	0.166667
+bear.n.01	have.v.01	hat.n.01	weightAverage	1.000000
+person.n.01	wash.v.01	fork.n.01	lifespan	0.166667
+giraffe.n.01	follow.v.01	giraffe.n.01	legAmount	1.000000
+person.n.01	hold.v.02	cart.n.01	lifespan	0.166667
+person.n.01	hold.v.22	horse.n.01	lifespan	0.166667
+car.n.01	park.v.01	street.n.02
+person.n.01	look.v.01	airplane.n.01	lifespan	0.166667
+chair.n.01	taller_than	person.n.01	weightAverage	0.018364
+person.n.01	touch.v.01	bag.n.01	lifespan	0.166667
+person.n.01	fill.v.01	wine.n.01	lifespan	0.166667
+person.n.01	lie.v.02	pillow.n.01	lifespan	0.166667
+car.n.01	drive.v.02	road.n.01
+person.n.01	check.v.01	parking_meter.n.01	lifespan	0.166667
+person.n.01	assemble.v.01	kite.n.01	lifespan	0.166667
+engine.n.01	have.v.01	grass.n.01	weightAverage	0.666110
+dog.n.01	have.v.01	bear.n.01	legAmount	1.000000
+table.n.02	carry.v.26	keyboard.n.01
+person.n.01	launch.v.03	boat.n.01	lifespan	0.166667
+bus.n.01	have.v.01	roof.n.02
+person.n.01	front.v.01	person.n.01	lifespan	0.166667
+person.n.01	have.v.01	bag.n.06	lifespan	0.166667
+person.n.01	fleece.v.02	sheep.n.01	lifespan	0.166667
+person.n.01	move.v.02	refrigerator.n.01	lifespan	0.166667
+person.n.01	inspect.v.01	bench.n.01	lifespan	0.166667
+tower.n.01	have.v.01	clock.n.01
+person.n.01	pull.v.04	necktie.n.01	lifespan	0.166667
+vase.n.01	carry.v.02	plant.n.02	weightAverage	0.001669
+person.n.01	carry.v.02	pizza.n.01	lifespan	0.166667
+giraffe.n.01	have.v.02	face.n.01	legAmount	1.000000
+plate.n.02	have.v.01	bowl.n.01
+person.n.01	look.v.02	hydrant	lifespan	0.166667
+dog.n.01	wear.v.01	shoe.n.01	legAmount	1.000000
+person.n.01	inspect.v.01	tennis_racket.n.01	lifespan	0.166667
+person.n.01	have.v.01	spectacles.n.01	lifespan	0.166667
+person.n.01	have.v.01	sunglasses.n.01	lifespan	0.166667
+person.n.01	feed.v.02	cat.n.01	lifespan	0.166667
+person.n.01	ride.v.01	dog.n.01	lifespan	0.166667
+person.n.01	jump.v.01	car.n.01	lifespan	0.166667
+mountain.n.01	against	sky.n.01
+person.n.01	open.v.01	backpack.n.01	lifespan	0.166667
+person.n.01	look.v.01	skateboard.n.01	lifespan	0.166667
+person.n.01	park.v.01	motorcycle.n.01	lifespan	0.166667
+keyboard.n.01	attach_to.v.01	laptop.n.01
+train.n.01	have.v.01	wheel.n.01
+truck.n.01	transport.v.02	wheel.n.01	lengthAverage	0.322034
+person.n.01	race.v.04	horse.n.01	lifespan	0.166667
+dog.n.01	wear.v.01	bloomers.n.01	legAmount	1.000000
+giraffe.n.01	have.v.01	person.n.01	legAmount	1.000000
+pot.n.01	have.v.02	plant.n.02	weightAverage	0.005008
+person.n.01	have.v.02	hand.n.01	lifespan	0.166667
+person.n.01	carry.v.02	dog.n.01	lifespan	0.166667
+person.n.01	hose.v.01	elephant.n.01	lifespan	0.166667
+person.n.01	hold.v.02	hotdog.n.02	lifespan	0.166667
+person.n.01	wash.v.02	train.n.01	lifespan	0.166667
+person.n.01	have.v.01	bicycle.n.01	lifespan	0.166667
+counter.n.01	have.v.01	stove.n.01	lengthAverage	0.050847
+person.n.01	repair.v.01	parking_meter.n.01	lifespan	0.166667
+person.n.01	inspect.v.01	dog.n.01	lifespan	0.166667
+person.n.01	ride.v.01	elephant.n.01	lifespan	0.166667
+tree.n.01	have.v.01	clock.n.01	lifespan	1.000000	lengthAverage	0.322034
+person.n.01	lean_on.v.01	ramp.n.01	lifespan	0.166667
+airplane.n.01	fly.v.01	sky.n.01	lengthAverage	1.000000
+person.n.01	transport.v.02	book.n.01	lifespan	0.166667
+giraffe.n.01	sit.v.01	grass.n.01	legAmount	1.000000
+bed.n.01	have	person.n.01	lengthAverage	0.050847
+person.n.01	lean_on.v.01	person.n.01	lifespan	0.166667
+counter.n.01	have.v.01	pot.n.01	lengthAverage	0.050847
+person.n.01	lean.v.01	truck.n.01	lifespan	0.166667
+car.n.01	have.v.01	plate.n.02
+pillow.n.01	cover.v.01	person.n.01	weightAverage	0.001669
+street.n.02	have.v.01	bicycle.n.01
+person.n.01	produce.v.02	cake.n.01	lifespan	0.166667
+person.n.01	have.v.01	umbrella.n.01	lifespan	0.166667
+person.n.01	keep.v.01	mouse.n.01	lifespan	0.166667
+person.n.01	pull.v.01	cart.n.01	lifespan	0.166667
+person.n.01	wear.v.01	shirt.n.01	lifespan	0.166667
+person.n.01	sit.v.01	toilet.n.02	lifespan	0.166667
+hat.n.01	have.v.02	tie.n.04
+person.n.01	stand.v.03	train.n.01	lifespan	0.166667
+surfboard.n.01	tall.a.01	person.n.01	lengthAverage	0.074576	weightAverage	0.021703
+person.n.01	rest.v.02	bicycle.n.01	lifespan	0.166667
+dog.n.01	ride.v.01	dog.n.01	legAmount	1.000000
+hand.n.01	hold.v.02	cup.n.01
+person.n.01	play.v.03	keyboard.n.01	lifespan	0.166667
+person.n.01	carry.v.02	tennis_racket.n.01	lifespan	0.166667
+person.n.01	have.v.01	baggage.n.01	lifespan	0.166667
+horse.n.01	pull.v.01	cart.n.01	legAmount	1.000000
+person.n.01	jump.v.01	surfboard.n.01	lifespan	0.166667
+person.n.01	ride.v.01	skateboard.n.01	lifespan	0.166667
+glass.n.01	cover.v.01	cabinet.n.01	lengthAverage	0.016949
+person.n.01	carry.v.02	baseball_bat.n.01	lifespan	0.166667
+person.n.01	look.v.01	motorcycle.n.01	lifespan	0.166667
+person.n.01	carry.v.02	ball.n.01	lifespan	0.166667
+truck.n.01	incorporate.v.02	box.n.01	lengthAverage	0.322034
+person.n.01	hold.v.02	doughnut.n.02	lifespan	0.166667
+cart.n.01	have.v.02	can.n.01	weightAverage	0.499165
+person.n.01	skate.v.01	street.n.01	lifespan	0.166667
+table.n.02	cover.v.01	table.n.02
+person.n.01	pet.v.01	cat.n.01	lifespan	0.166667
+person.n.01	type.v.01	laptop.n.01	lifespan	0.166667
+tower.n.01	hold.v.11	clock.n.01
+vase.n.01	have.v.01	plant.n.02	weightAverage	0.001669
+person.n.01	lasso.v.01	cow.n.02	lifespan	0.166667
+car.n.01	have.v.01	bear.n.01
+person.n.01	wash.v.01	motorcycle.n.01	lifespan	0.166667
+person.n.01	talk.v.01	cellular_telephone.n.01	lifespan	0.166667
