@@ -1,0 +1,1052 @@
+person.n.01	keep.v.01	can.n.01	contain.v.05	beer.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	face.v.05	bus.n.01	watch.v.03	bus.n.01	stand.v.01	side.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+vase.n.01	hold.v.11	plant.n.02	rest_on	table.n.03	lengthAverage	0.000000	weightAverage	0.000500
+person.n.01	wear.v.01	baseball_glove.n.01	play.v.01	sports_ball	have.v.02	baseball_bat.n.01	throw.v.01	ball.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+boat.n.01	have.v.01	wheel.n.01	steer.v.01	person.n.01	accommodate.v.04	person.n.01	legAmount	0.000000	lengthAverage	0.152542	weightAverage	0.299650
+person.n.01	keep.v.01	orange.n.01	contain.v.05	bag.n.06	hold.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	open.v.01	oven.n.01	cook.v.01	cake.n.03	check.v.02	doughnut.n.02	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wear.v.01	jean.n.01	sit_on	bench.n.01	ride.v.02	bicycle.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	keep.v.01	ball.n.01	contain.v.05	bag.n.06	hold.v.02	hand.n.01	dribble.v.03	basket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+shoe.n.01	attach.v.03	ski.n.01	align.v.01	ski.n.01	use.v.01	person.n.01	ride.v.10	mountain.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	have.v.01	shirt.n.01	wear.v.01	shirt.n.01	wash.v.02	shirt.n.01	own.v.01	shirt.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+desk.n.01	hold.v.02	chair.n.01	contain.v.05	chair.n.01	align.v.01	chair.n.01	rest_on	chair.n.01	lengthAverage	0.023729	weightAverage	0.019510
+cat.n.01	stand.v.01	person.n.01	rest_on	bed.n.01	sit_on	sofa.n.01	greet.v.01	person.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+gun.n.01	eat.v.01	grass.n.01	hunt.v.01	cow.n.01	hunt.v.01	sheep.n.01	hunt.v.01	zebra.n.01	lengthAverage	0.016949	weightAverage	0.002501
+wheel.n.01	attach.v.02	airplane.n.01	align.v.01	airplane.n.01	rest_on	airplane.n.01	lengthAverage	0.003390	weightAverage	0.009505
+person.n.01	lick.v.02	bottle.n.01	contain.v.05	beer.n.01	hold.v.02	hand.n.01	sit.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+giraffe.n.01	eat.v.01	grass.n.01	taller_than	bush.n.02	watch.v.03	bird.n.01	legAmount	0.157895	lengthAverage	0.169492	lifespan	0.120603	weightAverage	1.000000
+person.n.01	sit.v.01	motorcycle.n.01	wear.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+street.n.02	have.v.01	bus.n.01	accommodate.v.04	bus.n.01	contain.v.05	bus.n.01	drive_on	bus.n.01
+person.n.01	carry.v.02	plate.n.02	contain.v.05	apple.n.01	rest_on	table.n.03	use.v.01	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	repair.v.01	bicycle.n.01	sit.v.01	bench.n.01	inspect.v.01	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	remote_control.n.01	use.v.01	television.n.01	operate.v.01	television.n.01	sit_on	sofa.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bag.n.01	against	shelf.n.01	rest_on	shelf.n.01	lean_on.v.01	shelf.n.01	contain.v.05	baggage.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	skate.v.01	ramp.n.01	wear.v.01	helmet.n.01	use.v.01	skateboard.n.01	ride.v.02	skateboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+elephant.n.01	ride.v.01	bicycle.n.01	taller_than	bicycle.n.01	obstruct.v.01	bicycle.n.01	stand_on	bicycle.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+bear.n.01	sit.v.01	basket.n.01	rest_on	grass.n.01	contain.v.05	apple.n.01	legAmount	0.157895	lengthAverage	0.067797	lifespan	0.120603	weightAverage	0.299650
+tower.n.01	have.v.01	roof.n.01	attach_to.v.01	building.n.01	cover.v.02	tower.n.01	stand_on	building.n.01	lengthAverage	1.000000	weightAverage	1.000000
+person.n.01	watch.v.01	laptop.n.01	sit_on	chair.n.01	type.v.01	keyboard.n.01	use.v.01	mouse.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	chase.v.01	cat.n.01	carry.v.02	backpack.n.01	run.v.01	street.n.03	use.v.01	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lick.v.02	wine.n.01	hold.v.02	glass.n.02	contain.v.05	bottle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+stove.n.01	have.v.01	pot.n.01	contain.v.05	pot.n.04	cook.v.01	pot.n.01	rest_on	stove.n.01	lengthAverage	0.013559	weightAverage	0.134567
+person.n.01	jump.v.01	motorcycle.n.01	wear.v.01	helmet.n.01	lean_on.v.01	motorcycle.n.01	use.v.01	ramp.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	tall.a.01	building.n.01	stand_on	roof.n.01	lean_on.v.01	post.n.04	sit_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sign.v.01	baseball_bat.n.01	own.v.01	baseball_bat.n.01	use.v.01	baseball_bat.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	embrace.v.02	person.n.01	wear.v.01	coat.n.01	hold.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	transport.v.02	potted_plant	carry.v.02	hand.n.01	transport.v.02	car.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	herd.v.01	sheep.n.01	use.v.01	dog.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stand.v.01	car.n.01	lean_on.v.01	car.n.01	inspect.v.01	car.n.01	stand_on	car.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	bench.n.01	wear.v.01	hat.n.01	sit_on	bench.n.01	contain.v.05	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	transport.v.02	surfboard.n.01	carry.v.02	backpack.n.01	hold.v.02	hand.n.01	ride.v.02	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pick_up.v.01	skateboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit.v.02	street.n.03	hold.v.02	bottle.n.01	rest_on	bench.n.01	watch.v.03	car.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	transport.v.02	bed.n.01	load.v.01	truck.n.01	carry.v.02	handcart.n.01	drive.v.01	van.n.05	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	pizza.n.01	eat.v.02	pizza.n.01	carry.v.02	box.n.01	sit.v.01	dining_table.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	play.v.01	telephone.n.01	use.v.01	cellular_telephone.n.01	talk.v.01	cell_phone	play.v.01	sports_ball	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	drive.v.01	bus.n.01	operate.v.03	wheel.n.01	contain.v.05	baggage.n.01	drive_on	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	ski.n.01	carry.v.02	bag.n.06	use.v.01	snowboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lose.v.01	umbrella.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	sleep.v.01	sofa.n.01	rest_on	pillow.n.01	lie.v.02	bench.n.01	sit_on	chair.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	touch.v.01	chair.n.01	sit_on	chair.n.01	move.v.02	chair.n.01	inspect.v.01	chair.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sip.v.01	wine.n.01	sip.v.01	glass.n.02	sit_on	bench.n.01	hold.v.02	bottle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	computer.n.01	use.v.01	computer.n.01	operate.v.01	computer.n.01	own.v.01	computer.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	drive.v.01	car.n.01	accommodate.v.04	person.n.01	contain.v.05	baggage.n.01	drive_on	road.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	stand.v.01	bus.n.01	hold.v.02	bag.n.06	lean_on.v.01	post.n.04	watch.v.03	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	use.v.01	computer.n.01	type.v.01	keyboard.n.01	type.v.01	monitor.n.04	operate.v.03	laptop.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sip.v.01	cup.n.01	sit.v.01	bench.n.01	hold.v.02	book.n.01	rest_on	table.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+clock.n.01	lie.v.02	chair.n.01	rest_on	desk.n.01	rest_on	table.n.03	accommodate.v.04	desk.n.01	lengthAverage	0.000000	weightAverage	0.000700
+person.n.01	jump.v.01	horse.n.01	ride.v.01	horse.n.01	carry.v.02	backpack.n.01	move.v.02	grass.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	watch.v.01	zebra.n.01	sit.v.01	bench.n.01	use.v.01	camera.n.01	sit_on	grass.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	operate.v.03	oven.n.01	cook.v.01	cake.n.03	stand.v.01	counter.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+box.n.01	incorporate.v.02	clock.n.01	contain.v.05	clock.n.01	attach_to.v.01	box.n.01	use.v.01	clock.n.01	lengthAverage	0.000000	weightAverage	0.000500
+umbrella.n.01	have.v.02	post.n.01	cover.v.02	person.n.01	lengthAverage	0.010169	weightAverage	0.000000
+horse.n.01	pull.v.01	train.n.01	attach_to.v.01	cart.n.01	operate.v.03	engine.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+person.n.01	open.v.01	toilet.n.01	open.v.03	airplane.n.01	use.v.01	hand.n.01	inspect.v.01	toilet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+horse.n.01	walk.v.01	tree.n.01	walk.v.09	grass.n.01	walk.v.09	road.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+person.n.01	lie.v.02	bench.n.01	rest_on	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	ride.v.02	train.n.01	sit.v.01	chair.n.01	hold.v.02	bag.n.06	read.v.01	book.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stand.v.01	bench.n.01	lean_on.v.01	bench.n.01	greet.v.01	person.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+camera.n.01	face.v.05	person.n.01	adjust.v.01	camera.n.01	hold.v.02	person.n.01	stand.v.01	person.n.01	lengthAverage	0.000000	weightAverage	0.000500
+person.n.01	hose.v.01	car.n.01	clean.v.01	car.n.01	wash.v.01	car.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+road.n.01	have.v.01	person.n.01	accommodate.v.04	person.n.01	walk.v.09	person.n.01	drive_on	person.n.01
+person.n.01	skin.v.04	apple.n.01	use.v.01	knife.n.01	sit.v.01	dining_table.n.01	contain.v.05	bowl.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+monitor.n.05	have	mouse.n.04	contain.v.05	computer.n.01	use.v.01	desk.n.01	accommodate.v.04	keyboard.n.01	lengthAverage	0.000000	weightAverage	0.004502
+person.n.01	teach.v.01	person.n.01	use.v.01	book.n.01	sit_on	chair.n.01	talk.v.01	manner.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+hand.n.01	hold.v.02	umbrella.n.01	use.v.01	umbrella.n.01	carry.v.02	bag.n.06	walk.v.09	person.n.01	lengthAverage	0.000000	weightAverage	0.000000
+table.n.01	have.v.01	vase.n.01	sit_on	counter.n.01	lengthAverage	0.033898	weightAverage	0.019510
+person.n.01	repair.v.01	cellular_telephone.n.01	inspect.v.01	cellular_telephone.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+traffic_light.n.01	have.v.01	hand.n.01	manipulate.v.05	person.n.01	direct.v.01	traffic_light.n.01	attach_to.v.01	post.n.01
+van.n.05	have.v.02	wheel.n.01	transport.v.02	baggage.n.01	drive_on	road.n.01	accommodate.v.04	person.n.01	lengthAverage	0.152542	weightAverage	1.000000
+elephant.n.01	hold.v.02	person.n.01	contain.v.05	basket.n.01	stand_on	bicycle.n.01	carry.v.02	baggage.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+person.n.01	eat.v.01	orange.n.01	use.v.01	knife.n.01	sit_on	bench.n.01	contain.v.05	bowl.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	scratch.v.02	cat.n.01	use.v.01	hand.n.01	sit_on	sofa.n.01	pet.v.01	cat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	watch.v.01	truck.n.01	stand_on	road.n.01	drive_on	street.n.02	lean_on.v.01	car.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	eat.v.01	carrot.n.01	use.v.01	fork.n.01	sit.v.01	chair.n.01	hold.v.02	bowl.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	wear.v.02	sunglasses.n.01	sit_on	bench.n.01	play.v.01	ball.n.01	walk.v.09	street.n.03	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+cat.n.01	look.v.01	cat.n.01	sit_on	sofa.n.01	stand.v.01	bench.n.01	watch.v.03	bird.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+person.n.01	hold.v.02	fork.n.01	eat.v.02	apple.n.01	sit_on	chair.n.01	serve.v.06	plate.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+horse.n.01	transport.v.02	bag.n.01	carry.v.02	backpack.n.01	attach_to.v.01	cart.n.01	contain.v.05	baggage.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+person.n.01	clean.v.01	refrigerator.n.01	contain.v.05	shelf.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+road.n.01	have.v.01	train.n.01	accommodate.v.04	train.n.01	transport.v.02	train.n.01	contain.v.05	train.n.01
+table.n.02	have.v.01	telephone.n.01	contain.v.05	telephone.n.01	rest_on	table.n.03
+truck.n.01	drive.v.01	road.n.01	drive_on	street.n.02	contain.v.05	traffic_light.n.01	park.v.02	van.n.05	lengthAverage	0.322034	weightAverage	1.000000
+street.n.01	have.v.01	cone.n.01	contain.v.05	car.n.01	obstruct.v.01	car.n.01	align.v.01	road.n.01
+person.n.01	look.v.01	truck.n.01	stand_on	street.n.01	hold.v.02	camera.n.01	inspect.v.01	truck.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wear.v.01	coat.n.01	carry.v.02	bag.n.06	walk.v.09	street.n.03	sit.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	ride.v.02	street.n.02	wear.v.01	helmet.n.01	ride.v.10	person.n.01	drive_on	road.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+clock.n.01	sit.v.01	chair.n.01	rest_on	table.n.03	contain.v.05	baggage.n.01	lean_on.v.01	desk.n.01	lengthAverage	0.000000	weightAverage	0.000700
+person.n.01	drive.v.01	train.n.01	use.v.01	engine.n.01	operate.v.01	train.n.01	sit_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	ride.v.02	bus.n.01	board.v.01	bus.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	inspect.v.01	bus.n.01	check.v.01	engine.n.01	inspect.v.01	baggage.n.01	operate.v.01	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	let_go_of.v.01	bird.n.01	let_go_of.v.01	hand.n.01	fly.v.01	sky.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+tree.n.01	tall.a.01	grass.n.01	contain.v.05	plant.n.02	lengthAverage	1.000000	lifespan	0.497487
+table.n.01	have.v.01	spectacles.n.01	inspect.v.01	monitor.n.04	lengthAverage	0.033898	weightAverage	0.019510
+person.n.01	sit.v.01	bicycle.n.01	wear.v.01	helmet.n.01	ride.v.02	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.02	keep.v.01	plant.n.02	contain.v.05	potted_plant	rest_on	counter.n.01
+person.n.01	keep.v.01	spoon.n.01	contain.v.05	bag.n.06	contain.v.05	bowl.n.01	use.v.01	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+truck.n.01	have.v.01	plate.n.02	contain.v.05	plate.n.04	transport.v.02	plate.n.04	attach_to.v.01	plate.n.04	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	have.v.01	plate.n.03	contain.v.05	book.n.01	read.v.01	book.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+mountain.n.01	have.v.01	grass.n.01	contain.v.05	tree.n.01	inhere_in.v.01	sheep.n.01
+street.n.01	have.v.01	tree.n.01	contain.v.05	bush.n.02	align.v.01	bench.n.01
+person.n.01	look.v.01	camera.n.01	hold.v.02	camera.n.01	use.v.01	camera.n.01	inspect.v.01	camera.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stand.v.01	plate.n.02	stand_on	dining_table.n.01	inspect.v.01	dining_table.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+car.n.01	have.v.01	roof.n.02	attach.v.02	umbrella.n.01	cover.v.02	bicycle.n.01	contain.v.05	bag.n.06	legAmount	0.157895	lengthAverage	0.135593	weightAverage	1.000000
+motorcycle.n.01	park.v.02	grass.n.01	lean_on.v.01	person.n.01	against	parking_meter.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+dog.n.01	pull.v.01	person.n.01	drag.v.01	bag.n.06	restrain.v.03	person.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	pet.v.01	horse.n.01	stand.v.01	side.n.04	rest.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	run.v.01	dog.n.01	chase.v.01	ball.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	cut.v.01	carrot.n.01	use.v.01	knife.n.01	cut.v.04	apple.n.01	contain.v.05	bowl.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	wine.n.01	contain.v.05	bottle.n.01	drink.v.01	wine.n.01	serve.v.06	wine.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	keep.v.01	cat.n.01	feed.v.02	cat.n.01	groom.v.03	cat.n.01	contain.v.05	cat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pull.v.01	boat.n.01	use.v.01	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+road.n.01	have.v.01	mountain.n.01	drive_on	car.n.01	face.v.05	sky.n.01	align.v.01	bicycle.n.01
+person.n.01	have.v.01	dog.n.01	walk.v.09	dog.n.01	pet.v.01	dog.n.01	feed.v.02	dog.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	walk.v.02	cow.n.01	carry.v.02	backpack.n.01	wear.v.01	hat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lie.v.02	chair.n.01	rest_on	baggage.n.01	against	backpack.n.01	lean_on.v.01	pillow.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	transport.v.02	hotdog.n.02	carry.v.02	bag.n.06	hold.v.02	hand.n.01	pack.v.01	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+sofa.n.01	have.v.01	bag.n.01	contain.v.05	bag.n.06	rest_on	sofa.n.01	attach_to.v.01	sofa.n.01	lengthAverage	0.050847	weightAverage	0.039520
+sink.n.01	have.v.01	paper.n.01	contain.v.05	bag.n.06	use.v.01	hand.n.01	rest_on	counter.n.01
+elephant.n.01	sleep.v.01	person.n.01	rest_on	bed.n.01	rest_on	bench.n.01	rest_on	grass.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+table.n.01	have.v.01	bag.n.01	contain.v.05	baggage.n.01	lengthAverage	0.033898	weightAverage	0.019510
+person.n.01	hold.v.02	dog.n.01	carry.v.02	backpack.n.01	pet.v.01	dog.n.01	walk.v.09	dog.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	use.v.01	camera.n.01	carry.v.02	backpack.n.01	stand.v.01	bench.n.01	watch.v.03	bird.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	open.v.01	umbrella.n.01	carry.v.02	bag.n.06	stand_on	street.n.01	walk.v.09	side.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit.v.01	bench.n.01	hold.v.02	book.n.01	rest_on	backpack.n.01	watch.v.03	bird.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	wheel.n.01	inspect.v.01	car.n.01	repair.v.01	bicycle.n.01	carry.v.02	wheel.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	fill.v.01	cup.n.01	fill.v.01	bottle.n.01	use.v.01	hand.n.01	stand.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	text_on	cell_phone	sit_on	bench.n.01	hold.v.02	bag.n.06	ride.v.02	bus.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+building.n.01	have.v.02	roof.n.01	accommodate.v.04	person.n.01	contain.v.05	bicycle.n.01	tall.a.01	tower.n.01	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	wash.v.01	surfboard.n.01	wash.v.02	person.n.01	stand_on	sand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	keep.v.01	pizza.n.01	put.v.01	box.n.01	put.v.01	table.n.03	put.v.01	oven.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	shoe.n.01	stand_on	bench.n.01	inspect.v.01	shoe.n.01	wear.v.01	hat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lie.v.02	sofa.n.01	hold.v.02	book.n.01	watch.v.03	television.n.01	drink.v.01	beer.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wash.v.02	dog.n.01	wash.v.02	sink.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	watch.n.01	wear.v.01	shirt.n.01	inspect.v.01	clock.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	use.v.01	ramp.n.01	load.v.01	bicycle.n.01	push.v.01	cart.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	snog.v.01	dog.n.01	sit_on	bench.n.01	rest_on	sofa.n.01	pet.v.01	dog.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	open.v.03	laptop.n.01	sit_on	bench.n.01	use.v.01	desk.n.01	adjust.v.01	chair.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+car.n.01	follow.v.01	car.n.01	drive_on	road.n.01	race.v.02	car.n.01	align.v.01	road.n.01	legAmount	0.157895	lengthAverage	0.135593	weightAverage	1.000000
+person.n.01	stand.v.01	bed.n.01	lean_on.v.01	bed.n.01	adjust.v.01	bed.n.01	stand_on	bed.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+counter.n.01	have.v.01	sink.n.01	attach_to.v.01	faucet.n.01	contain.v.05	cabinet.n.01	lengthAverage	0.050847	weightAverage	0.029515
+person.n.01	hold.v.02	cup.n.01	drink.v.01	cup.n.01	sit.v.01	dining_table.n.01	inspect.v.01	cup.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	horse.n.01	ride.v.01	horse.n.01	feed.v.06	horse.n.01	own.v.01	horse.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	inspect.v.01	ski.n.01	check.v.02	baggage.n.01	hold.v.02	ski.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hop_on.v.01	motorcycle.n.01	wear.v.01	helmet.n.01	race.v.02	road.n.01	ride.v.10	street.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	cut.v.01	necktie.n.01	use.v.01	knife.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	buy.v.01	pizza.n.01	carry.v.02	bag.n.06	eat.v.02	pizza.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	put.v.01	clock.n.01	put.v.01	shelf.n.01	rest_on	desk.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	carry.v.02	sandwich.n.01	carry.v.02	bag.n.06	carry.v.02	hand.n.01	contain.v.05	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	watch.v.01	giraffe.n.01	sit_on	bench.n.01	use.v.01	camera.n.01	stand.v.01	side.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+horse.n.01	stand.v.01	street.n.02	against	hydrant.n.02	contain.v.05	bicycle.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+sky.n.01	incorporate.v.02	sky.n.01	contain.v.05	airplane.n.01	contain.v.05	bird.n.01	contain.v.05	kite.n.03
+person.n.01	operate.v.01	horse.n.01	ride.v.01	horse.n.01	own.v.01	baggage.n.01	direct.v.01	person.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+shirt.n.01	keep.v.01	sunglasses.n.01	attach_to.v.01	shirt.n.01	contain.v.05	bag.n.06	rest_on	shirt.n.01	lengthAverage	0.005085	weightAverage	0.000000
+person.n.01	touch.v.01	keyboard.n.01	use.v.01	computer.n.01	sit.v.01	desk.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	inspect.v.01	motorcycle.n.01	check.v.01	engine.n.01	repair.v.01	wheel.n.01	use.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	table.n.01	inspect.v.01	table.n.03	check.v.01	table.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+desk.n.01	have.v.01	pot.n.04	contain.v.05	plant.n.02	rest_on	desk.n.01	align.v.01	desk.n.01	lengthAverage	0.023729	weightAverage	0.019510
+giraffe.n.01	stand.v.01	grass.n.01	eat.v.02	grass.n.01	taller_than	bush.n.02	legAmount	0.157895	lengthAverage	0.169492	lifespan	0.120603	weightAverage	1.000000
+person.n.01	tie.v.01	boat.n.01	attach_to.v.01	post.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wear.v.02	bag.n.01	carry.v.02	bag.n.06	own.v.01	backpack.n.01	hold.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	rub.v.02	dog.n.01	groom.v.03	dog.n.01	pet.v.01	dog.n.01	play.v.03	dog.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	load.v.01	bag.n.06	contain.v.05	baggage.n.01	attach_to.v.01	bicycle.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	frisbee.n.01	play.v.01	sports_ball	carry.v.02	backpack.n.01	stand_on	grass.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+necktie.n.01	touch.v.01	shirt.n.01	wear.v.01	person.n.01	lengthAverage	0.032203	weightAverage	0.000000
+person.n.01	snog.v.01	sheep.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+cart.n.01	have.v.01	baggage.n.01	contain.v.05	baggage.n.01	carry.v.02	baggage.n.01	load.v.01	baggage.n.01	legAmount	0.052632	lengthAverage	0.023729	weightAverage	0.149575
+person.n.01	walk.v.01	building.n.01	carry.v.02	backpack.n.01	walk.v.09	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pick_up.v.02	pizza.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+truck.n.01	transport.v.02	person.n.01	carry.v.02	baggage.n.01	drive_on	road.n.01	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	carry.v.02	baggage.n.01	board.v.01	airplane.n.01	sit_on	bus.n.01	walk.v.09	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	feed.v.02	dog.n.01	use.v.01	bowl.n.01	contain.v.05	dog.n.01	sit_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	inspect.v.01	bicycle.n.01	check.v.01	wheel.n.01	inspect.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit_on	surfboard.n.01	rest_on	sand.n.01	wear.v.01	jacket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	blow.v.01	cake.n.01	use.v.01	hand_blower.n.01	hold.v.02	bottle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hose.v.01	dog.n.01	clean.v.01	dog.n.01	groom.v.03	dog.n.01	play.v.03	dog.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	cone.n.01	use.v.01	hand.n.01	stand.v.01	street.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+basket.n.01	contain.v.05	dog.n.01	accommodate.v.04	dog.n.01	carry.v.02	dog.n.01	own.v.01	basket.n.01	lengthAverage	0.000000	weightAverage	0.001001
+person.n.01	light.v.01	cake.n.03	serve.v.06	plate.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sip.v.01	spoon.n.01	contain.v.05	bowl.n.01	use.v.01	cup.n.01	hold.v.02	glass.n.02	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	board.v.01	train.n.01	carry.v.02	baggage.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+box.n.01	keep.v.01	pizza.n.01	contain.v.05	pizza.n.01	transport.v.02	pizza.n.01	serve.v.06	pizza.n.01	lengthAverage	0.000000	weightAverage	0.000500
+truck.n.01	transport.v.02	elephant.n.01	contain.v.05	baggage.n.01	carry.v.02	person.n.01	drive.v.02	road.n.01	lengthAverage	0.322034	weightAverage	1.000000
+cart.n.01	hold.v.02	bag.n.06	contain.v.05	baggage.n.01	transport.v.02	baggage.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.023729	weightAverage	0.149575
+road.n.01	have.v.01	truck.n.01	drive_on	road.n.01	transport.v.02	baggage.n.01	load.v.01	truck.n.01
+person.n.01	hold.v.02	camera.n.01	inspect.v.01	camera.n.01	carry.v.02	bag.n.06	use.v.01	camera.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wear.v.01	hat.n.01	wear.v.01	jacket.n.01	carry.v.02	backpack.n.01	sit_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wash.v.03	bicycle.n.01	against	sink.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+counter.n.01	incorporate.v.02	plate.n.02	contain.v.05	cup.n.01	hold.v.02	bottle.n.01	lengthAverage	0.050847	weightAverage	0.029515
+person.n.01	clean.v.01	sink.n.01	use.v.01	hand.n.01	wash.v.02	bowl.n.01	inspect.v.01	faucet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	have.v.02	person.n.01	ride.v.10	person.n.01	own.v.01	person.n.01	use.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+bench.n.01	keep.v.01	person.n.01	sit_on	bench.n.01	rest_on	bench.n.01	watch.v.03	person.n.01	lengthAverage	0.033898	weightAverage	0.024512
+table.n.02	have.v.01	lamp.n.02	adjust.v.01	lamp.n.02	rest_on	table.n.03
+person.n.01	hold.v.02	ball.n.01	play.v.01	sport.n.01	carry.v.02	bag.n.06	kick.v.01	sports_ball	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	laptop.n.01	sit_on	chair.n.01	use.v.01	desk.n.01	sit.v.01	sofa.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	own.v.01	hat.n.01	wear.v.01	jacket.n.01	carry.v.02	bag.n.06	use.v.01	umbrella.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.02	have	box.n.01	contain.v.05	apple.n.01	rest_on	table.n.03
+person.n.01	type.v.01	keyboard.n.01	sit_on	chair.n.01	use.v.01	laptop.n.01	rest_on	desk.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	manipulate.v.05	mouse.n.01	use.v.01	computer.n.01	hold.v.02	mouse.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	dry.v.01	dog.n.01	wash.v.02	dog.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wash.v.01	cup.n.01	use.v.01	sink.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	buy.v.01	doughnut.n.02	contain.v.05	bag.n.06	eat.v.01	doughnut.n.02	carry.v.02	basket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+train.n.01	have.v.02	side.n.04	lean_on.v.01	building.n.01	attach_to.v.01	bench.n.01	lengthAverage	1.000000	weightAverage	1.000000
+baggage.n.01	have.v.01	bag.n.01	transport.v.02	airplane.n.01	pack.v.01	backpack.n.01	lengthAverage	0.010169	weightAverage	0.004502
+person.n.01	hop_on.v.01	bicycle.n.01	wear.v.01	helmet.n.01	ride.v.02	road.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	snowboard.n.01	stand_on	snowboard.n.01	carry.v.02	backpack.n.01	wear.v.01	jacket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lean_on.v.01	motorcycle.n.01	sit_on	motorcycle.n.01	wear.v.01	helmet.n.01	park.v.02	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	cut.v.01	hotdog.n.02	use.v.01	knife.n.01	cut.v.04	plate.n.04	sit.v.01	dining_table.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	surfboard.n.01	stand_on	sand.n.01	carry.v.02	backpack.n.01	wear.v.01	sunglasses.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	skateboard.n.01	ride.v.02	skateboard.n.01	carry.v.26	skateboard.n.01	own.v.01	skateboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	keep.v.01	banana.n.01	keep.v.01	bag.n.06	contain.v.05	bowl.n.01	hold.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	align.v.01	snowboard.n.01	align.v.01	counter.n.01	pack.v.01	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.02	have.v.02	pot.n.01	contain.v.05	cup.n.01	accommodate.v.04	dining_table.n.01	hold.v.02	plate.n.04
+bus.n.01	have.v.01	bicycle.n.01	carry.v.02	bicycle.n.01	accommodate.v.04	bicycle.n.01	transport.v.02	bicycle.n.01	legAmount	0.263158	lengthAverage	0.389831	weightAverage	1.000000
+building.n.01	have.v.02	truck.n.01	park.v.02	road.n.01	load.v.01	baggage.n.01	contain.v.05	desk.n.01	lengthAverage	0.322034	weightAverage	1.000000
+cart.n.01	have.v.01	roof.n.01	contain.v.05	baggage.n.01	legAmount	0.052632	lengthAverage	0.023729	weightAverage	0.149575
+person.n.01	stand.v.01	street.n.01	hold.v.02	umbrella.n.01	watch.v.03	traffic_light.n.01	wear.v.01	coat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	repair.v.01	clock.n.01	sit_on	bench.n.01	inspect.v.01	clock.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	carry.v.02	bicycle.n.01	carry.v.02	bag.n.06	carry.v.02	backpack.n.01	walk.v.09	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	watch.v.01	person.n.01	sit_on	bench.n.01	use.v.01	camera.n.01	hold.v.02	book.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+hand.n.01	touch.v.01	grass.n.01	lean_on.v.01	bench.n.01	lengthAverage	0.000000	weightAverage	0.000000
+table.n.02	have.v.01	basket.n.01	contain.v.05	apple.n.01	rest_on	counter.n.01	use.v.01	backpack.n.01
+person.n.01	ride.v.01	airplane.n.01	board.v.01	airplane.n.01	sit_on	chair.n.01	fly.v.01	airplane.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bag.n.01	attach.v.02	table.n.02	attach_to.v.01	backpack.n.01	rest_on	dining_table.n.01	contain.v.05	baggage.n.01	lengthAverage	0.000000	weightAverage	0.000000
+table.n.02	have.v.01	plate.n.04	contain.v.05	cup.n.01	contain.v.05	bowl.n.01	serve.v.06	pizza.n.01
+person.n.01	brush.v.01	toothbrush.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+desk.n.01	have.v.01	glass.n.02	contain.v.05	wine.n.01	rest_on	table.n.03	lengthAverage	0.023729	weightAverage	0.019510
+desk.n.01	have.v.02	keyboard.n.01	contain.v.05	computer.n.01	contain.v.05	monitor.n.04	type.v.01	person.n.01	lengthAverage	0.023729	weightAverage	0.019510
+person.n.01	look.v.01	boat.n.01	sit.v.01	bench.n.01	use.v.01	spectacles.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	carrot.n.01	eat.v.02	carrot.n.01	put.v.01	basket.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+engine.n.01	have.v.01	roof.n.02	contain.v.05	car.n.01	contain.v.05	truck.n.01	contain.v.05	bus.n.01	lengthAverage	0.033898	weightAverage	0.199600
+person.n.01	feed.v.02	horse.n.01	carry.v.02	bag.n.06	use.v.01	bowl.n.01	contain.v.05	apple.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit.v.01	bus.n.01	carry.v.02	bag.n.06	use.v.01	cell_phone	wear.v.01	hat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	ride.v.01	cow.n.01	wear.v.01	hat.n.01	carry.v.02	backpack.n.01	direct.v.01	cow.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+building.n.01	have.v.01	grass.n.01	contain.v.05	grass.n.01	cover.v.02	roof.n.01	lengthAverage	0.322034	weightAverage	1.000000
+table.n.02	have.v.01	cat.n.01	sit_on	cat.n.01	rest_on	table.n.03	scratch.v.02	cat.n.01
+person.n.01	smell.v.01	doughnut.n.02	hold.v.02	doughnut.n.02	buy.v.01	doughnut.n.02	sit.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.02	have.v.01	umbrella.n.01	attach_to.v.01	dining_table.n.01	contain.v.05	bottle.n.01	rest_on	potted_plant
+tree.n.01	tall.a.01	skateboard.n.01	rest_on	tree.n.01	stand_on	skateboard.n.01	lean_on.v.01	tree.n.01	lengthAverage	1.000000	lifespan	0.497487
+train.n.01	transport.v.02	person.n.01	board.v.01	train.n.01	sit_on	bench.n.01	carry.v.02	baggage.n.01	lengthAverage	1.000000	weightAverage	1.000000
+person.n.01	repair.v.01	hand_blower.n.01	inspect.v.01	hand_blower.n.01	operate.v.03	hand_blower.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+hand.n.01	hold.v.02	spectacles.n.01	inspect.v.01	spectacles.n.01	adjust.v.01	spectacles.n.01	use.v.01	spectacles.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	look.v.01	handcart.n.01	carry.v.02	baggage.n.01	inspect.v.01	handcart.n.01	push.v.01	handcart.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	person.n.01	embrace.v.02	person.n.01	carry.v.02	backpack.n.01	restrain.v.03	person.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hit.v.01	ball.n.01	use.v.01	baseball_bat.n.01	play.v.01	sport.n.01	hit.v.01	sports_ball	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lick.v.02	bowl.n.01	hold.v.02	bowl.n.01	eat.v.02	apple.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+desk.n.01	hold.v.11	mouse.n.01	lengthAverage	0.023729	weightAverage	0.019510
+person.n.01	wear.v.05	camera.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	repair.v.01	boat.n.01	inspect.v.01	boat.n.01	operate.v.03	engine.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	box.n.01	carry.v.02	backpack.n.01	contain.v.05	apple.n.01	stand.v.01	street.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+horse.n.01	eat.v.01	grass.n.01	feed.v.02	person.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+person.n.01	wash.v.01	sink.n.01	operate.v.03	faucet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	straddle.v.01	bicycle.n.01	wear.v.01	helmet.n.01	ride.v.02	bicycle.n.01	lean_on.v.01	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+umbrella.n.01	attach.v.03	post.n.01	align.v.01	umbrella.n.01	rest_on	post.n.01	cover.v.02	person.n.01	lengthAverage	0.010169	weightAverage	0.000000
+person.n.01	have.v.01	person.n.01	discipline.v.01	admonisher.n.01	teach.v.01	proctor.n.01	direct.v.01	president.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+building.n.01	tall.a.01	person.n.01	stand_on	roof.n.01	inspect.v.01	tower.n.01	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	swing.v.01	tennis_racket.n.01	against	sports_ball	play.v.01	sport.n.01	hold.v.02	ball.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	elephant.n.01	pet.v.01	hand.n.01	face.v.05	elephant.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+president.n.04	face.v.05	monitor.n.04	inspect.v.01	monitor.n.04	use.v.01	monitor.n.04	watch.v.03	monitor.n.04	lifespan	0.346734
+person.n.01	sleep.v.01	sofa.n.01	rest_on	pillow.n.01	lie.v.02	sofa.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	smell.v.01	banana.n.01	pick_up.v.02	banana.n.01	hold.v.02	banana.n.01	carry.v.02	banana.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit_down.v.01	counter.n.01	eat.v.02	apple.n.01	drink.v.01	beer.n.01	rest_on	bottle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	transport.v.02	cup.n.01	carry.v.02	backpack.n.01	contain.v.05	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+street.n.02	have.v.01	van.n.05	park.v.02	road.n.01	drive_on	road.n.01	contain.v.05	baggage.n.01
+hand.n.01	hold.v.02	camera.n.01	adjust.v.01	camera.n.01	inspect.v.01	camera.n.01	use.v.01	camera.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	walk.v.09	horse.n.01	walk.v.09	road.n.01	accommodate.v.04	person.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stand.v.01	ski.n.01	stand_on	ski.n.01	rest_on	mountain.n.01	wear.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	operate.v.03	television.n.01	use.v.01	remote_control.n.01	sit_on	sofa.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+cat.n.01	watch.v.04	proctor.n.01	sit_on	desk.n.01	inspect.v.01	book.n.01	rest_on	bench.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+person.n.01	carry.v.02	bottle.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	transport.v.02	bag.n.06	carry.v.02	backpack.n.01	ride.v.02	bicycle.n.01	load.v.01	car.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+box.n.01	hold.v.11	pizza.n.01	contain.v.05	bag.n.06	transport.v.02	car.n.01	pack.v.01	backpack.n.01	lengthAverage	0.000000	weightAverage	0.000500
+person.n.01	cook.v.01	carrot.n.01	use.v.01	knife.n.01	contain.v.05	bowl.n.01	cook.v.01	pot.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	swing.v.01	remote_control.n.01	use.v.01	remote_control.n.01	hold.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	embrace.v.02	bag.n.06	sit_on	bench.n.01	carry.v.02	baggage.n.01	own.v.01	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+building.n.01	tall.a.01	tree.n.01	taller_than	tower.n.01	taller_than	mountain.n.01	taller_than	bush.n.02	lengthAverage	0.322034	weightAverage	1.000000
+sand.n.01	have.v.01	grass.n.01	contain.v.05	bush.n.02	lie.v.02	side.n.04	sit_on	bench.n.01
+person.n.01	carry.v.02	keyboard.n.01	contain.v.05	bag.n.06	contain.v.05	backpack.n.01	board.v.01	airplane.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	pot.n.01	cook.v.01	stove.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	shoe.n.01	wear.v.01	shoe.n.01	inspect.v.01	shoe.n.01	hold.v.02	shoe.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bear.n.01	sit.v.01	chair.n.01	rest_on	bench.n.01	against	table.n.03	contain.v.05	bottle.n.01	legAmount	0.157895	lengthAverage	0.067797	lifespan	0.120603	weightAverage	0.299650
+bus.n.01	have.v.01	plate.n.02	attach.v.03	car.n.01	contain.v.05	baggage.n.01	align.v.01	motorcycle.n.01	legAmount	0.263158	lengthAverage	0.389831	weightAverage	1.000000
+umbrella.n.01	cover.v.02	surfboard.n.01	rest_on	sand.n.01	contain.v.05	bag.n.06	attach_to.v.01	bicycle.n.01	lengthAverage	0.010169	weightAverage	0.000000
+person.n.01	look.v.01	tower.n.01	stand_on	street.n.01	carry.v.02	backpack.n.01	hold.v.02	camera.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+car.n.01	have.v.01	person.n.02	drive.v.01	car.n.01	own.v.01	car.n.01	park.v.02	car.n.01	legAmount	0.157895	lengthAverage	0.135593	weightAverage	1.000000
+bicycle.n.01	have.v.01	bottle.n.01	attach_to.v.01	bicycle.n.01	lengthAverage	0.040678	weightAverage	0.009505
+person.n.01	carry.v.02	backpack.n.01	wear.v.01	jacket.n.01	walk.v.09	street.n.03	contain.v.05	book.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	sit.v.01	person.n.01	sit_on	person.n.01	greet.v.01	person.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	touch.v.01	bicycle.n.01	ride.v.02	bicycle.n.01	move.v.02	bicycle.n.01	repair.v.01	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+computer.n.01	confront.v.02	person.n.01	inspect.v.01	monitor.n.04	operate.v.03	keyboard.n.01	use.v.01	cell_phone	lengthAverage	0.000000	weightAverage	0.002001
+elephant.n.01	stand.v.01	grass.n.01	greet.v.01	bird.n.01	rest_on	tree.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+motorcycle.n.01	park.v.01	road.n.01	lean_on.v.01	side.n.04	align.v.01	traffic_light.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+person.n.01	hold.v.02	hat.n.01	wear.v.01	coat.n.01	sit_on	bench.n.01	use.v.01	umbrella.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lean_on.v.01	hydrant.n.02	wear.v.01	hat.n.01	hold.v.02	bag.n.06	stand.v.01	street.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+tree.n.01	attach_to.v.01	grass.n.01	lengthAverage	1.000000	lifespan	0.497487
+person.n.01	lick.v.02	fork.n.01	eat.v.02	cake.n.03	use.v.01	dining_table.n.01	hold.v.02	fork.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wear.v.01	shoe.n.01	walk.v.09	street.n.03	ride.v.02	bicycle.n.01	park.v.02	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	park.v.02	car.n.01	park.v.02	street.n.03	park.v.02	parking_meter.n.01	align.v.01	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	squeeze.v.02	orange.n.01	hold.v.02	orange.n.01	contain.v.05	bowl.n.01	use.v.01	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+cat.n.01	lean_on.v.01	sink.n.01	sit_on	counter.n.01	rest.v.01	pillow.n.01	watch.v.03	person.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+elephant.n.01	stand.v.03	street.n.02	obstruct.v.01	car.n.01	watch.v.03	person.n.01	greet.v.01	bicycle.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+tree.n.01	against	sky.n.01	contain.v.05	bird.n.01	front.v.01	building.n.01	align.v.01	kite.n.03	lengthAverage	1.000000	lifespan	0.497487
+person.n.01	talk.v.01	person.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pick_up.v.01	bag.n.06	carry.v.02	baggage.n.01	board.v.01	airplane.n.01	load.v.01	car.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	snog.v.01	elephant.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+shrub.n.01	attach_to.v.01	mountain.n.01	rest_on	side.n.04	inhere_in.v.01	grass.n.01	align.v.01	bush.n.02
+trouser.n.01	touch.v.01	shoe.n.01	wear.v.01	person.n.01	walk.v.09	person.n.01	dress.v.15	person.n.01	lengthAverage	0.018644	weightAverage	0.000000
+person.n.01	watch.v.01	television.n.01	sit_on	sofa.n.01	use.v.01	remote_control.n.01	wear.v.01	spectacles.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bag.n.06	have.v.01	wheel.n.01	contain.v.05	baggage.n.01	attach.v.02	cart.n.01	transport.v.02	person.n.01	lengthAverage	0.003390	weightAverage	0.002501
+person.n.01	point.v.08	remote_control.n.01	sit.v.01	desk.n.01	inspect.v.01	remote_control.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bag.n.01	lie.v.01	baggage.n.01	rest_on	bench.n.01	contain.v.05	apple.n.01	lengthAverage	0.000000	weightAverage	0.000000
+motorcycle.n.01	have.v.01	bag.n.01	attach_to.v.01	motorcycle.n.01	carry.v.02	baggage.n.01	contain.v.05	backpack.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+person.n.01	board.v.01	car.n.01	carry.v.02	backpack.n.01	drive.v.02	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	inspect.v.01	boat.n.01	board.v.01	boat.n.01	repair.v.01	boat.n.01	buy.v.01	boat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	watch.v.01	monitor.n.04	sit_on	sofa.n.01	operate.v.01	computer.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	rest.v.02	pillow.n.01	rest_on	bed.n.01	use.v.01	book.n.01	sit_on	sofa.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	tag.v.01	person.n.01	tag.v.01	person.n.01	play.v.01	sport.n.01	inspect.v.01	baggage.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+building.n.01	accommodate.v.04	person.n.01	contain.v.05	bed.n.01	have.v.02	chair.n.01	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	skate.v.01	skateboard.n.01	ride.v.10	ramp.n.01	stand_on	side.n.04	use.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+elephant.n.01	look.v.01	grass.n.01	stand_on	grass.n.01	walk.v.09	road.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+cat.n.01	look.v.01	bear.n.01	sit_on	bench.n.01	rest_on	grass.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+person.n.01	slide.v.03	pizza.n.01	slide.v.03	counter.n.01	have.v.02	basket.n.01	use.v.01	knife.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	embrace.v.02	teddy.n.01	sit_on	sofa.n.01	hold.v.22	pillow.n.01	rest_on	bed.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+shirt.n.01	touch.v.01	jacket.n.01	wear.v.01	jacket.n.01	rest_on	shirt.n.01	cover.v.02	jacket.n.01	lengthAverage	0.005085	weightAverage	0.000000
+hand.n.01	hold.v.02	telephone.n.01	use.v.01	cell_phone	talk.v.01	person.n.01	sit.v.01	chair.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	confront.v.03	street.n.01	carry.v.02	bag.n.06	stand.v.01	side.n.04	have.v.02	bottle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sleep.v.01	bed.n.01	use.v.01	pillow.n.01	rest_on	pillow.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+horse.n.01	walk.v.04	horse.n.01	walk.v.09	road.n.01	carry.v.02	backpack.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+bed.n.01	have.v.02	pillow.n.01	contain.v.05	pillow.n.01	rest_on	bed.n.01	sleep_on	bed.n.01	lengthAverage	0.050847	weightAverage	0.039520
+street.n.01	have.v.01	person.n.01	walk.v.09	street.n.03	carry.v.02	backpack.n.01	use.v.01	cell_phone
+motorcycle.n.01	attach_to.v.01	cart.n.01	carry.v.02	baggage.n.01	pull.v.01	handcart.n.01	ride.v.10	person.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+person.n.01	drink.v.01	cup.n.01	contain.v.05	beer.n.01	sit.v.01	chair.n.01	hold.v.02	bottle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	look.v.01	tree.n.01	sit.v.01	bench.n.01	watch.v.03	bird.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	wash.v.01	airplane.n.01	inspect.v.01	airplane.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+elephant.n.01	wear.v.01	spectacles.n.01	sit_on	bench.n.01	carry.v.02	backpack.n.01	look.v.01	book.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+sofa.n.01	have.v.01	person.n.01	sit_on	sofa.n.01	rest_on	sofa.n.01	own.v.01	sofa.n.01	lengthAverage	0.050847	weightAverage	0.039520
+person.n.01	kick.v.01	ball.n.01	play.v.01	sports_ball	rest_on	grass.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wash.v.01	horse.n.01	groom.v.03	horse.n.01	stand.v.01	side.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	book.n.01	read.v.01	book.n.01	sit_on	sofa.n.01	wear.v.01	spectacles.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+desk.n.01	have.v.02	computer.n.01	contain.v.05	keyboard.n.01	stand.v.01	lamp.n.02	rest_on	chair.n.01	lengthAverage	0.023729	weightAverage	0.019510
+elephant.n.01	hold.v.02	plant.n.02	feed.v.01	elephant.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+person.n.01	transport.v.02	cellular_telephone.n.01	carry.v.02	bag.n.06	sit_on	bench.n.01	hold.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bus.n.01	have.v.01	person.n.01	board.v.01	bus.n.01	ride.v.02	bus.n.01	accommodate.v.04	person.n.01	legAmount	0.263158	lengthAverage	0.389831	weightAverage	1.000000
+person.n.01	walk.v.01	box.n.01	carry.v.02	box.n.01	transport.v.02	box.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	shirt.n.01	wear.v.01	shirt.n.01	carry.v.02	bag.n.06	use.v.01	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	have	helmet.n.02	ride.v.02	motorcycle.n.01	wear.v.01	helmet.n.01	use.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+person.n.01	carry.v.02	skateboard.n.01	carry.v.02	bag.n.06	walk.v.09	road.n.01	wear.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+horse.n.01	wear.v.01	hat.n.01	carry.v.02	person.n.01	stand_on	street.n.01	ride.v.02	bicycle.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+person.n.01	buy.v.01	orange.n.01	carry.v.02	bag.n.06	use.v.01	cart.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	tire.v.02	horse.n.01	ride.v.01	horse.n.01	drive.v.01	cart.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	tall.a.01	horse.n.01	ride.v.01	horse.n.01	stand_on	horse.n.01	own.v.01	horse.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+elephant.n.01	wear.v.01	hat.n.01	wear.v.01	coat.n.01	stand_on	grass.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+person.n.01	pick_up.v.02	doughnut.n.02	carry.v.02	bag.n.06	eat.v.01	doughnut.n.02	sit.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lie.v.02	grass.n.01	rest_on	backpack.n.01	hold.v.02	book.n.01	watch.v.03	sky.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	serve.v.06	ball.n.01	use.v.01	tennis_racket.n.01	play.v.01	sport.n.01	align.v.01	manner.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	have.v.01	cup.n.01	contain.v.05	cup.n.01	attach_to.v.01	motorcycle.n.01	carry.v.02	cup.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+person.n.01	sleep.v.01	sand.n.01	rest_on	pillow.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+elephant.n.01	wear.v.01	trouser.n.01	watch.v.03	person.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+person.n.01	load.v.01	train.n.01	load.v.01	baggage.n.01	carry.v.02	bag.n.06	pack.v.01	box.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	smell.v.01	apple.n.01	hold.v.02	apple.n.01	contain.v.05	apple.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	repair.v.01	television.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+airplane.n.01	have.v.01	roof.n.02	contain.v.05	baggage.n.01	cover.v.02	engine.n.01	legAmount	0.263158	lengthAverage	1.000000	weightAverage	1.000000
+person.n.01	cook.v.01	sandwich.n.01	use.v.01	oven.n.01	use.v.01	knife.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	unfold.v.04	book.n.01	sit_on	chair.n.01	wear.v.01	spectacles.n.01	rest_on	desk.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	ride.v.02	ski.n.01	ride.v.10	mountain.n.01	wear.v.01	helmet.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	greet.v.01	person.n.01	accommodate.v.04	desk.n.01	use.v.01	telephone.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	load.v.01	bus.n.01	carry.v.02	bag.n.06	pack.v.01	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+tree.n.01	taller_than	person.n.01	stand_on	mountain.n.01	rest_on	building.n.01	lengthAverage	1.000000	lifespan	0.497487
+person.n.01	cut.v.28	broccoli.n.01	use.v.01	knife.n.01	contain.v.05	basket.n.01	use.v.01	scissors.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	box.n.01	open.v.03	box.n.01	carry.v.02	box.n.01	inspect.v.01	box.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	throw.v.01	sports_ball	dribble.v.03	ball.n.01	catch.v.04	sports_ball	play.v.01	sport.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	face.n.01	wear.v.01	hat.n.01	watch.v.03	television.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wield.v.02	baseball_bat.n.01	play.v.01	sport.n.01	hit.v.01	sports_ball	swing.v.01	baseball_bat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	keep.v.01	car.n.01	clean.v.01	car.n.01	own.v.01	car.n.01	repair.v.01	car.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+clock.n.01	have.v.01	hand.n.08	attach_to.v.01	clock.n.01	align.v.01	face.n.07	manipulate.v.05	clock.n.01	lengthAverage	0.000000	weightAverage	0.000700
+baggage.n.01	have.v.01	wheel.n.01	transport.v.02	cart.n.01	attach_to.v.01	bag.n.06	use.v.01	person.n.01	lengthAverage	0.010169	weightAverage	0.004502
+hand.n.01	have.v.01	pizza.n.01	hold.v.02	pizza.n.01	eat.v.02	pizza.n.01	manipulate.v.05	pizza.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	pull.v.01	kite.n.03	use.v.01	hand.n.01	pull.v.01	sky.n.01	adjust.v.01	manner.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wear.v.01	trouser.n.01	sit_on	bench.n.01	ride.v.02	bicycle.n.01	walk.v.09	street.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	skateboard.n.01	carry.v.02	baggage.n.01	ride.v.02	skateboard.n.01	use.v.01	skateboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	walk.v.01	grass.n.01	carry.v.02	backpack.n.01	carry.v.02	bag.n.06	walk.v.09	plant.n.02	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wash.v.02	elephant.n.01	wear.v.01	shirt.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+sky.n.01	cover.v.01	tower.n.01	taller_than	building.n.01	against	mountain.n.01	stand.v.01	street.n.01
+chair.n.01	have.v.01	bag.n.01	attach_to.v.01	chair.n.01	rest_on	chair.n.01	contain.v.05	backpack.n.01	lengthAverage	0.013559	weightAverage	0.005503
+bench.n.01	against	table.n.02	sit_on	bench.n.01	rest_on	table.n.03	contain.v.05	baggage.n.01	lengthAverage	0.033898	weightAverage	0.024512
+person.n.01	touch.v.01	cat.n.01	pet.v.01	cat.n.01	sit_on	sofa.n.01	have.v.02	baggage.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	stand.v.01	street.n.02	park.v.01	side.n.04	lean_on.v.01	post.n.04	against	hydrant.n.02	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+horse.n.01	transport.v.02	person.n.01	carry.v.02	baggage.n.01	ride.v.02	road.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+person.n.01	sleep_on	bench.n.01	carry.v.02	backpack.n.01	rest_on	grass.n.01	against	tree.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	bag.n.06	carry.v.02	backpack.n.01	sit_on	bench.n.01	rest_on	table.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	paper.n.01	read.v.01	paper.n.01	transport.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	bag.n.01	carry.v.02	baggage.n.01	wear.v.01	backpack.n.01	contain.v.05	apple.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+cat.n.01	sleep.v.01	chair.n.01	rest_on	chair.n.01	sit_on	chair.n.01	contain.v.05	backpack.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+bus.n.01	have.v.01	face.n.01	front.v.01	side.n.04	legAmount	0.263158	lengthAverage	0.389831	weightAverage	1.000000
+person.n.01	inspect.v.01	orange.n.01	contain.v.05	basket.n.01	inspect.v.01	bag.n.06	hold.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	paint.v.02	vase.n.01	own.v.01	vase.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+street.n.01	have.v.02	grass.n.01	contain.v.05	side.n.04	contain.v.05	shrub.n.01	contain.v.05	bush.n.02
+person.n.01	keep.v.01	sandwich.n.01	carry.v.02	bag.n.06	rest_on	table.n.03	contain.v.05	box.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+manner.n.01	transport.v.02	doughnut.n.02	carry.v.02	bag.n.06	load.v.01	car.n.01	hold.v.02	hand.n.01
+cabinet.n.01	keep.v.01	monitor.n.04	contain.v.05	baggage.n.01	lengthAverage	0.044068	weightAverage	0.039520
+person.n.01	have.v.01	vase.n.01	buy.v.01	vase.n.01	clean.v.01	vase.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wash.v.01	car.n.01	wash.v.03	wheel.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	use.v.01	laptop.n.01	sit_on	chair.n.01	type.v.01	keyboard.n.01	watch.v.03	monitor.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+horse.n.01	search.v.02	tree.n.01	look.v.01	admonisher.n.01	inspect.v.01	bush.n.02	move.v.02	grass.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+person.n.01	sit.v.01	truck.n.01	sit_on	bench.n.01	hold.v.02	book.n.01	lean_on.v.01	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	milk.v.01	cow.n.01	hold.v.02	bottle.n.01	use.v.01	bowl.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+hand.n.01	hold.v.02	can.n.01	contain.v.05	beer.n.01	open.v.03	can.n.01	drink.v.01	beer.n.01	lengthAverage	0.000000	weightAverage	0.000000
+elephant.n.01	cover.v.01	car.n.01	rest_on	roof.n.01	obstruct.v.01	road.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+person.n.01	feed.v.02	bird.n.01	use.v.01	bowl.n.01	rest_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit_down.v.01	airplane.n.01	board.v.01	airplane.n.01	carry.v.02	baggage.n.01	have.v.02	manner.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+shelf.n.01	have.v.01	plant.n.02	contain.v.05	potted_plant	rest_on	counter.n.01	lengthAverage	0.023729	weightAverage	0.004502
+person.n.01	hold.v.02	kite.n.03	fly.v.01	kite.n.03	watch.v.03	sky.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+cat.n.01	lie.v.02	sink.n.01	rest_on	counter.n.01	sit_on	sink.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+person.n.01	transport.v.02	banana.n.01	carry.v.02	hand.n.01	own.v.01	backpack.n.01	contain.v.05	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	repair.v.01	umbrella.n.01	sit_on	bench.n.01	inspect.v.01	umbrella.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+tower.n.01	tall.a.01	tree.n.01	attach_to.v.01	building.n.01	taller_than	bush.n.02	stand_on	mountain.n.01	lengthAverage	1.000000	weightAverage	1.000000
+person.n.01	keep.v.01	necktie.n.01	keep.v.01	necktie.n.01	attach.v.02	shirt.n.01	wear.v.01	shirt.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	ride.v.02	cart.n.01	sit_on	bench.n.01	drive.v.01	horse.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	feed.v.02	person.n.01	use.v.01	spoon.n.01	contain.v.05	bowl.n.01	sit_on	chair.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stand.v.02	toilet.n.01	lean_on.v.01	sink.n.01	hold.v.02	cell_phone	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pull.v.01	bag.n.01	contain.v.05	baggage.n.01	pull.v.01	cart.n.01	transport.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	drive.v.02	street.n.01	drive.v.01	car.n.01	steer.v.01	bicycle.n.01	drive_on	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+desk.n.01	have.v.02	lamp.n.02	sit_on	desk.n.01	light.v.01	desk.n.01	rest_on	desk.n.01	lengthAverage	0.023729	weightAverage	0.019510
+person.n.01	lie.v.02	surfboard.n.01	rest_on	sand.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	cut.v.01	apple.n.01	hold.v.02	knife.n.01	cut.v.04	knife.n.01	sit.v.01	dining_table.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	watch.n.01	wear.v.01	watch.n.01	own.v.01	watch.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	operate.v.01	toaster.n.02	adjust.v.01	counter.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+faucet.n.01	attach.v.01	sink.n.01	attach_to.v.01	counter.n.01	install.v.01	sink.n.01	use.v.01	hand.n.01	lengthAverage	0.000000	weightAverage	0.000000
+street.n.01	have.v.01	baggage.n.01	contain.v.05	bag.n.06	obstruct.v.01	side.n.04
+person.n.01	wear.v.02	snowboard.n.01	use.v.01	sport.n.01	carry.v.02	backpack.n.01	stand_on	snowboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	toothbrush.n.01	use.v.01	toothbrush.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sign.v.01	sports_ball	play.v.01	sport.n.01	hold.v.02	sports_ball	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	computer.n.01	use.v.01	computer.n.01	transport.v.02	bag.n.06	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lean.v.02	table.n.02	use.v.01	hand.n.01	push.v.01	table.n.03	lean_on.v.01	table.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bear.n.01	drive.v.01	car.n.01	inspect.v.01	person.n.01	drive_on	road.n.01	legAmount	0.157895	lengthAverage	0.067797	lifespan	0.120603	weightAverage	0.299650
+cat.n.01	sleep.v.01	car.n.01	rest_on	car.n.01	contain.v.05	cat.n.01	lie.v.02	car.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+person.n.01	beckon.v.01	bus.n.01	stand.v.01	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	watch.v.03	ball.n.01	play.v.01	sports_ball	watch.v.03	sport.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+airplane.n.01	have.v.02	wheel.n.01	attach_to.v.01	airplane.n.01	transport.v.02	airplane.n.01	legAmount	0.263158	lengthAverage	1.000000	weightAverage	1.000000
+person.n.01	keep.v.01	post.n.01	watch.v.03	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	incorporate.v.02	box.n.01	attach.v.02	bag.n.06	contain.v.05	helmet.n.01	carry.v.02	baggage.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+person.n.01	hold.v.02	tennis_racket.n.01	play.v.01	sports_ball	wear.v.01	shirt.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bag.n.01	lie.v.01	person.n.01	rest_on	person.n.01	contain.v.05	baggage.n.01	attach_to.v.01	backpack.n.01	lengthAverage	0.000000	weightAverage	0.000000
+cat.n.01	wear.v.01	necktie.n.01	dress.v.15	person.n.01	sit_on	sofa.n.01	rest_on	bench.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+person.n.01	cut.v.01	banana.n.01	use.v.01	knife.n.01	sit.v.01	dining_table.n.01	eat.v.02	banana.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pet.v.01	elephant.n.01	groom.v.03	elephant.n.01	feed.v.01	elephant.n.01	ride.v.01	elephant.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bear.n.01	wear.v.01	hat.n.01	play.v.01	ball.n.01	sit_on	bench.n.01	stand_on	street.n.01	legAmount	0.157895	lengthAverage	0.067797	lifespan	0.120603	weightAverage	0.299650
+motorcycle.n.01	have.v.01	roof.n.01	attach_to.v.01	motorcycle.n.01	cover.v.02	motorcycle.n.01	contain.v.05	motorcycle.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+person.n.01	read.v.01	book.n.01	sit_on	chair.n.01	wear.v.01	spectacles.n.01	hold.v.02	cup.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+cabinet.n.01	have.v.01	glass.n.02	contain.v.05	glass.n.02	hold.v.02	cup.n.01	lengthAverage	0.044068	weightAverage	0.039520
+person.n.01	hold.v.02	toaster.n.01	toast.v.02	wine.n.01	stand_on	table.n.03	drink.v.01	glass.n.02	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+laptop.n.01	have.v.01	monitor.n.04	attach_to.v.01	desk.n.01	use.v.01	computer.n.01	contain.v.05	keyboard.n.01	lengthAverage	0.000000	weightAverage	0.001501
+person.n.01	repair.v.01	oven.n.01	inspect.v.01	oven.n.01	check.v.01	oven.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	dribble.v.03	ball.n.01	play.v.01	sports_ball	wear.v.01	shoe.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	stand.v.03	street.n.02	park.v.01	side.n.04	rest_on	road.n.01	align.v.01	traffic_light.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+dog.n.01	use.v.01	laptop.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+mountain.n.01	have.v.01	bush.n.02	contain.v.05	tree.n.01
+person.n.01	embrace.v.02	cow.n.01	stand_on	grass.n.01	rest_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	sit.v.02	motorcycle.n.01	park.v.02	street.n.03	rest.v.01	bench.n.01	lean_on.v.01	building.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+person.n.01	stir.v.01	carrot.n.01	contain.v.05	bowl.n.01	use.v.01	spoon.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	teddy.n.01	sit_on	bench.n.01	sit_on	bed.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lie.v.02	bed.n.01	rest_on	pillow.n.01	watch.v.03	television.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	ski.n.01	stand_on	mountain.n.01	inspect.v.01	ski.n.01	sit.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pack.v.01	bag.n.06	pack.v.01	backpack.n.01	carry.v.02	baggage.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+truck.n.01	have.v.01	roof.n.01	carry.v.26	roof.n.01	cover.v.02	truck.n.01	transport.v.02	roof.n.02	lengthAverage	0.322034	weightAverage	1.000000
+engine.n.01	attach.v.03	airplane.n.01	assemble.v.01	airplane.n.01	install.v.01	engine.n.01	contain.v.05	wheel.n.01	lengthAverage	0.033898	weightAverage	0.199600
+tree.n.01	have.v.01	pot.n.04	contain.v.05	potted_plant	use.v.01	plant.n.02	attach.v.02	bush.n.02	lengthAverage	1.000000	lifespan	0.497487
+person.n.01	whirl.v.02	sport.n.01	whirl.v.02	sports_ball	play.v.01	skateboard.n.01	ride.v.02	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+post.n.01	have.v.01	lamp.n.01	light.v.01	lamp.n.02	stand_on	post.n.01	inspect.v.01	lamp.n.02
+bus.n.01	park.v.02	street.n.02	align.v.01	street.n.01	drive_on	road.n.01	park.v.02	parking_meter.n.01	legAmount	0.263158	lengthAverage	0.389831	weightAverage	1.000000
+person.n.01	straddle.v.01	motorcycle.n.01	ride.v.02	motorcycle.n.01	wear.v.01	helmet.n.01	park.v.02	motorcycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	catch.v.04	frisbee.n.01	play.v.01	sports_ball	throw.v.01	person.n.01	stand_on	grass.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bear.n.01	wear.v.01	ski.n.01	stand_on	mountain.n.01	slide.v.03	snowboard.n.01	legAmount	0.157895	lengthAverage	0.067797	lifespan	0.120603	weightAverage	0.299650
+person.n.01	sit.v.01	boat.n.01	ride.v.02	boat.n.01	wear.v.01	jacket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	skin.v.04	orange.n.01	eat.v.02	orange.n.01	use.v.01	knife.n.01	contain.v.05	bowl.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	repair.v.01	laptop.n.01	sit_on	chair.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	straddle.v.01	horse.n.01	ride.v.01	horse.n.01	wear.v.01	helmet.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	repair.v.01	toaster.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bus.n.01	park.v.02	road.n.01	legAmount	0.263158	lengthAverage	0.389831	weightAverage	1.000000
+person.n.01	inspect.v.01	truck.n.01	check.v.01	truck.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+wheel.n.01	attach_to.v.01	bus.n.01	drive_on	road.n.01	transport.v.02	person.n.01	lengthAverage	0.003390	weightAverage	0.009505
+giraffe.n.01	look.v.01	hand.n.01	face.v.05	person.n.01	hold.v.02	apple.n.01	legAmount	0.157895	lengthAverage	0.169492	lifespan	0.120603	weightAverage	1.000000
+sofa.n.01	have.v.01	dog.n.01	sit_on	dog.n.01	sleep_on	dog.n.01	accommodate.v.04	dog.n.01	lengthAverage	0.050847	weightAverage	0.039520
+person.n.01	stand.v.01	sand.n.01	hold.v.02	surfboard.n.01	wear.v.01	sunglasses.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	have.v.01	shirt.n.01	wear.v.01	shirt.n.01	carry.v.26	shirt.n.01	own.v.01	shirt.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	operate.v.01	microwave.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+kite.n.03	against	sky.n.01	fly.v.01	bird.n.01	launch.v.03	person.n.01	lengthAverage	0.003390	weightAverage	0.000000
+stove.n.01	have.v.01	clock.n.01	contain.v.05	clock.n.01	use.v.01	clock.n.01	incorporate.v.02	clock.n.01	lengthAverage	0.013559	weightAverage	0.134567
+person.n.01	fly.v.01	airplane.n.01	board.v.01	airplane.n.01	carry.v.02	baggage.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	watch.v.01	bear.n.01	stand.v.01	bench.n.01	hold.v.02	camera.n.01	sit.v.01	bush.n.02	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	buy.v.01	banana.n.01	carry.v.02	bag.n.06	use.v.01	cart.n.01	pay.v.01	banana.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit.v.01	box.n.01	rest_on	bench.n.01	sit_on	chair.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+train.n.01	have.v.01	engine.n.01	transport.v.02	baggage.n.01	lengthAverage	1.000000	weightAverage	1.000000
+horse.n.01	follow.v.01	person.n.01	herd.v.01	person.n.01	direct.v.01	person.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+building.n.01	attach_to.v.01	tower.n.01	accommodate.v.04	person.n.01	align.v.01	road.n.01	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	board.v.01	boat.n.01	carry.v.02	backpack.n.01	wear.v.01	hat.n.01	use.v.01	umbrella.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	eat.v.01	apple.n.01	sit.v.01	bench.n.01	hold.v.02	bowl.n.01	use.v.01	knife.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	cut.v.01	sandwich.n.01	use.v.01	knife.n.01	use.v.01	scissors.n.01	cut.v.04	apple.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+wheel.n.01	inhere_in.v.01	handcart.n.01	attach_to.v.01	cart.n.01	move.v.02	baggage.n.01	push.v.01	hand.n.01	lengthAverage	0.003390	weightAverage	0.009505
+person.n.01	stir.v.01	bowl.n.01	use.v.01	spoon.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bus.n.01	have.v.01	wheel.n.01	drive.v.01	car.n.01	transport.v.02	person.n.01	attach.v.03	engine.n.01	legAmount	0.263158	lengthAverage	0.389831	weightAverage	1.000000
+person.n.01	clean.v.01	keyboard.n.01	clean.v.01	desk.n.01	clean.v.01	computer.n.01	use.v.01	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	carry.v.02	camera.n.01	contain.v.05	bag.n.06	use.v.01	camera.n.01	wear.v.01	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	ramp.n.01	lean_on.v.01	hand.n.08	walk.v.09	ramp.n.01	rest_on	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.02	have.v.01	person.n.01	use.v.01	dining_table.n.01	sit_on	chair.n.01	contain.v.05	book.n.01
+bus.n.01	have.v.02	ramp.n.01	transport.v.02	person.n.01	accommodate.v.04	baggage.n.01	align.v.01	road.n.01	legAmount	0.263158	lengthAverage	0.389831	weightAverage	1.000000
+person.n.01	straddle.v.01	dog.n.01	ride.v.01	horse.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	jump.v.01	skateboard.n.01	jump.v.11	ramp.n.01	wear.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+pillow.n.01	rest_on	bed.n.01	contain.v.05	pillow.n.01	contain.v.05	person.n.01	sleep_on	bed.n.01	lengthAverage	0.003390	weightAverage	0.000500
+person.n.01	smell.v.01	cup.n.01	contain.v.05	wine.n.01	rest_on	table.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+truck.n.01	follow.v.01	truck.n.01	drive_on	road.n.01	follow.v.01	person.n.01	transport.v.02	baggage.n.01	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	have.v.01	trouser.n.01	wear.v.01	trouser.n.01	wash.v.03	trouser.n.01	own.v.01	trouser.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	read.v.01	laptop.n.01	sit_on	chair.n.01	watch.v.03	monitor.n.04	use.v.01	keyboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+sky.n.01	cover.v.01	sky.n.01	fly.v.01	airplane.n.01	fly.v.01	kite.n.03
+car.n.01	park.v.01	motorcycle.n.01	align.v.01	building.n.01	adjust.v.01	street.n.03	park.v.02	parking_meter.n.01	legAmount	0.157895	lengthAverage	0.135593	weightAverage	1.000000
+cabinet.n.01	have.v.01	counter.n.01	attach_to.v.01	counter.n.01	contain.v.05	cup.n.01	lengthAverage	0.044068	weightAverage	0.039520
+person.n.01	carry.v.02	carrot.n.01	contain.v.05	bag.n.06	contain.v.05	backpack.n.01	hold.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	exit.v.01	bus.n.01	carry.v.02	bag.n.06	wear.v.01	jacket.n.01	walk.v.09	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.02	have.v.01	laptop.n.01	rest_on	desk.n.01	contain.v.05	computer.n.01
+cat.n.01	sit.v.01	table.n.02	rest_on	bowl.n.01	lean_on.v.01	lamp.n.02	watch.v.03	bird.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+person.n.01	make.v.03	doughnut.n.02	use.v.01	oven.n.01	contain.v.05	apple.n.01	serve.v.06	plate.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	motorcycle.n.01	ride.v.02	motorcycle.n.01	park.v.02	motorcycle.n.01	own.v.01	motorcycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	bus.n.01	board.v.01	bus.n.01	hold.v.02	bag.n.06	lean_on.v.01	bus.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pull.v.01	bicycle.n.01	drag.v.01	cart.n.01	lean_on.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+tree.n.01	taller_than	elephant.n.01	inhere_in.v.01	mountain.n.01	contain.v.05	bird.n.01	lengthAverage	1.000000	lifespan	0.497487
+person.n.01	use.v.01	telephone.n.01	talk.v.01	person.n.01	text_on	cell_phone	operate.v.01	telephone.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+tree.n.01	tall.a.01	giraffe.n.01	contain.v.05	giraffe.n.01	lengthAverage	1.000000	lifespan	0.497487
+computer.n.01	have.v.01	monitor.n.04	attach_to.v.01	desk.n.01	use.v.01	keyboard.n.01	sit_on	table.n.03	lengthAverage	0.000000	weightAverage	0.002001
+bear.n.01	have.v.01	coat.n.03	groom.v.03	bear.n.01	rest.v.01	tree.n.01	legAmount	0.157895	lengthAverage	0.067797	lifespan	0.120603	weightAverage	0.299650
+road.n.01	have.v.01	shrub.n.01	against	side.n.04	contain.v.05	bush.n.02	align.v.01	street.n.01
+person.n.01	cut.v.04	knife.n.01	cut.v.04	apple.n.01	cut.v.04	cake.n.03	use.v.01	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+wheel.n.01	have.v.02	wheel.n.03	attach_to.v.01	car.n.01	drive.v.02	bicycle.n.01	align.v.01	bus.n.01	lengthAverage	0.003390	weightAverage	0.009505
+pillow.n.01	lie.v.01	sofa.n.01	rest_on	backpack.n.01	contain.v.05	book.n.01	align.v.01	lamp.n.02	lengthAverage	0.003390	weightAverage	0.000500
+cart.n.01	transport.v.02	person.n.01	pull.v.01	horse.n.01	load.v.01	baggage.n.01	push.v.01	handcart.n.01	legAmount	0.052632	lengthAverage	0.023729	weightAverage	0.149575
+street.n.01	have.v.01	sand.n.01	contain.v.05	bush.n.02
+person.n.01	hold.v.02	bird.n.01	contain.v.05	bag.n.06	contain.v.05	basket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	ride.v.01	bag.n.06	ride.v.01	horse.n.01	carry.v.02	backpack.n.01	attach.v.03	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	clean.v.01	dining_table.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+refrigerator.n.01	have.v.01	cat.n.01	contain.v.05	cat.n.01	sit_on	refrigerator.n.01	rest_on	refrigerator.n.01	lengthAverage	0.044068	weightAverage	0.079540
+person.n.01	obstruct.v.01	ball.n.03	use.v.01	baseball_bat.n.01	play.v.01	sports_ball	kick.v.01	ball.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lean.v.01	bus.n.01	rest_on	side.n.04	lean_on.v.01	bench.n.01	stand_on	street.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	push.v.01	motorcycle.n.01	push.v.01	road.n.01	push.v.01	side.n.04	push.v.01	ramp.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	load.v.01	car.n.01	carry.v.02	baggage.n.01	pack.v.01	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	use.v.01	kite.n.03	fly.v.01	kite.n.03	launch.v.03	kite.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+airplane.n.01	fly.v.01	road.n.01	park.v.02	car.n.01	contain.v.05	car.n.01	legAmount	0.263158	lengthAverage	1.000000	weightAverage	1.000000
+person.n.01	walk.v.10	bicycle.n.01	carry.v.02	backpack.n.01	walk.v.09	road.n.01	walk.v.09	side.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	sofa.n.01	sit_on	sofa.n.01	hold.v.02	book.n.01	wear.v.01	spectacles.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	inspect.v.01	ball.n.01	play.v.01	sports_ball	check.v.01	baseball_bat.n.01	inspect.v.01	baseball_glove.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+car.n.01	park.v.01	road.n.01	align.v.01	parking_meter.n.01	stop.v.01	person.n.01	rest_on	side.n.04	legAmount	0.157895	lengthAverage	0.135593	weightAverage	1.000000
+person.n.01	hold.v.02	telephone.n.01	use.v.01	cell_phone	talk.v.01	telephone.n.01	hold.v.02	cell_phone	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pet.v.01	dog.n.01	sit_on	bench.n.01	rest_on	sofa.n.01	watch.v.03	television.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+tree.n.01	confront.v.01	bicycle.n.01	obstruct.v.01	road.n.01	stand_on	side.n.04	taller_than	bicycle.n.01	lengthAverage	1.000000	lifespan	0.497487
+tower.n.01	attach_to.v.01	building.n.01	taller_than	tree.n.01	lengthAverage	1.000000	weightAverage	1.000000
+person.n.01	wash.v.02	carrot.n.01	wash.v.02	hand.n.01	contain.v.05	sink.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	produce.v.02	sandwich.n.01	cook.v.01	stove.n.01	cut.v.04	knife.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+skateboard.n.01	touch.v.01	person.n.01	ride.v.02	skateboard.n.01	manipulate.v.05	skateboard.n.01	carry.v.26	skateboard.n.01	lengthAverage	0.010169	weightAverage	0.001501
+elephant.n.01	tall.a.01	person.n.01	taller_than	giraffe.n.01	rest_on	bench.n.01	carry.v.02	baggage.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+person.n.01	hold.v.02	clock.n.01	inspect.v.01	clock.n.01	wear.v.01	watch.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+plate.n.04	hold.v.11	pizza.n.01	serve.v.06	dining_table.n.01	contain.v.05	bowl.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	look.v.01	monitor.n.04	sit.v.01	chair.n.01	use.v.01	computer.n.01	watch.v.03	television.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stop.v.01	traffic_light.n.01	drive.v.01	car.n.01	walk.v.09	side.n.04	ride.v.02	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	direct.v.01	truck.n.01	inspect.v.01	truck.n.01	operate.v.03	truck.n.01	use.v.01	handcart.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	sit.v.01	shelf.n.01	rest_on	counter.n.01	contain.v.05	cabinet.n.01	own.v.01	person.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	look.v.01	elephant.n.01	stand.v.01	bench.n.01	contain.v.05	bush.n.02	ride.v.02	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+chair.n.01	hold.v.10	person.n.01	sit_on	chair.n.01	rest_on	chair.n.01	accommodate.v.04	person.n.01	lengthAverage	0.013559	weightAverage	0.005503
+truck.n.01	have.v.01	person.n.01	drive.v.01	truck.n.01	own.v.01	truck.n.01	load.v.01	baggage.n.01	lengthAverage	0.322034	weightAverage	1.000000
+table.n.02	have.v.01	mouse.n.01	rest_on	table.n.03	contain.v.05	bowl.n.01	sit_on	table.n.03
+giraffe.n.01	look.v.01	grass.n.01	taller_than	bush.n.02	legAmount	0.157895	lengthAverage	0.169492	lifespan	0.120603	weightAverage	1.000000
+person.n.01	inspect.v.01	cup.n.01	contain.v.05	bottle.n.01	rest_on	table.n.03	clean.v.01	cup.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	snog.v.01	teddy.n.01	sit_on	sofa.n.01	embrace.v.02	teddy.n.01	hold.v.02	teddy.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+pot.n.01	have.v.01	tree.n.01	contain.v.05	potted_plant	attach_to.v.01	plant.n.02	sit_on	table.n.03	lengthAverage	0.000000	weightAverage	0.001501
+person.n.01	sit.v.01	cart.n.01	hold.v.02	bag.n.06	ride.v.01	horse.n.01	rest_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+horse.n.01	confront.v.01	car.n.01	stand.v.01	road.n.01	obstruct.v.01	road.n.01	face.v.05	car.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+cart.n.01	have.v.02	wheel.n.01	carry.v.02	baggage.n.01	pull.v.01	horse.n.01	legAmount	0.052632	lengthAverage	0.023729	weightAverage	0.149575
+person.n.01	direct.v.01	car.n.01	drive.v.01	car.n.01	operate.v.03	engine.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	rest.v.02	bench.n.01	have.v.02	book.n.01	sit_on	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+sky.n.01	have	kite.n.03	fly.v.01	kite.n.03	contain.v.05	bird.n.01
+person.n.01	touch.v.01	ski.n.01	carry.v.02	bag.n.06	rest_on	mountain.n.01	use.v.01	snowboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pay.v.01	parking_meter.n.01	park.v.02	car.n.01	stand.v.01	street.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+building.n.01	tall.a.01	hydrant.n.02	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	lean_on.v.01	pillow.n.01	sit_on	sofa.n.01	rest_on	bed.n.01	lean.v.02	chair.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+sky.n.01	have.v.01	person.n.01	watch.v.03	person.n.01	contain.v.05	airplane.n.01	cover.v.02	mountain.n.01
+person.n.01	stand.v.01	road.n.01	hold.v.02	umbrella.n.01	wear.v.01	jacket.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+truck.n.01	transport.v.02	truck.n.01	load.v.01	baggage.n.01	drive.v.02	person.n.01	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	ride.v.01	sheep.n.01	herd.v.01	sheep.n.01	ride.v.01	horse.n.01	accommodate.v.04	person.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	exit.v.01	train.n.01	carry.v.02	bag.n.06	wear.v.01	jacket.n.01	hold.v.02	cell_phone	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	chase.v.01	dog.n.01	use.v.01	bicycle.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+box.n.01	attach_to.v.01	motorcycle.n.01	contain.v.05	baggage.n.01	carry.v.26	helmet.n.01	attach.v.02	bag.n.06	lengthAverage	0.000000	weightAverage	0.000500
+person.n.01	snog.v.01	cat.n.01	sit_on	sofa.n.01	lie.v.02	bed.n.01	pet.v.01	cat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	bag.n.04	carry.v.02	backpack.n.01	contain.v.05	apple.n.01	use.v.01	cell_phone	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+hand.n.01	hold.v.02	pizza.n.01	hold.v.02	person.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	inspect.v.01	car.n.01	check.v.01	engine.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+plant.n.01	have.v.01	pot.n.04	contain.v.05	potted_plant	rest_on	counter.n.01	align.v.01	building.n.01	lengthAverage	0.033898	weightAverage	1.000000
+person.n.01	pet.v.01	zebra.n.01	feed.v.06	zebra.n.01	own.v.01	zebra.n.01	rest_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+surfboard.n.01	have.v.02	person.n.01	carry.v.02	backpack.n.01	own.v.01	person.n.01	lengthAverage	0.074576	weightAverage	0.007504
+dog.n.01	sit.v.01	bed.n.01	rest_on	pillow.n.01	sit_on	sofa.n.01	accommodate.v.04	person.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+skateboard.n.01	have.v.01	wheel.n.01	ride.v.10	person.n.01	use.v.01	ramp.n.01	lengthAverage	0.010169	weightAverage	0.001501
+basket.n.01	transport.v.02	bag.n.01	carry.v.02	hand.n.01	contain.v.05	baggage.n.01	use.v.01	bicycle.n.01	lengthAverage	0.000000	weightAverage	0.001001
+train.n.01	against	sky.n.01	move.v.02	train.n.01	watch.v.03	person.n.01	ride.v.02	train.n.01	lengthAverage	1.000000	weightAverage	1.000000
+bowl.n.01	hold.v.11	bowl.n.01	contain.v.05	apple.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	hold.v.02	baseball_glove.n.01	play.v.01	sports_ball	wear.v.01	shirt.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	follow.v.01	person.n.01	walk.v.09	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	carry.v.02	sunglasses.n.01	board.v.01	airplane.n.01	contain.v.05	bag.n.06	wear.v.01	face.n.07	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pick.v.01	apple.n.01	pick_up.v.02	apple.n.01	contain.v.05	basket.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	keep.v.01	bottle.n.01	attach_to.v.01	motorcycle.n.01	contain.v.05	bottle.n.01	carry.v.02	baggage.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+motorcycle.n.01	park.v.02	street.n.01	park.v.02	person.n.01	against	parking_meter.n.01	align.v.01	building.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+person.n.01	keep.v.01	motorcycle.n.01	wash.v.01	motorcycle.n.01	repair.v.01	motorcycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	cut.v.04	cake.n.03	use.v.01	knife.n.01	serve.v.06	person.n.01	contain.v.05	plate.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+laptop.n.01	lie.v.01	chair.n.01	sit_on	person.n.01	contain.v.05	desk.n.01	rest_on	table.n.03	lengthAverage	0.000000	weightAverage	0.001501
+person.n.01	read.v.01	cellular_telephone.n.01	sit_on	bench.n.01	hold.v.02	cell_phone	sit.v.01	chair.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	ride.v.01	car.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+clock.n.01	attach_to.v.01	tower.n.01	sit_on	building.n.01	taller_than	building.n.01	lengthAverage	0.000000	weightAverage	0.000700
+dog.n.01	stand.v.01	street.n.01	stand_on	side.n.04	watch.v.03	traffic_light.n.01	rest_on	bench.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+dog.n.01	wear.v.01	necktie.n.01	sit_on	bench.n.01	greet.v.01	person.n.01	play.v.01	ball.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+pizza.n.01	have	pizza.n.01	contain.v.05	pizza.n.01	serve.v.06	pizza.n.01	accommodate.v.04	pizza.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	lick.v.02	spoon.n.01	hold.v.02	bowl.n.01	use.v.01	fork.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+cat.n.01	sit_down.v.01	sofa.n.01	rest_on	pillow.n.01	sit.v.01	person.n.01	contain.v.05	book.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+tree.n.01	cover.v.01	mountain.n.01	inhere_in.v.01	grass.n.01	inhere_in.v.01	bush.n.02	lengthAverage	1.000000	lifespan	0.497487
+person.n.01	operate.v.03	hand_blower.n.01	use.v.01	hand.n.01	hold.v.02	hand_blower.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+giraffe.n.01	lie.v.02	grass.n.01	watch.v.03	bird.n.01	legAmount	0.157895	lengthAverage	0.169492	lifespan	0.120603	weightAverage	1.000000
+person.n.01	drink.v.01	bottle.n.01	contain.v.05	beer.n.01	sit.v.01	chair.n.01	hold.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	ball.n.01	inspect.v.01	ball.n.01	play.v.01	ball.n.01	pick_up.v.02	ball.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit.v.01	train.n.01	hold.v.02	book.n.01	wear.v.01	hat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bear.n.01	look.v.01	bear.n.01	legAmount	0.157895	lengthAverage	0.067797	lifespan	0.120603	weightAverage	0.299650
+person.n.01	hop_on.v.01	elephant.n.01	ride.v.01	elephant.n.01	use.v.01	backpack.n.01	carry.v.02	camera.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	motorcycle.n.01	wear.v.01	helmet.n.01	stand_on	side.n.04	inspect.v.01	motorcycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	person.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+horse.n.01	look.v.01	grass.n.01	stand_on	grass.n.01	groom.v.03	grass.n.01	herd.v.01	horse.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+face.n.01	have.v.02	spectacles.n.01	wear.v.01	person.n.01
+person.n.01	pick_up.v.01	cake.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	align.v.01	necktie.n.01	adjust.v.01	shirt.n.01	dress.v.15	shirt.n.01	tie.v.01	shirt.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	eat.v.02	dining_table.n.01	eat.v.02	apple.n.01	sit_on	chair.n.01	drink.v.01	wine.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	open.v.03	refrigerator.n.01	put.v.01	bottle.n.01	hold.v.02	bowl.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+chair.n.01	incorporate.v.02	bear.n.01	sit_on	chair.n.01	contain.v.05	bag.n.06	rest_on	bench.n.01	lengthAverage	0.013559	weightAverage	0.005503
+person.n.01	hold.v.02	potted.a.01	carry.v.02	potted_plant	inspect.v.01	plant.n.02	transport.v.02	pot.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	snog.v.01	horse.n.01	ride.v.01	horse.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	look.v.01	dog.n.01	stand.v.01	street.n.01	sit_on	bench.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+motorcycle.n.01	have.v.01	plate.n.02	attach_to.v.01	motorcycle.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+building.n.01	have.v.01	wheel.n.01	incorporate.v.02	cart.n.01	incorporate.v.02	handcart.n.01	contain.v.05	cart.n.01	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	stir.v.01	broccoli.n.01	cook.v.01	pot.n.01	contain.v.05	bowl.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+shelf.n.01	have.v.01	basket.n.01	contain.v.05	apple.n.01	rest_on	table.n.03	hold.v.02	book.n.01	lengthAverage	0.023729	weightAverage	0.004502
+person.n.01	wash.v.01	truck.n.01	inspect.v.01	truck.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+airplane.n.01	park.v.02	grass.n.01	rest_on	grass.n.01	contain.v.05	baggage.n.01	legAmount	0.263158	lengthAverage	1.000000	weightAverage	1.000000
+counter.n.01	have.v.01	plate.n.02	contain.v.05	bowl.n.01	serve.v.06	cake.n.03	hold.v.02	cup.n.01	lengthAverage	0.050847	weightAverage	0.029515
+horse.n.01	feed.v.06	grass.n.01	stand_on	grass.n.01	eat.v.02	apple.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+person.n.01	embrace.v.02	dog.n.01	sit_on	bench.n.01	stand_on	street.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	zip_up.v.01	bag.n.06	pack.v.01	baggage.n.01	board.v.01	airplane.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	look.v.01	oven.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	wear.v.01	necktie.n.01	sit.v.01	desk.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	repair.v.01	ski.n.01	inspect.v.01	ski.n.01	sit_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	feed.v.02	zebra.n.01	use.v.01	bowl.n.01	contain.v.05	apple.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	sheep.n.01	inspect.v.01	sheep.n.01	restrain.v.03	sheep.n.01	transport.v.02	sheep.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+ashcan.n.01	touch.v.01	refrigerator.n.01	against	refrigerator.n.01	rest_on	refrigerator.n.01	lengthAverage	0.003390	weightAverage	0.004502
+engine.n.01	attach_to.v.01	airplane.n.01	drive.v.02	airplane.n.01	install.v.01	airplane.n.01	assemble.v.01	airplane.n.01	lengthAverage	0.033898	weightAverage	0.199600
+person.n.01	embrace.v.02	horse.n.01	sit_on	horse.n.01	ride.v.01	horse.n.01	groom.v.03	horse.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	eat.v.02	sandwich.n.01	sit_on	bench.n.01	contain.v.05	bag.n.06	drink.v.01	beer.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	rest.v.01	cart.n.01	sit_on	cart.n.01	lean_on.v.01	cart.n.01	rest_on	cart.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+refrigerator.n.01	have.v.02	paper.n.01	contain.v.05	bottle.n.01	contain.v.05	beer.n.01	lengthAverage	0.044068	weightAverage	0.079540
+person.n.01	sit.v.01	ramp.n.01	lean_on.v.01	bicycle.n.01	rest_on	backpack.n.01	hold.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.03	incorporate.v.02	laptop.n.01	rest_on	table.n.03	use.v.01	computer.n.01	sit_on	chair.n.01
+person.n.01	exit.v.01	airplane.n.01	carry.v.02	baggage.n.01	walk.v.09	ramp.n.01	hold.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	giraffe.n.01	pet.v.01	giraffe.n.01	feed.v.06	giraffe.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+mouse.n.04	attach_to.v.01	laptop.n.01	use.v.01	computer.n.01	operate.v.03	laptop.n.01	rest_on	desk.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	dress.v.15	dog.n.01	attach_to.v.01	necktie.n.01	wear.v.01	hat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	jab.v.01	person.n.01	use.v.01	baseball_bat.n.01	use.v.01	knife.n.01	play.v.01	sport.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+cat.n.01	stand.v.01	chair.n.01	inspect.v.01	bush.n.02	look.v.01	bird.n.01	rest_on	bowl.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+person.n.01	touch.v.01	spectacles.n.01	adjust.v.01	spectacles.n.01	hold.v.22	spectacles.n.01	clean.v.01	spectacles.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+road.n.01	have.v.01	car.n.01	drive_on	car.n.01	park.v.02	car.n.01	contain.v.05	car.n.01
+person.n.01	hold.v.02	knife.n.01	cut.v.04	apple.n.01	use.v.01	knife.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bed.n.01	have.v.02	bench.n.01	attach.v.03	bench.n.01	sit_on	bench.n.01	rest_on	bench.n.01	lengthAverage	0.050847	weightAverage	0.039520
+person.n.01	wash.v.01	bowl.n.01	use.v.01	faucet.n.01	wash.v.02	sink.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	ride.v.01	giraffe.n.01	taller_than	person.n.01	ride.v.01	horse.n.01	watch.v.03	giraffe.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.02	have.v.01	monitor.n.04	contain.v.05	computer.n.01	sit_on	desk.n.01
+person.n.01	carry.v.02	telephone.n.01	contain.v.05	bag.n.06	hold.v.02	hand.n.01	keep.v.01	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	horse.n.01	groom.v.03	horse.n.01	pet.v.01	horse.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	smell.v.02	broccoli.n.01	carry.v.02	bag.n.06	cook.v.01	broccoli.n.01	wear.v.01	shirt.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	walk.v.01	person.n.01	carry.v.02	bag.n.06	walk.v.09	street.n.03	follow.v.01	person.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	bench.n.01	carry.v.02	bench.n.01	move.v.02	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	plate.n.02	inspect.v.01	plate.n.04	use.v.01	plate.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+basket.n.01	have.v.01	ski.n.01	contain.v.05	ski.n.01	carry.v.26	ski.n.01	transport.v.02	ski.n.01	lengthAverage	0.000000	weightAverage	0.001001
+person.n.01	wear.v.02	watch.n.01	wear.v.01	shirt.n.01	wear.v.01	jacket.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+clock.n.01	against	sky.n.01	rest_on	tower.n.01	attach_to.v.01	building.n.01	align.v.01	tower.n.01	lengthAverage	0.000000	weightAverage	0.000700
+person.n.01	cook.v.01	hotdog.n.02	use.v.01	fork.n.01	use.v.01	stove.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	kite.n.03	fly.v.01	kite.n.03	carry.v.02	bag.n.06	play.v.03	kite.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	basket.n.01	contain.v.05	apple.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lean_on.v.01	car.n.01	hold.v.02	cell_phone	talk.v.01	person.n.01	watch.v.03	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	carry.v.02	jacket.n.01	carry.v.02	bag.n.06	board.v.01	airplane.n.01	contain.v.05	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	produce.v.02	pizza.n.01	cook.v.01	oven.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+trouser.n.01	touch.v.01	boat.n.01	board.v.01	boat.n.01	wear.v.01	trouser.n.01	sail.v.01	boat.n.01	lengthAverage	0.018644	weightAverage	0.000000
+table.n.02	hold.v.11	vase.n.01	sit_on	dining_table.n.01
+person.n.01	whirl.v.02	frisbee.n.01	play.v.01	sport.n.01	throw.v.01	hand.n.08	stand_on	grass.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	telephone.n.01	hold.v.02	telephone.n.01	use.v.01	telephone.n.01	rest_on	desk.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	street.n.01	carry.v.02	backpack.n.01	watch.v.03	car.n.01	stand_on	side.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+truck.n.01	have.v.01	basket.n.01	contain.v.05	apple.n.01	carry.v.02	baggage.n.01	load.v.01	banana.n.01	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	walk.v.09	motorcycle.n.01	push.v.01	motorcycle.n.01	lean_on.v.01	motorcycle.n.01	inspect.v.01	motorcycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	produce.v.02	vase.n.01	use.v.01	pot.n.04	paint.v.01	vase.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+paper.n.01	against	person.n.01	hold.v.02	paper.n.01	use.v.01	paper.n.01	stand.v.01	side.n.04	lengthAverage	0.000000	weightAverage	0.000000
+chair.n.01	have.v.01	clock.n.01	attach_to.v.01	chair.n.01	rest_on	table.n.03	contain.v.05	bag.n.06	lengthAverage	0.013559	weightAverage	0.005503
+person.n.01	walk.v.01	dog.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bottle.n.01	have.v.01	plant.n.02	contain.v.05	plant.n.02	fill.v.01	bottle.n.01	attach.v.02	bottle.n.01	lengthAverage	0.000000	weightAverage	0.000000
+car.n.01	against	sky.n.01	drive.v.02	airplane.n.01	park.v.02	building.n.01	legAmount	0.157895	lengthAverage	0.135593	weightAverage	1.000000
+shirt.n.01	have.v.02	necktie.n.01	wear.v.01	necktie.n.01	attach_to.v.01	shirt.n.01	dress.v.15	person.n.01	lengthAverage	0.005085	weightAverage	0.000000
+truck.n.01	have.v.02	bed.n.01	contain.v.05	baggage.n.01	transport.v.02	baggage.n.01	carry.v.02	bag.n.06	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	hold.v.02	scissors.n.01	use.v.01	knife.n.01	carry.v.02	bag.n.06	cut.v.04	paper.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+glass.n.02	have.v.01	plant.n.01	contain.v.05	beer.n.01	use.v.01	bottle.n.01	fill.v.01	bowl.n.01	lengthAverage	0.000000	weightAverage	0.000000
+spectacles.n.01	sit.v.07	face.n.01	wear.v.01	person.n.01	adjust.v.01	hand.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	hold.v.02	jacket.n.01	sit_on	bench.n.01	wear.v.01	hat.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	helmet.n.01	wear.v.01	helmet.n.01	carry.v.02	bag.n.06	ride.v.02	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bicycle.n.01	park.v.01	table.n.02	against	bench.n.01	lean_on.v.01	side.n.04	rest_on	road.n.01	lengthAverage	0.040678	weightAverage	0.009505
+giraffe.n.01	touch.v.01	street.n.01	stand_on	road.n.01	walk.v.09	side.n.04	lean_on.v.01	building.n.01	legAmount	0.157895	lengthAverage	0.169492	lifespan	0.120603	weightAverage	1.000000
+sink.n.01	have.v.01	cup.n.01	wash.v.02	cup.n.01	fill.v.01	cup.n.01
+counter.n.01	have.v.01	basket.n.01	contain.v.05	apple.n.01	attach_to.v.01	chair.n.01	rest_on	table.n.03	lengthAverage	0.050847	weightAverage	0.029515
+person.n.01	ride.v.10	surfboard.n.01	use.v.01	bicycle.n.01	wear.v.01	shirt.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+train.n.01	have.v.02	roof.n.01	contain.v.05	baggage.n.01	lengthAverage	1.000000	weightAverage	1.000000
+person.n.01	have.v.01	coat.n.01	wear.v.01	shirt.n.01	carry.v.02	bag.n.06	use.v.01	umbrella.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stop.v.01	stop_sign	drive.v.01	car.n.01	walk.v.09	person.n.01	stop.v.01	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	chase.v.01	bird.n.01	carry.v.02	backpack.n.01	run.v.01	street.n.03	watch.v.03	admonisher.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	play.v.05	ball.n.01	dribble.v.03	ball.n.01	kick.v.01	ball.n.01	catch.v.04	ball.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	row.v.01	boat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.01	hold.v.10	laptop.n.01	rest_on	desk.n.01	contain.v.05	bag.n.06	align.v.01	monitor.n.04	lengthAverage	0.033898	weightAverage	0.019510
+road.n.01	have.v.01	motorcycle.n.01	accommodate.v.04	motorcycle.n.01	drive_on	motorcycle.n.01	park.v.02	motorcycle.n.01
+table.n.02	have.v.01	camera.n.01	rest_on	table.n.03	contain.v.05	camera.n.01	sit_on	table.n.03
+cart.n.01	hold.v.11	baggage.n.01	transport.v.02	baggage.n.01	carry.v.02	bag.n.06	load.v.01	baggage.n.01	legAmount	0.052632	lengthAverage	0.023729	weightAverage	0.149575
+person.n.01	pick.v.01	banana.n.01	pick_up.v.02	basket.n.01	carry.v.02	bag.n.06	eat.v.02	banana.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	vase.n.01	carry.v.02	basket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	skateboard.n.01	stand_on	skateboard.n.01	own.v.01	skateboard.n.01	play.v.01	skateboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wash.v.02	sheep.n.01	stand_on	grass.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+building.n.01	taller_than	shrub.n.01	accommodate.v.04	person.n.01	lengthAverage	0.322034	weightAverage	1.000000
+chair.n.01	have.v.01	pillow.n.01	sit_on	chair.n.01	rest_on	pillow.n.01	contain.v.05	pillow.n.01	lengthAverage	0.013559	weightAverage	0.005503
+person.n.01	inspect.v.01	necktie.n.01	buy.v.01	necktie.n.01	adjust.v.01	necktie.n.01	wear.v.01	necktie.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	swing.v.01	baseball_bat.n.01	swing.v.01	sports_ball	swing.v.01	baseball_glove.n.01	swing.v.01	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+hand.n.01	have.v.01	telephone.n.01	hold.v.02	cell_phone	use.v.01	telephone.n.01	operate.v.03	cellular_telephone.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	embrace.v.02	cat.n.01	sit_on	sofa.n.01	wear.v.01	shirt.n.01	rest_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+elephant.n.01	transport.v.02	person.n.01	carry.v.02	person.n.01	ride.v.01	elephant.n.01	sit_on	elephant.n.01	legAmount	0.157895	lengthAverage	0.203390	lifespan	0.296482	weightAverage	1.000000
+wheel.n.01	touch.v.01	street.n.02	drive_on	car.n.01	ride.v.02	bicycle.n.01	drive_on	bus.n.01	lengthAverage	0.003390	weightAverage	0.009505
+table.n.01	have.v.01	can.n.01	contain.v.05	can.n.01	lengthAverage	0.033898	weightAverage	0.019510
+person.n.01	use.v.01	mouse.n.04	attach_to.v.01	computer.n.01	sit_on	desk.n.01	operate.v.03	monitor.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	search.v.02	bus.n.01	board.v.01	bus.n.01	inspect.v.01	bus.n.01	lean_on.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pull.v.01	baggage.n.01	attach_to.v.01	cart.n.01	move.v.02	road.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+desk.n.01	have.v.01	telephone.n.01	contain.v.05	cell_phone	sit_on	chair.n.01	accommodate.v.04	person.n.01	lengthAverage	0.023729	weightAverage	0.019510
+person.n.01	pick_up.v.01	sport.n.01	pick_up.v.02	sports_ball	pick_up.v.02	tennis_racket.n.01	pick_up.v.02	baseball_bat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+shoe.n.01	touch.v.01	skateboard.n.01	wear.v.01	person.n.01	stand_on	skateboard.n.01	ride.v.02	skateboard.n.01	lengthAverage	0.000000	weightAverage	0.000000
+chair.n.01	have.v.01	cat.n.01	sit_on	chair.n.01	rest_on	chair.n.01	contain.v.05	cat.n.01	lengthAverage	0.013559	weightAverage	0.005503
+person.n.01	toast.v.02	glass.n.02	contain.v.05	wine.n.01	contain.v.05	beer.n.01	sit_on	dining_table.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	transport.v.02	cart.n.01	pull.v.01	horse.n.01	attach.v.02	handcart.n.01	push.v.01	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+monitor.n.04	sit.v.01	table.n.02	rest_on	desk.n.01	contain.v.05	computer.n.01	accommodate.v.04	keyboard.n.01	lengthAverage	0.000000	weightAverage	0.004502
+cat.n.01	sit.v.01	sink.n.01	rest_on	counter.n.01	sit_on	sink.n.01	stand_on	sink.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+box.n.01	have.v.01	clock.n.01	contain.v.05	clock.n.01	transport.v.02	baggage.n.01	lengthAverage	0.000000	weightAverage	0.000500
+person.n.01	wear.v.02	ski.n.01	use.v.01	mountain.n.01	carry.v.02	backpack.n.01	stand_on	snowboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	cat.n.01	pet.v.01	cat.n.01	feed.v.02	cat.n.01	sit_on	sofa.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	umbrella.n.01	carry.v.02	bag.n.06	wear.v.01	coat.n.01	walk.v.09	street.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pet.v.01	sheep.n.01	sit_on	bench.n.01	watch.v.03	person.n.01	keep.v.01	bush.n.02	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stand_on	table.n.01	inspect.v.01	computer.n.01	use.v.01	laptop.n.01	manipulate.v.05	monitor.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pet.v.01	bird.n.01	sit.v.01	bench.n.01	own.v.01	bird.n.01	watch.v.03	sky.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	exit.v.01	boat.n.01	carry.v.02	backpack.n.01	walk.v.09	road.n.01	hold.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	sit.v.01	bench.n.01	rest_on	bench.n.01	watch.v.03	person.n.01	own.v.01	person.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	sit.v.01	chair.n.01	sit_on	bench.n.01	sit_on	sofa.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	ride.v.02	car.n.01	drive.v.02	person.n.01	own.v.01	car.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+umbrella.n.01	cover.v.01	table.n.03	lengthAverage	0.010169	weightAverage	0.000000
+person.n.01	stand.v.01	grass.n.01	hold.v.02	umbrella.n.01	watch.v.03	dog.n.01	talk.v.01	cell_phone	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	transport.v.02	bag.n.01	carry.v.02	backpack.n.01	load.v.01	car.n.01	board.v.01	bus.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	inspect.v.01	oven.n.01	use.v.01	oven.n.01	clean.v.01	oven.n.01	repair.v.01	oven.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	lean_on.v.01	person.n.01	sit_on	bench.n.01	rest_on	grass.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	touch.v.01	hat.n.01	wear.v.01	hat.n.01	carry.v.02	bag.n.06	stand.v.01	street.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.02	have.v.01	chair.n.01	sit.v.01	chair.n.01	rest_on	chair.n.01	align.v.01	chair.n.01
+person.n.01	wash.v.01	knife.n.01	wash.v.02	sink.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+building.n.01	have.v.01	tower.n.01	attach_to.v.01	building.n.01	taller_than	building.n.01	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	drive.v.01	truck.n.01	carry.v.02	baggage.n.01	drive_on	road.n.01	park.v.02	building.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+telephone.n.01	have.v.02	camera.n.01	contain.v.05	cell_phone	incorporate.v.02	computer.n.01	attach_to.v.01	cellular_telephone.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	carry.v.02	kite.n.03	contain.v.05	backpack.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	lean.v.02	building.n.01	park.v.01	side.n.04	lean_on.v.01	post.n.04	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+post.n.01	have.v.01	clock.n.01	inspect.v.01	person.n.01
+person.n.01	wield.v.02	knife.n.01	cut.v.04	apple.n.01	use.v.01	backpack.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+truck.n.01	park.v.01	street.n.01	load.v.01	baggage.n.01	align.v.01	building.n.01	obstruct.v.01	traffic_light.n.01	lengthAverage	0.322034	weightAverage	1.000000
+bus.n.01	drive.v.01	road.n.01	stop.v.01	traffic_light.n.01	board.v.01	person.n.01	drive_on	street.n.02	legAmount	0.263158	lengthAverage	0.389831	weightAverage	1.000000
+person.n.01	have.v.01	bottle.n.01	drink.v.01	beer.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	eat.v.01	broccoli.n.01	use.v.01	fork.n.01	contain.v.05	bowl.n.01	sit_on	chair.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	surfboard.n.01	carry.v.02	bag.n.06	own.v.01	baggage.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	clean.v.01	toilet.n.01	inspect.v.01	toilet.n.01	wash.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	audit.v.01	airplane.n.01	use.v.01	computer.n.01	inspect.v.01	engine.n.01	board.v.01	airplane.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	inspect.v.01	surfboard.n.01	buy.v.01	surfboard.n.01	repair.v.01	surfboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+pot.n.04	hold.v.11	plant.n.01	contain.v.05	bottle.n.01	contain.v.05	box.n.01	contain.v.05	can.n.01	lengthAverage	0.000000	weightAverage	0.002501
+person.n.01	drive.v.01	motorcycle.n.01	wear.v.01	helmet.n.01	drive_on	road.n.01	park.v.02	motorcycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+oven.n.01	have.v.01	clock.n.01	contain.v.05	clock.n.01	install.v.01	clock.n.01	operate.v.03	clock.n.01	lengthAverage	0.006780	weightAverage	0.039520
+person.n.01	look.v.01	surfboard.n.01	inspect.v.01	surfboard.n.01	stand.v.01	surfboard.n.01	buy.v.01	surfboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	keep.v.01	hand_blower.n.01	use.v.01	hand.n.01	operate.v.03	manner.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wash.v.01	boat.n.01	wash.v.02	hand.n.01	wash.v.02	sink.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	mountain.n.01	sit.v.01	bench.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bag.n.01	sit.v.07	street.n.01	contain.v.05	bottle.n.01	lean_on.v.01	bench.n.01	lengthAverage	0.000000	weightAverage	0.000000
+person.n.01	restrain.v.03	airplane.n.01	operate.v.03	engine.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	repair.v.01	truck.n.01	inspect.v.01	engine.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+basket.n.01	have.v.01	beer.n.01	contain.v.05	beer.n.01	carry.v.02	bag.n.06	transport.v.02	basket.n.01	lengthAverage	0.000000	weightAverage	0.001001
+cart.n.01	transport.v.02	baggage.n.01	load.v.01	baggage.n.01	pull.v.01	horse.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.023729	weightAverage	0.149575
+person.n.01	open.v.01	microwave.n.01	use.v.01	microwave.n.01	contain.v.05	pizza.n.01	operate.v.03	oven.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pet.v.01	cow.n.01	feed.v.02	cow.n.01	groom.v.03	cow.n.01	stand.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	cow.n.01	milk.v.01	cow.n.01	feed.v.02	cow.n.01	own.v.01	cow.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	inspect.v.01	bag.n.04	inspect.v.01	baggage.n.01	contain.v.05	apple.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	bag.n.06	carry.v.02	backpack.n.01	walk.v.09	road.n.01	stand_on	bus.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	own.v.01	telephone.n.01	use.v.01	cell_phone	own.v.01	cellular_telephone.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lie.v.01	table.n.02	rest_on	bench.n.01	sit_on	chair.n.01	lean_on.v.01	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+truck.n.01	park.v.01	road.n.01	drive_on	road.n.01	stand_on	road.n.01	contain.v.05	baggage.n.01	lengthAverage	0.322034	weightAverage	1.000000
+horse.n.01	have.v.01	hat.n.01	wear.v.01	person.n.01	carry.v.02	person.n.01	dress.v.15	person.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+person.n.01	stand.v.01	surfboard.n.01	ride.v.01	surfboard.n.01	wear.v.01	jacket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.01	have.v.01	bottle.n.01	contain.v.05	bottle.n.01	rest_on	table.n.03	hold.v.02	bottle.n.01	lengthAverage	0.033898	weightAverage	0.019510
+person.n.01	wash.v.01	toothbrush.n.01	wash.v.02	sink.n.01	wash.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+car.n.01	drive.v.01	street.n.01	carry.v.02	baggage.n.01	drive_on	road.n.01	steer.v.01	wheel.n.01	legAmount	0.157895	lengthAverage	0.135593	weightAverage	1.000000
+person.n.01	paint.v.01	fireplug.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	steer.v.01	bus.n.01	drive.v.01	car.n.01	operate.v.03	engine.n.01	board.v.01	bus.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+horse.n.01	look.v.01	street.n.01	stand_on	side.n.04	face.v.05	building.n.01	watch.v.03	car.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+person.n.01	touch.v.05	street.n.01	rest_on	hand.n.01	carry.v.02	bag.n.06	use.v.01	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	ride.v.02	truck.n.01	drive.v.02	person.n.01	carry.v.02	baggage.n.01	park.v.02	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bear.n.01	against	pillow.n.01	rest_on	pillow.n.01	sleep_on	bed.n.01	lie.v.02	sofa.n.01	legAmount	0.157895	lengthAverage	0.067797	lifespan	0.120603	weightAverage	0.299650
+person.n.01	look.v.01	train.n.01	hold.v.02	camera.n.01	wear.v.01	sunglasses.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bench.n.01	have.v.01	dog.n.01	sit_on	bench.n.01	rest_on	bench.n.01	lengthAverage	0.033898	weightAverage	0.024512
+person.n.01	jump.v.11	ski.n.01	use.v.01	ski.n.01	hold.v.02	ski.n.01	stand_on	snowboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lean_on.v.01	sofa.n.01	have.v.02	book.n.01	sit.v.01	chair.n.01	watch.v.03	television.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	play.v.01	laptop.n.01	sit_on	chair.n.01	use.v.01	keyboard.n.01	watch.v.03	monitor.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	keep.v.01	bowl.n.01	clean.v.01	bowl.n.01	contain.v.05	apple.n.01	own.v.01	bowl.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	fly.v.01	kite.n.01	inspect.v.01	paper.n.01	check.v.02	bag.n.06	launch.v.03	airplane.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	spectacles.n.01	wear.v.01	spectacles.n.01	adjust.v.01	spectacles.n.01	read.v.01	book.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	repair.v.01	toilet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	ride.v.01	motorcycle.n.01	accommodate.v.04	person.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	walk.v.01	street.n.01	carry.v.02	backpack.n.01	wear.v.01	coat.n.01	walk.v.09	dog.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	carry.v.02	basket.n.01	contain.v.05	apple.n.01	contain.v.05	banana.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	drive.v.01	car.n.01	drive_on	road.n.01	wear.v.01	helmet.n.01	carry.v.02	baggage.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+shrub.n.01	touch.v.01	bench.n.01	against	side.n.04	align.v.01	road.n.01
+person.n.01	stick.v.13	fork.n.01	stick.v.13	apple.n.01	stick.v.13	cake.n.03	stick.v.13	hotdog.n.02	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bag.n.06	hold.v.11	shirt.n.01	pack.v.01	baggage.n.01	carry.v.02	backpack.n.01	contain.v.05	jacket.n.01	lengthAverage	0.003390	weightAverage	0.002501
+person.n.01	check.v.02	clock.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+boat.n.01	have.v.01	ball.n.01	contain.v.05	ball.n.01	carry.v.02	ball.n.01	legAmount	0.000000	lengthAverage	0.152542	weightAverage	0.299650
+desk.n.01	have.v.01	monitor.n.04	contain.v.05	keyboard.n.01	hold.v.02	computer.n.01	lengthAverage	0.023729	weightAverage	0.019510
+monitor.n.04	have.v.02	clock.n.01	contain.v.05	clock.n.01	attach.v.02	computer.n.01	sit_on	desk.n.01	lengthAverage	0.000000	weightAverage	0.004502
+truck.n.01	park.v.01	grass.n.01	rest_on	side.n.04	obstruct.v.01	road.n.01	lengthAverage	0.322034	weightAverage	1.000000
+boat.n.01	follow.v.01	boat.n.01	race.v.02	boat.n.01	legAmount	0.000000	lengthAverage	0.152542	weightAverage	0.299650
+person.n.01	keep.v.01	stop_sign	inspect.v.01	stop_sign	stand.v.01	street.n.01	direct.v.01	traffic_light.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+sofa.n.01	hold.v.10	person.n.01	sit_on	sofa.n.01	rest_on	sofa.n.01	lie.v.02	sofa.n.01	lengthAverage	0.050847	weightAverage	0.039520
+person.n.01	transport.v.02	chair.n.01	carry.v.02	bag.n.06	load.v.01	car.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+stove.n.01	have.v.01	laptop.n.01	contain.v.05	bag.n.06	rest_on	counter.n.01	sit_on	table.n.03	lengthAverage	0.013559	weightAverage	0.134567
+person.n.01	hold.v.02	zebra.n.01	hold.v.02	teddy.n.01	play.v.01	zebra.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	transport.v.02	umbrella.n.01	carry.v.02	hand.n.01	use.v.01	umbrella.n.01	walk.v.09	street.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit.v.01	table.n.02	sit_on	chair.n.01	read.v.01	book.n.01	eat.v.02	apple.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+trouser.n.01	touch.v.01	desk.n.01	rest_on	desk.n.01	wear.v.01	person.n.01	lean_on.v.01	desk.n.01	lengthAverage	0.018644	weightAverage	0.000000
+person.n.01	catch.v.04	ball.n.01	use.v.01	baseball_glove.n.01	play.v.01	sport.n.01	catch.v.04	sports_ball	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+truck.n.01	have.v.01	ramp.n.01	attach.v.03	ramp.n.01	use.v.01	bicycle.n.01	load.v.01	baggage.n.01	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	have.v.01	ball.n.01	play.v.01	sports_ball	carry.v.02	bag.n.06	kick.v.01	ball.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+street.n.01	touch.v.05	ashcan.n.01	rest_on	road.n.01	stand_on	side.n.04
+person.n.01	touch.v.01	bench.n.01	sit_on	bench.n.01	inspect.v.01	bench.n.01	clean.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	telephone.n.01	use.v.01	cellular_telephone.n.01	inspect.v.01	telephone.n.01	pick_up.v.02	cell_phone	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	against	person.n.01	confront.v.01	sport.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wear.v.01	helmet.n.01	ride.v.02	bicycle.n.01	board.v.01	motorcycle.n.01	play.v.01	sport.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lean_on.v.01	chair.n.01	sit_on	bench.n.01	hold.v.02	backpack.n.01	rest.v.01	desk.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+tree.n.01	tall.a.01	shrub.n.01	rest_on	mountain.n.01	contain.v.05	bird.n.01	face.v.05	building.n.01	lengthAverage	1.000000	lifespan	0.497487
+person.n.01	discipline.v.01	horse.n.01	ride.v.01	horse.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	use.v.01	skateboard.n.01	ride.v.10	ramp.n.01	carry.v.02	backpack.n.01	skate.v.01	street.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	cut.v.04	pizza.n.01	use.v.01	knife.n.01	cut.v.04	table.n.03	sit.v.01	chair.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stand.v.01	ramp.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit.v.01	sofa.n.01	read.v.01	book.n.01	watch.v.03	television.n.01	rest_on	pillow.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	eat.v.01	doughnut.n.02	sit.v.01	bench.n.01	hold.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+ashcan.n.01	have.v.02	bag.n.01	install.v.01	bag.n.06	use.v.01	bag.n.06	lengthAverage	0.003390	weightAverage	0.004502
+kite.n.03	fly.v.01	person.n.01	against	sky.n.01	lengthAverage	0.003390	weightAverage	0.000000
+person.n.01	pet.v.01	giraffe.n.01	stand_on	bench.n.01	feed.v.06	giraffe.n.01	watch.v.03	person.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+truck.n.01	have.v.01	boat.n.01	transport.v.02	boat.n.01	carry.v.02	boat.n.01	own.v.01	boat.n.01	lengthAverage	0.322034	weightAverage	1.000000
+pizza.n.01	sit.v.02	plate.n.04	serve.v.06	person.n.01	eat.v.02	person.n.01	contain.v.05	bowl.n.01	lengthAverage	0.000000	weightAverage	0.000000
+dog.n.01	ride.v.01	horse.n.01	accommodate.v.04	person.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	push.v.01	bicycle.n.01	carry.v.02	backpack.n.01	against	ramp.n.01	walk.v.09	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	watch.v.01	kite.n.03	fly.v.01	kite.n.03	stand.v.01	grass.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	jump.v.01	boat.n.01	carry.v.02	backpack.n.01	hop_on.v.01	boat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wash.v.01	apple.n.01	hold.v.02	apple.n.01	use.v.01	sink.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	drag.v.01	bag.n.06	drag.v.01	baggage.n.01	carry.v.02	backpack.n.01	use.v.01	handcart.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+shirt.n.01	cover.v.01	person.n.01	wear.v.01	jacket.n.01	dress.v.15	person.n.01	lengthAverage	0.005085	weightAverage	0.000000
+person.n.01	install.v.01	traffic_light.n.01	install.v.01	road.n.01	install.v.01	street.n.01	install.v.01	building.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	bear.n.01	pet.v.01	bear.n.01	have.v.02	backpack.n.01	stand.v.01	side.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+shelf.n.01	have.v.01	glass.n.02	contain.v.05	wine.n.01	rest_on	cup.n.01	hold.v.02	bottle.n.01	lengthAverage	0.023729	weightAverage	0.004502
+person.n.01	ride.v.10	snowboard.n.01	stand_on	snowboard.n.01	ride.v.10	mountain.n.01	wear.v.01	jacket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	put.v.01	umbrella.n.01	contain.v.05	bag.n.06	align.v.01	umbrella.n.01	rest_on	shelf.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	snowboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+roof.n.01	cover.v.01	tower.n.01	attach_to.v.01	building.n.01	taller_than	building.n.01
+umbrella.n.01	cover.v.01	handcart.n.01	attach_to.v.01	hand.n.01	use.v.01	person.n.01	contain.v.05	baggage.n.01	lengthAverage	0.010169	weightAverage	0.000000
+person.n.01	ride.v.02	baggage.n.01	ride.v.02	airplane.n.01	contain.v.05	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	own.v.01	bear.n.01	contain.v.05	teddy.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wear.v.02	spectacles.n.01	read.v.01	book.n.01	sit_on	bench.n.01	look.v.01	computer.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+dog.n.01	ride.v.02	boat.n.01	sit_on	bench.n.01	watch.v.03	person.n.01	rest_on	baggage.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	walk.v.01	tree.n.01	carry.v.02	bag.n.06	walk.v.09	dog.n.01	wear.v.01	jacket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	load.v.01	horse.n.01	own.v.01	horse.n.01	transport.v.02	baggage.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	feed.v.02	giraffe.n.01	contain.v.05	basket.n.01	feed.v.02	apple.n.01	hold.v.02	bottle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	embrace.v.02	elephant.n.01	stand_on	grass.n.01	carry.v.02	backpack.n.01	have.v.02	manner.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	ski.n.01	use.v.01	ski.n.01	stand_on	snowboard.n.01	wear.v.01	jacket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+sofa.n.01	have.v.01	pillow.n.01	rest_on	sofa.n.01	contain.v.05	pillow.n.01	sit_on	sofa.n.01	lengthAverage	0.050847	weightAverage	0.039520
+cat.n.01	sleep.v.01	shelf.n.01	rest_on	pillow.n.01	sit_on	book.n.01	contain.v.05	bowl.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+dog.n.01	pull.v.01	horse.n.01	use.v.01	cart.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	play.v.05	skateboard.n.01	ride.v.10	ramp.n.01	stand_on	side.n.04	move.v.02	street.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+jacket.n.01	cover.v.01	person.n.01	wear.v.01	shirt.n.01	carry.v.02	backpack.n.01	stand_on	street.n.01	lengthAverage	0.006780	weightAverage	0.000500
+person.n.01	smell.v.01	carrot.n.01	hold.v.02	carrot.n.01	put.v.01	bowl.n.01	eat.v.02	carrot.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+boat.n.01	have.v.02	roof.n.01	cover.v.02	boat.n.01	contain.v.05	baggage.n.01	legAmount	0.000000	lengthAverage	0.152542	weightAverage	0.299650
+person.n.01	raise.v.02	fork.n.01	use.v.01	fork.n.01	eat.v.02	apple.n.01	sit.v.01	dining_table.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+horse.n.01	have.v.01	person.n.01	ride.v.01	horse.n.01	groom.v.03	horse.n.01	feed.v.06	horse.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+person.n.01	adjust.v.01	ski.n.01	inspect.v.01	ski.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	necktie.n.01	wear.v.01	shirt.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.01	have.v.01	bowl.n.01	contain.v.05	apple.n.01	rest_on	counter.n.01	fill.v.01	bowl.n.01	lengthAverage	0.033898	weightAverage	0.019510
+coat.n.01	cover.v.01	person.n.01	wear.v.01	shirt.n.01	use.v.01	umbrella.n.01	carry.v.02	backpack.n.01	lengthAverage	0.013559	weightAverage	0.000300
+person.n.01	talk.v.01	telephone.n.01	use.v.01	cell_phone	talk.v.01	person.n.01	hold.v.02	telephone.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	ride.v.02	street.n.01	ride.v.02	bicycle.n.01	drive.v.01	car.n.01	board.v.01	bus.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stand.v.01	sofa.n.01	lean_on.v.01	sofa.n.01	watch.v.03	television.n.01	hold.v.02	book.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	pillow.n.01	carry.v.02	baggage.n.01	sit_on	sofa.n.01	sleep_on	bed.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lean_on.v.01	hand.n.01	lean_on.v.01	table.n.03	lean_on.v.01	counter.n.01	lean_on.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stand.v.01	motorcycle.n.01	stand_on	motorcycle.n.01	lean_on.v.01	motorcycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit.v.01	grass.n.01	read.v.01	book.n.01	use.v.01	laptop.n.01	rest_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	watch.v.01	boat.n.01	sit_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wear.v.01	cone.n.01	carry.v.02	bag.n.06	play.v.01	sport.n.01	use.v.01	hat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	walk.v.01	car.n.01	against	road.n.01	carry.v.02	backpack.n.01	walk.v.09	dog.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+bus.n.01	have.v.01	cat.n.01	contain.v.05	cat.n.01	transport.v.02	cat.n.01	carry.v.02	cat.n.01	legAmount	0.263158	lengthAverage	0.389831	weightAverage	1.000000
+person.n.01	sit.v.01	skateboard.n.01	lean_on.v.01	bench.n.01	use.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	feed.v.02	cow.n.01	use.v.01	bowl.n.01	contain.v.05	apple.n.01	sit_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+grass.n.01	get.v.03	grass.n.01	contain.v.05	cow.n.01	feed.v.01	sheep.n.01	lengthAverage	0.000000	lifespan	0.000000
+person.n.01	hold.v.02	chair.n.01	carry.v.02	chair.n.01	move.v.02	chair.n.01	sit_on	chair.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+street.n.01	have.v.02	bench.n.01	rest_on	side.n.04	align.v.01	building.n.01	contain.v.05	bush.n.02
+person.n.01	look.v.01	cat.n.01	sit_on	bench.n.01	hold.v.02	camera.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	open.v.01	fireplug.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	have.v.01	wheel.n.01	attach_to.v.01	motorcycle.n.01	drive_on	road.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+kite.n.03	fly.v.01	sky.n.01	launch.v.03	person.n.01	watch.v.03	person.n.01	lengthAverage	0.003390	weightAverage	0.000000
+person.n.01	flip.v.05	skateboard.n.01	wear.v.01	helmet.n.01	stand_on	ramp.n.01	use.v.01	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+car.n.01	have.v.01	surfboard.n.01	transport.v.02	surfboard.n.01	contain.v.05	surfboard.n.01	carry.v.26	surfboard.n.01	legAmount	0.157895	lengthAverage	0.135593	weightAverage	1.000000
+person.n.01	hold.v.02	bicycle.n.01	lean_on.v.01	side.n.04	stand_on	road.n.01	ride.v.02	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+jean.n.01	lie.v.01	motorcycle.n.01	contain.v.05	bag.n.06	attach_to.v.01	motorcycle.n.01	lengthAverage	0.016949	weightAverage	0.000300
+person.n.01	ride.v.10	motorcycle.n.01	board.v.01	helmet.n.01	ride.v.02	road.n.01	wear.v.01	jacket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	cone.n.01	inspect.v.01	cone.n.01	stand.v.01	street.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	open.v.01	bottle.n.01	drink.v.01	beer.n.01	sit.v.01	bench.n.01	contain.v.05	wine.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	hydrant.n.02	inspect.v.01	hydrant.n.02	use.v.01	hydrant.n.02	lean.v.02	hydrant.n.02	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	inspect.v.01	kite.n.03	fly.v.01	sky.n.01	hold.v.02	hand.n.01	use.v.01	kite.n.03	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	oven.n.01	carry.v.02	oven.n.01	use.v.01	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+horse.n.01	stand.v.01	grass.n.01	groom.v.03	horse.n.01	eat.v.02	grass.n.01	legAmount	0.157895	lengthAverage	0.064407	lifespan	0.145729	weightAverage	0.499750
+person.n.01	lick.v.02	knife.n.01	inspect.v.01	knife.n.01	clean.v.01	knife.n.01	use.v.01	knife.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	car.n.01	drive.v.01	car.n.01	inspect.v.01	car.n.01	stand_on	street.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	jacket.n.01	contain.v.05	bag.n.06	wear.v.01	person.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+cat.n.01	look.v.01	monitor.n.04	sit_on	desk.n.01	rest_on	sofa.n.01	watch.v.03	television.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+airplane.n.01	tall.a.01	truck.n.01	taller_than	building.n.01	rest_on	road.n.01	contain.v.05	baggage.n.01	legAmount	0.263158	lengthAverage	1.000000	weightAverage	1.000000
+person.n.01	have.v.01	camera.n.01	carry.v.02	bag.n.06	use.v.01	camera.n.01	own.v.01	camera.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+building.n.01	touch.v.01	street.n.01	against	traffic_light.n.01	align.v.01	side.n.04	contain.v.05	bush.n.02	lengthAverage	0.322034	weightAverage	1.000000
+laptop.n.01	have.v.01	keyboard.n.01	use.v.01	person.n.01	contain.v.05	computer.n.01	type.v.01	person.n.01	lengthAverage	0.000000	weightAverage	0.001501
+person.n.01	stand.v.01	skateboard.n.01	stand_on	ramp.n.01	hold.v.02	bag.n.06	wear.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wash.v.01	orange.n.01	contain.v.05	basket.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+truck.n.01	pull.v.01	boat.n.01	drive_on	road.n.01	lengthAverage	0.322034	weightAverage	1.000000
+person.n.01	turn.v.01	motorcycle.n.01	ride.v.02	motorcycle.n.01	steer.v.01	motorcycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	drive.v.01	van.n.05	load.v.01	baggage.n.01	drive_on	road.n.01	contain.v.05	box.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+car.n.01	park.v.02	sand.n.01	rest_on	sand.n.01	drive.v.01	car.n.01	contain.v.05	sand.n.01	legAmount	0.157895	lengthAverage	0.135593	weightAverage	1.000000
+person.n.01	race.v.02	motorcycle.n.01	wear.v.01	helmet.n.01	ride.v.02	motorcycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	transport.v.02	ski.n.01	carry.v.02	backpack.n.01	wear.v.01	jacket.n.01	hold.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	grind.v.07	snowboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	look.v.01	pizza.n.01	sit.v.01	chair.n.01	rest_on	table.n.03	hold.v.02	plate.n.04	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	produce.v.02	hotdog.n.02	cook.v.01	stove.n.01	use.v.01	knife.n.01	contain.v.05	bowl.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+chair.n.01	touch.v.01	table.n.02	align.v.01	dining_table.n.01	lengthAverage	0.013559	weightAverage	0.005503
+sink.n.01	have.v.01	faucet.n.01	attach_to.v.01	counter.n.01	use.v.01	hand.n.01
+dog.n.01	stand.v.01	boat.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+post.n.04	have.v.01	lamp.n.02	attach_to.v.01	post.n.01	install.v.01	lamp.n.02	rest_on	post.n.01
+person.n.01	send.v.01	airplane.n.01	launch.v.03	airplane.n.01	board.v.01	person.n.01	operate.v.03	airplane.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	snog.v.01	person.n.01	sit_on	bench.n.01	hold.v.02	hand.n.01	greet.v.01	person.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	dry.v.01	cat.n.01	use.v.01	hand_blower.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+table.n.02	transport.v.02	vase.n.01	carry.v.02	person.n.01	rest_on	handcart.n.01	move.v.02	hand.n.01
+umbrella.n.01	cover.v.02	person.n.01	use.v.01	hand.n.01	stand.v.01	street.n.01	wear.v.01	jacket.n.01	lengthAverage	0.010169	weightAverage	0.000000
+person.n.01	hold.v.02	broccoli.n.01	cook.v.01	broccoli.n.01	buy.v.01	broccoli.n.01	eat.v.01	broccoli.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	jump.v.01	bicycle.n.01	ride.v.02	bicycle.n.01	wear.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit.v.01	dining_table.n.01	eat.v.02	apple.n.01	drink.v.01	wine.n.01	rest_on	chair.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit.v.01	person.n.01	sit_on	bench.n.01	sit_on	chair.n.01	sit_on	sofa.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	discipline.v.01	dog.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+boat.n.01	have.v.01	person.n.01	sail.v.01	boat.n.01	own.v.01	boat.n.01	ride.v.02	boat.n.01	legAmount	0.000000	lengthAverage	0.152542	weightAverage	0.299650
+person.n.01	eat.v.01	pizza.n.01	sit_on	bench.n.01	hold.v.02	bottle.n.01	use.v.01	fork.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	unfold.v.04	scissors.n.01	use.v.01	paper.n.01	cut.v.04	paper.n.01	hold.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	transport.v.02	cake.n.03	carry.v.02	bag.n.06	ride.v.02	bicycle.n.01	hold.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+tree.n.01	cover.v.01	person.n.01	contain.v.05	baggage.n.01	rest.v.01	bench.n.01	lengthAverage	1.000000	lifespan	0.497487
+person.n.01	eat.v.01	banana.n.01	sit_on	bench.n.01	hold.v.02	bowl.n.01	use.v.01	fork.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hop_on.v.01	horse.n.01	carry.v.02	backpack.n.01	wear.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	inspect.v.01	backpack.n.01	inspect.v.01	baggage.n.01	against	airplane.n.01	check.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+shelf.n.01	have.v.01	cabinet.n.01	attach_to.v.01	cabinet.n.01	contain.v.05	book.n.01	rest_on	counter.n.01	lengthAverage	0.023729	weightAverage	0.004502
+person.n.01	look.v.01	kite.n.03	fly.v.01	kite.n.03	watch.v.03	sky.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+cat.n.01	sit.v.01	bench.n.01	rest_on	bench.n.01	sit_on	backpack.n.01	watch.v.03	bird.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+chair.n.01	against	counter.n.01	sit_on	person.n.01	rest_on	bag.n.06	lean_on.v.01	backpack.n.01	lengthAverage	0.013559	weightAverage	0.005503
+person.n.01	hold.v.02	apple.n.01	eat.v.02	apple.n.01	pick_up.v.02	apple.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	carry.v.02	snowboard.n.01	transport.v.02	bus.n.01	carry.v.02	backpack.n.01	ride.v.10	mountain.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	drive.v.01	boat.n.01	sail.v.01	boat.n.01	steer.v.01	boat.n.01	ride.v.02	boat.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+cat.n.01	have.v.01	hat.n.01	wear.v.01	hat.n.01	carry.v.26	hat.n.01	play.v.03	hat.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+person.n.01	have.v.01	short_pants.n.01	wear.v.01	short_pants.n.01	carry.v.02	backpack.n.01	ride.v.02	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+truck.n.01	have.v.01	cone.n.01	transport.v.02	cone.n.01	attach_to.v.01	cone.n.01	carry.v.02	cone.n.01	lengthAverage	0.322034	weightAverage	1.000000
+bus.n.01	transport.v.02	person.n.01	contain.v.05	baggage.n.01	board.v.01	bus.n.01	sit.v.01	chair.n.01	legAmount	0.263158	lengthAverage	0.389831	weightAverage	1.000000
+person.n.01	smell.v.02	pizza.n.01	sit.v.01	dining_table.n.01	carry.v.02	pizza.n.01	eat.v.02	pizza.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	lean_on.v.01	bench.n.01	hold.v.02	book.n.01	wear.v.01	jacket.n.01	sit.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	watch.v.01	monitor.n.04	sit_on	chair.n.01	use.v.01	computer.n.01	hold.v.02	cell_phone	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	clean.v.01	microwave.n.01	inspect.v.01	microwave.n.01	use.v.01	bottle.n.01	wash.v.02	hand.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	cream.v.02	person.n.01	play.v.01	sports_ball	race.v.02	bicycle.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+box.n.01	have.v.01	pizza.n.01	contain.v.05	pizza.n.01	pack.v.01	pizza.n.01	carry.v.02	box.n.01	lengthAverage	0.000000	weightAverage	0.000500
+desk.n.01	have.v.01	bag.n.01	contain.v.05	laptop.n.01	contain.v.05	book.n.01	rest_on	chair.n.01	lengthAverage	0.023729	weightAverage	0.019510
+person.n.01	have.v.01	jean.n.01	wear.v.01	jean.n.01	buy.v.01	jean.n.01	pack.v.01	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	snog.v.01	cow.n.01	against	face.n.07	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hose.v.01	potted.a.01	stand_on	grass.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+clock.n.01	attach.v.03	building.n.01	rest_on	side.n.04	install.v.01	roof.n.01	align.v.01	tower.n.01	lengthAverage	0.000000	weightAverage	0.000700
+person.n.01	wear.v.01	short_pants.n.01	sit_on	bench.n.01	walk.v.09	street.n.03	play.v.01	sports_ball	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+desk.n.01	have.v.01	laptop.n.01	contain.v.05	bag.n.06	hold.v.02	bottle.n.01	rest_on	desk.n.01	lengthAverage	0.023729	weightAverage	0.019510
+person.n.01	load.v.01	truck.n.01	load.v.01	bag.n.06	carry.v.02	baggage.n.01	use.v.01	handcart.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	have.v.01	laptop.n.01	use.v.01	computer.n.01	carry.v.02	bag.n.06	hold.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	paper.n.01	rest_on	desk.n.01	pick_up.v.02	paper.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	carry.v.02	sheep.n.01	use.v.01	backpack.n.01	herd.v.01	sheep.n.01	transport.v.02	truck.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	open.v.01	bag.n.06	contain.v.05	baggage.n.01	carry.v.02	backpack.n.01	inspect.v.01	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+train.n.01	transport.v.02	baggage.n.01	contain.v.05	bag.n.06	carry.v.02	person.n.01	load.v.01	handcart.n.01	lengthAverage	1.000000	weightAverage	1.000000
+dog.n.01	ride.v.01	person.n.01	sit_on	backpack.n.01	play.v.01	ball.n.01	park.v.02	bench.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+dog.n.01	wear.v.01	spectacles.n.01	contain.v.05	person.n.01	sit_on	bench.n.01	play.v.01	ball.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+person.n.01	hold.v.02	cellular_telephone.n.01	use.v.01	cell_phone	talk.v.01	person.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+boat.n.01	have.v.01	engine.n.01	operate.v.01	boat.n.01	drive.v.02	boat.n.01	sail.v.01	boat.n.01	legAmount	0.000000	lengthAverage	0.152542	weightAverage	0.299650
+bicycle.n.01	have.v.01	basket.n.01	contain.v.05	ball.n.01	contain.v.05	apple.n.01	carry.v.02	bag.n.06	lengthAverage	0.040678	weightAverage	0.009505
+person.n.01	have.v.01	oven.n.01	use.v.01	oven.n.01	cook.v.01	cake.n.03	clean.v.01	oven.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	tie.v.01	necktie.n.01	wear.v.01	shirt.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sleep.v.01	pillow.n.01	rest_on	bed.n.01	sleep_on	sofa.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	incorporate.v.02	basket.n.01	attach.v.03	basket.n.01	carry.v.02	baggage.n.01	accommodate.v.04	bag.n.06	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+person.n.01	have.v.01	shoe.n.01	wear.v.01	shoe.n.01	carry.v.02	bag.n.06	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	embrace.v.02	fireplug.n.01	lean_on.v.01	fireplug.n.01	inhere_in.v.01	manner.n.01	stand.v.01	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	touch.v.01	pizza.n.01	eat.v.02	pizza.n.01	pick_up.v.02	pizza.n.01	hold.v.02	pizza.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	ride.v.02	motorcycle.n.01	wear.v.01	helmet.n.01	ride.v.02	road.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	sit.v.01	bag.n.01	sit_on	bench.n.01	contain.v.05	backpack.n.01	rest_on	chair.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+cat.n.01	ride.v.10	skateboard.n.01	sit_on	bench.n.01	jump.v.11	ramp.n.01	play.v.01	ball.n.01	legAmount	0.157895	lengthAverage	0.000000	lifespan	0.070352	weightAverage	0.004002
+person.n.01	clean.v.01	oven.n.01	use.v.01	bottle.n.01	use.v.01	bowl.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	carry.v.02	bag.n.04	board.v.01	airplane.n.01	walk.v.09	street.n.03	sit_on	bench.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+basket.n.01	attach.v.02	bicycle.n.01	contain.v.05	bag.n.06	carry.v.26	apple.n.01	lengthAverage	0.000000	weightAverage	0.001001
+person.n.01	keep.v.01	baggage.n.01	carry.v.02	airplane.n.01	pack.v.01	car.n.01	inspect.v.01	building.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stand.v.01	snowboard.n.01	stand_on	ramp.n.01	ride.v.02	snowboard.n.01	wear.v.01	helmet.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	hold.v.02	backpack.n.01	carry.v.02	baggage.n.01	wear.v.01	jacket.n.01	stand.v.01	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	feed.v.01	bear.n.01	contain.v.05	bowl.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	stand.v.01	horse.n.01	stand_on	horse.n.01	ride.v.01	horse.n.01	lean_on.v.01	horse.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	wear.v.01	sunglasses.n.01	stand.v.01	street.n.01	ride.v.02	bicycle.n.01	carry.v.02	backpack.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+shrub.n.01	touch.v.01	building.n.01	against	side.n.04
+dog.n.01	sit.v.01	basket.n.01	contain.v.05	ball.n.01	rest_on	grass.n.01	legAmount	0.157895	lengthAverage	0.013559	lifespan	0.060302	weightAverage	0.019510
+umbrella.n.01	cover.v.02	dog.n.01	sit.v.01	bench.n.01	rest_on	grass.n.01	walk.v.09	person.n.01	lengthAverage	0.010169	weightAverage	0.000000
+person.n.01	snog.v.01	giraffe.n.01	stand_on	bench.n.01	greet.v.01	giraffe.n.01	tall.a.01	giraffe.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	pull.v.01	bag.n.06	against	cart.n.01	contain.v.05	baggage.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	launch.v.02	kite.n.02	own.v.01	paper.n.01	sign.v.01	person.n.01	manipulate.v.05	desk.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	herd.v.01	cow.n.01	use.v.01	dog.n.01	walk.v.09	road.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+car.n.01	have.v.01	dog.n.01	transport.v.02	dog.n.01	ride.v.10	car.n.01	legAmount	0.157895	lengthAverage	0.135593	weightAverage	1.000000
+car.n.01	have.v.01	wheel.n.01	drive_on	road.n.01	park.v.02	street.n.03	transport.v.02	person.n.01	legAmount	0.157895	lengthAverage	0.135593	weightAverage	1.000000
+bicycle.n.01	park.v.01	bus.n.01	rest_on	road.n.01	align.v.01	bus.n.01	against	bench.n.01	lengthAverage	0.040678	weightAverage	0.009505
+person.n.01	look.v.01	computer.n.01	sit_on	chair.n.01	sit.v.01	desk.n.01	use.v.01	keyboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	crunch.v.02	skateboard.n.01	manipulate.v.05	skateboard.n.01	stand_on	skateboard.n.01	use.v.01	skateboard.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+motorcycle.n.01	have.v.01	engine.n.01	accommodate.v.04	wheel.n.01	drive.v.01	motorcycle.n.01	operate.v.03	engine.n.01	legAmount	0.052632	lengthAverage	0.054237	weightAverage	0.179590
+person.n.01	sit.v.01	bed.n.01	read.v.01	book.n.01	use.v.01	laptop.n.01	rest_on	pillow.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	board.v.01	bus.n.01	carry.v.02	backpack.n.01	use.v.01	cell_phone	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+person.n.01	keep.v.01	refrigerator.n.01	contain.v.05	beer.n.01	contain.v.05	apple.n.01	legAmount	0.052632	lengthAverage	0.040678	lifespan	0.371859	weightAverage	0.069535
+surfboard.n.01	touch.v.01	sand.n.01	carry.v.02	person.n.01	use.v.01	person.n.01	lengthAverage	0.074576	weightAverage	0.007504

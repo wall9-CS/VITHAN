@@ -1,0 +1,1608 @@
+admonisher.n.01	restrain.v.03	person.n.01	discipline.v.01	person.n.01	teach.v.01	person.n.01
+airplane.n.01	fly.v.01	road.n.01	drive_on	road.n.01	race.v.04	airplane.n.01	ride.v.02	airplane.n.01
+airplane.n.01	fly.v.01	sky.n.01	launch.v.02	airplane.n.01	fly.v.01	bird.n.01	inhere_in.v.01	sky.n.01
+airplane.n.01	have.v.01	engine.n.01	launch.v.02	airplane.n.01	drive.v.01	engine.n.01	operate.v.01	engine.n.01
+airplane.n.01	have.v.01	wheel.n.01	have.v.02	wheel.n.01	have.v.01	engine.n.01	have.v.01	baggage.n.01
+airplane.n.01	have.v.02	wheel.n.01	have.v.01	wheel.n.01	have.v.02	engine.n.01
+airplane.n.01	park.v.01	street.n.01	park.v.02	airplane.n.01	park.v.02	street.n.01	drive_on	airplane.n.01
+airplane.n.01	park.v.02	grass.n.01	park.v.01	airplane.n.01	park.v.01	grass.n.01
+airplane.n.01	tall.a.01	truck.n.01	taller_than	airplane.n.01	taller_than	truck.n.01
+ashcan.n.01	have.v.02	bag.n.01	contain.v.05	bag.n.01	hold.v.11	ashcan.n.01
+ashcan.n.01	touch.v.01	refrigerator.n.01	hold.v.11	ashcan.n.01	contain.v.05	refrigerator.n.01	clean.v.01	ashcan.n.01
+bag.n.01	against	shelf.n.01	rest_on	table.n.01	sit_on	chair.n.01
+bag.n.01	attach.v.02	table.n.02	attach.v.01	table.n.01	attach.v.01	dining_table.n.01	attach.v.01	cabinet.n.01
+bag.n.01	lie.v.01	person.n.01	lie.v.02	bag.n.01	lie.v.01	person.n.02	lie.v.01	ball.n.03
+bag.n.06	have.v.01	wheel.n.01	have.v.02	backpack.n.01	have.v.02	coat.n.03	have.v.02	shirt.n.01
+bag.n.06	hold.v.11	shirt.n.01	hold.v.10	backpack.n.01	hold.v.11	coat.n.03	hold.v.11	laptop.n.01
+baggage.n.01	have.v.01	bag.n.01	have.v.02	backpack.n.01	have.v.02	bag.n.06	have.v.02	bag.n.04
+baggage.n.01	have.v.01	wheel.n.01	have.v.02	backpack.n.01	have.v.01	cart.n.01
+basket.n.01	attach.v.02	bicycle.n.01	attach.v.01	basket.n.01	attach.v.01	bicycle.n.01	contain.v.05	basket.n.01
+basket.n.01	contain.v.05	dog.n.01	hold.v.10	ball.n.03	hold.v.11	cup.n.01	accommodate.v.04	cat.n.01
+basket.n.01	have.v.01	beer.n.01	have.v.02	beer.n.01	contain.v.05	beer.n.01	hold.v.11	beer.n.01
+basket.n.01	transport.v.02	bag.n.01	carry.v.02	bag.n.01	hold.v.11	basket.n.01	load.v.04	bag.n.01
+bear.n.01	have.v.01	coat.n.03	have.v.02	coat.n.03	wear.v.01	coat.n.03	cover.v.01	coat.n.03
+bear.n.01	sit.v.01	basket.n.01	sit.v.02	bear.n.01	sit.v.02	basket.n.01	hold.v.11	basket.n.01
+bear.n.01	sit.v.01	chair.n.01	sit.v.02	chair.n.01	sit.v.01	person.n.02
+bear.n.01	stand.v.01	grass.n.01	stand_on	grass.n.01	rest_on	grass.n.01
+bear.n.01	wear.v.01	hat.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	helmet.n.02
+bear.n.01	wear.v.01	jacket.n.01	wear.v.02	coat.n.03	wear.v.01	person.n.02	wear.v.01	shirt.n.01
+bed.n.01	have	person.n.01	have	person.n.02	have	backpack.n.01	have	dog.n.01
+bed.n.01	have.v.01	jacket.n.01	have.v.02	coat.n.03	have.v.01	pillow.n.01
+bed.n.01	have.v.01	post.n.04	have.v.02	post.n.01	have.v.01	pillow.n.01	have.v.01	cabinet.n.01
+bed.n.01	have.v.02	bench.n.01	sit_on	bed.n.01	rest_on	bench.n.01	have	bench.n.01
+bed.n.01	have.v.02	pillow.n.01	sleep_on	bed.n.01	have	pillow.n.01
+bench.n.01	get.v.03	person.n.01	sit.v.01	bench.n.01	sit.v.01	person.n.02	move.v.02	person.n.01
+bench.n.01	have.v.01	dog.n.01	have.v.02	ball.n.03	have.v.02	frisbee.n.01	have.v.02	person.n.02
+bench.n.01	keep.v.01	person.n.01	sit.v.01	bench.n.01	rest.v.02	person.n.01	keep.v.01	person.n.02
+bicycle.n.01	have.v.01	basket.n.01	have.v.02	basket.n.01	own.v.01	basket.n.01	carry.v.02	basket.n.01
+bicycle.n.01	have.v.01	bottle.n.01	have.v.02	bottle.n.01	own.v.01	bottle.n.01	carry.v.26	bottle.n.01
+bicycle.n.01	park.v.01	bus.n.01	ride.v.02	bicycle.n.01	board.v.01	bus.n.01	park.v.02	bicycle.n.01
+bicycle.n.01	park.v.01	table.n.02	park.v.02	ball.n.03	park.v.02	frisbee.n.01	park.v.02	person.n.02
+boat.n.01	follow.v.01	boat.n.01	follow.v.01	person.n.02	follow.v.01	train.n.01
+boat.n.01	have.v.01	ball.n.01	have.v.02	ball.n.03	have.v.02	frisbee.n.01	have.v.02	sports_ball
+boat.n.01	have.v.01	engine.n.01	have.v.02	engine.n.01	own.v.01	engine.n.01	operate.v.01	engine.n.01
+boat.n.01	have.v.02	roof.n.01	have.v.01	roof.n.01	have.v.02	roof.n.02	have	boat.n.01
+boat.n.01	transport.v.02	person.n.01	board.v.01	boat.n.01	transport.v.02	person.n.02	ride.v.02	boat.n.01
+bottle.n.01	have.v.01	plant.n.02	have.v.02	plant.n.01	have.v.01	vase.n.01	have.v.01	pot.n.01
+bottle.n.01	touch.v.01	bag.n.01	touch.v.05	bottle.n.01	touch.v.01	backpack.n.01	touch.v.01	cup.n.01
+bowl.n.01	hold.v.11	bowl.n.01	hold.v.10	cup.n.01	hold.v.11	plate.n.04	hold.v.11	pot.n.01
+box.n.01	have.v.01	clock.n.01	have.v.02	ball.n.03	have.v.02	laptop.n.01	have.v.02	plant.n.02
+box.n.01	have.v.01	pizza.n.01	have.v.02	pizza.n.01	contain.v.05	pizza.n.01	hold.v.10	pizza.n.01
+box.n.01	hold.v.11	pizza.n.01	hold.v.10	box.n.01	contain.v.05	pizza.n.01
+box.n.01	incorporate.v.02	clock.n.01	contain.v.05	clock.n.01	hold.v.10	clock.n.01
+building.n.01	accommodate.v.04	person.n.01	accommodate.v.04	parking_meter.n.01	accommodate.v.04	chair.n.01
+building.n.01	attach_to.v.01	tower.n.01	attach.v.02	building.n.01	taller_than	tower.n.01	stand_on	tower.n.01
+building.n.01	have.v.01	clock.n.01	have.v.02	clock.n.01	own.v.01	clock.n.01	contain.v.05	clock.n.01
+building.n.01	have.v.01	grass.n.01
+building.n.01	have.v.01	tower.n.01	have.v.02	tower.n.01	have.v.01	roof.n.01	have.v.01	cabinet.n.01
+building.n.01	have.v.02	roof.n.01	have.v.01	roof.n.02	contain.v.05	roof.n.01	cover.v.02	roof.n.01
+building.n.01	have.v.02	truck.n.01	have.v.01	roof.n.01	have.v.01	parking_meter.n.01
+building.n.01	tall.a.01	hydrant.n.02	taller_than	building.n.01	taller_than	hydrant.n.02	stand_on	hydrant.n.02
+building.n.01	tall.a.01	tree.n.01	taller_than	mountain.n.01	tall.a.01	tower.n.01	tall.a.01	person.n.01
+building.n.01	taller_than	shrub.n.01	taller_than	tree.n.01	taller_than	mountain.n.01	taller_than	tower.n.01
+building.n.01	touch.v.01	street.n.01	touch.v.05	building.n.01	touch.v.05	street.n.01	stand_on	building.n.01
+bus.n.01	drive.v.01	road.n.01	drive_on	street.n.01	drive.v.02	road.n.01
+bus.n.01	drive.v.01	street.n.01	drive_on	street.n.02	drive_on	street.n.03
+bus.n.01	have.v.01	cat.n.01	have.v.02	bus.n.01	have.v.01	person.n.02	have.v.01	laptop.n.01
+bus.n.01	have.v.01	face.n.01	have.v.02	bus.n.01	have.v.02	face.n.01	have.v.01	person.n.02
+bus.n.01	have.v.01	roof.n.02	have.v.02	roof.n.01	have.v.01	truck.n.01	have.v.01	train.n.01
+bus.n.01	have.v.01	wheel.n.01	have.v.02	wheel.n.01	have.v.02	bus.n.01	have	wheel.n.01
+bus.n.01	have.v.02	ramp.n.01	have.v.01	ramp.n.01	have.v.02	street.n.02
+bus.n.01	park.v.02	road.n.01	drive.v.01	bus.n.01	stop.v.01	bus.n.01	drive_on	road.n.01
+bus.n.01	park.v.02	street.n.02	park.v.01	bus.n.01	drive_on	street.n.02	stop.v.01	bus.n.01
+bus.n.01	transport.v.02	person.n.01	board.v.01	bus.n.01	ride.v.02	bus.n.01	transport.v.02	person.n.02
+cabinet.n.01	have.v.01	glass.n.02	have.v.02	glass.n.01	have.v.02	cup.n.01	have.v.02	bottle.n.01
+cabinet.n.01	have.v.01	paper.n.01	have.v.02	cabinet.n.01	have.v.02	paper.n.01	contain.v.05	paper.n.01
+cabinet.n.01	keep.v.01	monitor.n.04	hold.v.10	cabinet.n.01
+camera.n.01	face.v.05	person.n.01	turn.v.01	camera.n.01	turn.v.01	person.n.01	face.v.05	face.n.01
+car.n.01	against	sky.n.01	drive_on	truck.n.01	park.v.01	parking_meter.n.01	stand_on	roof.n.01
+car.n.01	drive.v.01	street.n.01	drive_on	street.n.02	drive.v.02	truck.n.01
+car.n.01	drive.v.02	road.n.01	drive_on	street.n.02	drive.v.01	car.n.01	drive.v.02	truck.n.01
+car.n.01	drive_on	person.n.01	drive_on	truck.n.01	drive_on	motorcycle.n.01	drive_on	bus.n.01
+car.n.01	follow.v.01	car.n.01	drive_on	truck.n.01	chase.v.01	bicycle.n.01
+car.n.01	have.v.01	bear.n.01	have.v.02	car.n.01	own.v.01	car.n.01	drive.v.01	car.n.01
+car.n.01	have.v.01	dog.n.01	drive.v.01	truck.n.01	park.v.01	parking_meter.n.01	own.v.01	person.n.02
+car.n.01	have.v.01	roof.n.02	have.v.02	roof.n.01	own.v.01	roof.n.01	attach.v.02	roof.n.01
+car.n.01	have.v.01	surfboard.n.01	have.v.02	surfboard.n.01	own.v.01	surfboard.n.01	drive.v.01	car.n.01
+car.n.01	have.v.01	wheel.n.01	have.v.02	wheel.n.01	own.v.01	wheel.n.01	contain.v.05	wheel.n.01
+car.n.01	park.v.01	motorcycle.n.01	park.v.02	motorcycle.n.01	drive.v.01	car.n.01	ride.v.02	motorcycle.n.01
+car.n.01	park.v.01	road.n.01	drive.v.01	car.n.01	transport.v.02	road.n.01	obstruct.v.01	road.n.01
+car.n.01	park.v.02	sand.n.01	park.v.01	parking_meter.n.01	drive.v.01	car.n.01	drive.v.02	truck.n.01
+cart.n.01	have.v.01	baggage.n.01	have.v.02	backpack.n.01	have.v.01	bag.n.06
+cart.n.01	have.v.01	roof.n.01	have.v.02	truck.n.01	have.v.02	horse.n.01	have.v.02	person.n.02
+cart.n.01	keep.v.01	baggage.n.01	carry.v.02	baggage.n.01	load.v.01	baggage.n.01	pull.v.04	cart.n.01
+cart.n.01	transport.v.02	bag.n.06	carry.v.02	backpack.n.01	load.v.01	truck.n.01	pull.v.04	horse.n.01
+cart.n.01	transport.v.02	person.n.01	pull.v.04	cart.n.01	carry.v.02	person.n.01	ride.v.01	cart.n.01
+cat.n.01	have.v.02	face.n.07	have.v.01	cat.n.01	have.v.01	face.n.07	look.v.01	face.n.07
+cat.n.01	lean_on.v.01	sink.n.01	rest.v.01	table.n.01	sit.v.01	chair.n.01
+cat.n.01	lie.v.02	sink.n.01	rest.v.02	cat.n.01	sit.v.01	cat.n.01	wash.v.01	sink.n.01
+cat.n.01	look.v.01	bear.n.01	look.v.02	mouse.n.01	look.v.02	bird.n.01	look.v.02	person.n.02
+cat.n.01	look.v.01	cat.n.01	look.v.02	mouse.n.01	look.v.02	bird.n.01	look.v.02	ball.n.03
+cat.n.01	look.v.01	monitor.n.04	look.v.02	laptop.n.01	look.v.02	television.n.01	look.v.02	person.n.01
+cat.n.01	sit.v.01	bench.n.01	sit.v.02	bench.n.01	sit.v.01	person.n.02
+cat.n.01	sit.v.01	chair.n.01	sit.v.02	chair.n.01	sit.v.01	person.n.02
+cat.n.01	sit.v.01	sink.n.01	sit.v.02	chair.n.01	sit.v.01	table.n.01	sit.v.01	bench.n.01
+cat.n.01	sit.v.01	table.n.02	sit.v.02	chair.n.01	sit.v.01	person.n.02	sit.v.01	sofa.n.01
+cat.n.01	sit_down.v.01	sofa.n.01	sit.v.01	chair.n.01	sit.v.01	bench.n.01	sit.v.01	dining_table.n.01
+cat.n.01	sleep.v.01	chair.n.01	sit_on	chair.n.01	rest_on	chair.n.01	sleep_on	chair.n.01
+cat.n.01	sleep.v.01	shelf.n.01	sleep_on	shelf.n.01	rest_on	shelf.n.01	sit_on	shelf.n.01
+cat.n.01	stand.v.01	person.n.01	stand_on	ball.n.03	stand_on	table.n.01	stand_on	street.n.01
+cat.n.01	watch.v.04	proctor.n.01	watch.v.03	cat.n.01	watch.v.03	proctor.n.01
+cat.n.01	wear.v.01	necktie.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	jacket.n.01
+chair.n.01	against	counter.n.01	against	table.n.01	against	desk.n.01
+chair.n.01	have.v.01	bag.n.01	have.v.02	backpack.n.01	have.v.02	laptop.n.01	have.v.02	coat.n.03
+chair.n.01	have.v.01	pillow.n.01	sit_on	chair.n.01	rest_on	pillow.n.01
+chair.n.01	hold.v.10	person.n.01	hold.v.11	chair.n.01	sit.v.01	person.n.01	rest.v.02	chair.n.01
+chair.n.01	incorporate.v.02	bear.n.01	sit.v.01	chair.n.01	have.v.02	bear.n.01	contain.v.05	chair.n.01
+clock.n.01	against	sky.n.01	against	mountain.n.01	against	tree.n.01
+clock.n.01	attach.v.03	building.n.01	attach.v.01	clock.n.01	attach.v.01	building.n.01	attach.v.02	clock.n.01
+clock.n.01	have.v.01	face.n.01	have.v.02	clock.n.01	have.v.02	face.n.01	own.v.01	clock.n.01
+clock.n.01	have.v.01	hand.n.08	have.v.02	clock.n.01	have.v.01	hand.n.01
+clock.n.01	sit.v.01	chair.n.01	sit.v.02	chair.n.01	sit_on	chair.n.01	rest_on	chair.n.01
+coat.n.01	cover.v.01	person.n.01	wear.v.01	coat.n.03	cover.v.02	person.n.02	hold.v.10	person.n.01
+computer.n.01	confront.v.02	person.n.01	confront.v.01	person.n.02	confront.v.03	laptop.n.01	confront.v.01	plant.n.01
+computer.n.01	have.v.01	monitor.n.04	have.v.02	laptop.n.01	have.v.01	mouse.n.01	have.v.01	keyboard.n.01
+counter.n.01	have.v.01	basket.n.01	have.v.02	table.n.01	have.v.02	basket.n.01	have.v.02	chair.n.01
+counter.n.01	have.v.01	box.n.01	have.v.02	table.n.01	have.v.02	cabinet.n.01	have.v.02	chair.n.01
+counter.n.01	have.v.01	plate.n.02	have.v.02	table.n.01	have.v.01	glass.n.01	have.v.01	plate.n.04
+counter.n.01	have.v.01	pot.n.01	have.v.02	pot.n.01	have.v.01	plate.n.04	have.v.01	cup.n.01
+counter.n.01	have.v.01	stove.n.01	have.v.02	table.n.01	have.v.02	pot.n.01	have.v.02	microwave.n.01
+counter.n.01	incorporate.v.02	plate.n.02	contain.v.05	plate.n.04	inhere_in.v.01	table.n.01	have.v.01	cabinet.n.01
+desk.n.01	have.v.01	chair.n.01	have.v.02	chair.n.01	sit.v.01	chair.n.01	use.v.01	chair.n.01
+desk.n.01	have.v.01	glass.n.02	have.v.02	cup.n.01	have.v.02	bottle.n.01	have.v.02	vase.n.01
+desk.n.01	have.v.01	laptop.n.01	have.v.02	laptop.n.01	own.v.01	laptop.n.01	use.v.01	laptop.n.01
+desk.n.01	have.v.01	monitor.n.04	have.v.02	laptop.n.01	have.v.02	mouse.n.01	have.v.02	keyboard.n.01
+desk.n.01	have.v.01	pot.n.04	have.v.02	pot.n.01	have.v.02	plant.n.02	have.v.02	potted_plant
+desk.n.01	have.v.01	telephone.n.01	have.v.02	telephone.n.01	have.v.01	laptop.n.01	have.v.01	cabinet.n.01
+desk.n.01	have.v.02	computer.n.01	have.v.01	laptop.n.01	have.v.01	monitor.n.05	have.v.01	keyboard.n.01
+desk.n.01	have.v.02	keyboard.n.01	have.v.01	laptop.n.01	have.v.01	monitor.n.05	have.v.01	chair.n.01
+desk.n.01	have.v.02	lamp.n.02	have.v.01	lamp.n.02	have.v.01	desk.n.01	have.v.02	table.n.01
+desk.n.01	hold.v.11	mouse.n.01	hold.v.10	laptop.n.01	hold.v.22	book.n.01
+dog.n.01	drive.v.01	car.n.01	drive_on	parking_meter.n.01	drive_on	street.n.01	drive_on	car.n.01
+dog.n.01	have.v.01	bear.n.01	have.v.02	ball.n.03	have.v.02	frisbee.n.01	have.v.02	mouse.n.01
+dog.n.01	have.v.01	shirt.n.01	wear.v.01	shirt.n.01	own.v.01	shirt.n.01	have.v.02	shirt.n.01
+dog.n.01	keep.v.01	ball.n.01	keep.v.01	frisbee.n.01	keep.v.01	ball.n.03	keep.v.01	tennis_racket.n.01
+dog.n.01	lean_on.v.01	person.n.01	rest.v.02	person.n.02	lean.v.02	dog.n.01
+dog.n.01	look.v.01	dog.n.01	look.v.02	ball.n.03	look.v.02	frisbee.n.01	look.v.02	cat.n.01
+dog.n.01	look.v.01	oven.n.01	look.v.02	ball.n.03	look.v.02	mouse.n.01	look.v.02	plant.n.02
+dog.n.01	look.v.01	shoe.n.01	look.v.02	ball.n.03	look.v.02	mouse.n.01	look.v.02	frisbee.n.01
+dog.n.01	look.v.01	tree.n.01	look.v.02	dog.n.01	look.v.02	tree.n.01	watch.v.01	dog.n.01
+dog.n.01	pull.v.01	horse.n.01	pull.v.04	dog.n.01	pull.v.04	horse.n.01	pull.v.01	person.n.02
+dog.n.01	ride.v.01	car.n.01	drive_on	car.n.01	hold.v.10	dog.n.01	sit_on	dog.n.01
+dog.n.01	ride.v.01	dog.n.01	ride.v.02	horse.n.01	ride.v.01	person.n.02	ride.v.10	bicycle.n.01
+dog.n.01	ride.v.01	motorcycle.n.01	ride.v.02	dog.n.01	drive.v.01	motorcycle.n.01
+dog.n.01	ride.v.01	person.n.01	ride.v.02	horse.n.01	ride.v.02	motorcycle.n.01	ride.v.02	bicycle.n.01
+dog.n.01	ride.v.02	boat.n.01	board.v.01	dog.n.01	sail.v.01	boat.n.01	drive.v.01	boat.n.01
+dog.n.01	sit.v.01	bench.n.01	sit.v.02	dog.n.01	sit_on	bench.n.01	rest_on	bench.n.01
+dog.n.01	sit.v.01	person.n.01	sit.v.02	dog.n.01	sit.v.01	chair.n.01	sit.v.01	bench.n.01
+dog.n.01	sit.v.01	shelf.n.01	sit.v.02	dog.n.01	sit.v.01	table.n.01	sit.v.01	chair.n.01
+dog.n.01	sleep.v.01	sofa.n.01	sleep_on	sofa.n.01	rest_on	sofa.n.01	sit_on	sofa.n.01
+dog.n.01	stand.v.01	boat.n.01	stand_on	ball.n.03	stand_on	bench.n.01	stand_on	table.n.01
+dog.n.01	stand.v.01	street.n.01	stand_on	bench.n.01	stand_on	street.n.02	stand_on	truck.n.01
+dog.n.01	tall.a.01	person.n.01	taller_than	giraffe.n.01	taller_than	mountain.n.01	taller_than	tree.n.01
+dog.n.01	use.v.01	laptop.n.01	use.v.01	mouse.n.01	use.v.01	keyboard.n.01	use.v.01	remote_control.n.01
+dog.n.01	watch.v.01	monitor.n.04	watch.v.03	dog.n.01	watch.v.03	monitor.n.04	look.v.01	monitor.n.04
+dog.n.01	wear.v.01	bloomers.n.01	wear.v.02	bloomers.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01
+dog.n.01	wear.v.01	helmet.n.01	wear.v.02	helmet.n.02	wear.v.02	coat.n.03	wear.v.02	shirt.n.01
+dog.n.01	wear.v.01	jacket.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	hat.n.01
+dog.n.01	wear.v.01	spectacles.n.01	wear.v.02	coat.n.01	wear.v.02	sunglasses.n.01	wear.v.02	hat.n.01
+dog.n.01	wear.v.02	shirt.n.01	wear.v.05	coat.n.03	wear.v.01	shirt.n.01	have.v.01	person.n.02
+elephant.n.01	cover.v.01	car.n.01	cover.v.02	elephant.n.01	cover.v.02	car.n.01	drive.v.01	car.n.01
+elephant.n.01	feed.v.01	plant.n.01	feed.v.06	elephant.n.01	feed.v.06	plant.n.02	feed.v.01	plant.n.02
+elephant.n.01	hold.v.02	person.n.01	hold.v.11	ball.n.03	hold.v.10	frisbee.n.01	hold.v.22	cup.n.01
+elephant.n.01	hold.v.02	plant.n.02	hold.v.10	plant.n.02	hold.v.22	plant.n.02	have.v.01	plant.n.02
+elephant.n.01	look.v.01	grass.n.01	feed.v.06	grass.n.01	watch.v.03	grass.n.01	inspect.v.01	grass.n.01
+elephant.n.01	ride.v.01	bicycle.n.01	ride.v.02	elephant.n.01	ride.v.02	bicycle.n.01
+elephant.n.01	sleep.v.01	person.n.01	sleep_on	elephant.n.01	rest.v.01	person.n.01	sleep_on	person.n.01
+elephant.n.01	stand.v.01	grass.n.01	stand_on	grass.n.01	stand.v.02	elephant.n.01	stand.v.03	elephant.n.01
+elephant.n.01	stand.v.03	street.n.02	stand.v.01	elephant.n.01	stand.v.02	street.n.02
+elephant.n.01	tall.a.01	person.n.01	taller_than	giraffe.n.01	tall.a.01	mountain.n.01	tall.a.01	tree.n.01
+elephant.n.01	wear.v.01	spectacles.n.01	wear.v.02	shirt.n.01	wear.v.02	coat.n.03	wear.v.02	sunglasses.n.01
+elephant.n.01	wear.v.01	trouser.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	jean.n.01
+engine.n.01	attach.v.03	airplane.n.01	launch.v.02	airplane.n.01	install.v.01	engine.n.01	drive.v.01	airplane.n.01
+engine.n.01	attach_to.v.01	airplane.n.01	operate.v.01	engine.n.01	fly.v.01	airplane.n.01	install.v.01	engine.n.01
+engine.n.01	have.v.01	grass.n.01	have.v.02	grass.n.01	own.v.01	grass.n.01	contain.v.05	grass.n.01
+faucet.n.01	attach.v.01	sink.n.01	attach.v.02	faucet.n.01	attach.v.02	sink.n.01	install.v.01	faucet.n.01
+giraffe.n.01	eat.v.01	grass.n.01	feed.v.01	grass.n.01	feed.v.02	grass.n.01	eat.v.02	grass.n.01
+giraffe.n.01	have.v.01	person.n.01	have.v.02	person.n.02	have.v.01	coat.n.03
+giraffe.n.01	have.v.02	face.n.01	have.v.01	coat.n.03
+giraffe.n.01	lie.v.02	grass.n.01	feed.v.06	grass.n.01	stand.v.01	giraffe.n.01	rest.v.01	grass.n.01
+giraffe.n.01	look.v.01	grass.n.01	eat.v.01	grass.n.01	watch.v.01	grass.n.01	feed.v.01	grass.n.01
+giraffe.n.01	look.v.01	hand.n.01	look.v.02	giraffe.n.01	look.v.01	person.n.02	look.v.01	hand.n.08
+giraffe.n.01	sit.v.01	grass.n.01	sit.v.02	giraffe.n.01	sit.v.02	grass.n.01
+giraffe.n.01	stand.v.01	grass.n.01	stand_on	grass.n.01	taller_than	grass.n.01	feed.v.01	grass.n.01
+giraffe.n.01	touch.v.01	street.n.01	touch.v.05	giraffe.n.01	touch.v.01	ball.n.03	touch.v.01	plant.n.02
+glass.n.01	cover.v.01	cabinet.n.01	cover.v.02	glass.n.01	cover.v.02	cabinet.n.01
+glass.n.02	have.v.01	plant.n.01	have.v.02	plant.n.02	have.v.02	cup.n.01	have.v.02	bottle.n.01
+grass.n.01	get.v.03	grass.n.01	get.v.03	ball.n.03	get.v.03	mouse.n.01	get.v.03	plant.n.02
+gun.n.01	eat.v.01	grass.n.01	feed.v.06	grass.n.01	hunt.v.01	grass.n.01	wield.v.02	gun.n.01
+hand.n.01	have.v.01	pizza.n.01	have.v.02	pizza.n.01	have.v.01	fork.n.01	have.v.01	plate.n.04
+hand.n.01	have.v.01	telephone.n.01	hold.v.10	telephone.n.01	use.v.01	telephone.n.01	pick_up.v.02	telephone.n.01
+hand.n.01	hold.v.02	bag.n.01	hold.v.11	ball.n.03	hold.v.10	backpack.n.01	hold.v.22	cup.n.01
+hand.n.01	hold.v.02	camera.n.01	hold.v.11	camera.n.01	hold.v.10	camera.n.01	hold.v.22	camera.n.01
+hand.n.01	hold.v.02	cup.n.01	hold.v.10	cup.n.01	hold.v.11	cup.n.01	carry.v.02	cup.n.01
+hand.n.01	hold.v.02	telephone.n.01	hold.v.10	ball.n.03	hold.v.22	cup.n.01
+hand.n.01	hold.v.02	umbrella.n.01	hold.v.11	ball.n.03	hold.v.10	cup.n.01	hold.v.22	plate.n.02
+hat.n.01	cover.v.01	person.n.01	cover.v.02	hat.n.01	wear.v.01	person.n.01
+hat.n.01	have.v.02	tie.n.04	have.v.01	hat.n.01	have.v.01	tie.n.04	wear.v.01	tie.n.04
+helmet.n.01	cover.v.01	person.n.01	wear.v.01	helmet.n.02	cover.v.02	person.n.02	sit.v.01	person.n.01
+horse.n.01	confront.v.01	car.n.01	confront.v.03	horse.n.01	confront.v.02	car.n.01	race.v.04	horse.n.01
+horse.n.01	feed.v.06	grass.n.01	feed.v.01	horse.n.01	feed.v.01	grass.n.01	eat.v.01	horse.n.01
+horse.n.01	follow.v.01	person.n.01	ride.v.02	horse.n.01	walk.v.09	person.n.01	chase.v.01	horse.n.01
+horse.n.01	have.v.01	hat.n.01	have.v.02	hat.n.01	have.v.01	coat.n.03	have.v.01	person.n.02
+horse.n.01	have.v.01	person.n.01	have.v.02	horse.n.01	have.v.01	person.n.02	have.v.01	backpack.n.01
+horse.n.01	look.v.01	grass.n.01	look.v.02	horse.n.01	look.v.02	grass.n.01	feed.v.01	horse.n.01
+horse.n.01	pull.v.01	train.n.01	pull.v.04	truck.n.01	pull.v.04	person.n.01	pull.v.04	cart.n.01
+horse.n.01	search.v.02	tree.n.01	ride.v.02	horse.n.01	search.v.02	plant.n.02	search.v.02	parking_meter.n.01
+horse.n.01	stand.v.01	street.n.02	stand_on	street.n.01	stand_on	street.n.03	stand_on	parking_meter.n.01
+horse.n.01	transport.v.02	bag.n.01	carry.v.02	bag.n.01
+horse.n.01	transport.v.02	person.n.01	ride.v.02	horse.n.01	carry.v.02	person.n.01	move.v.02	truck.n.01
+horse.n.01	walk.v.04	horse.n.01	ride.v.02	horse.n.01	groom.v.03	horse.n.01	feed.v.01	horse.n.01
+horse.n.01	wear.v.01	hat.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	helmet.n.02
+jacket.n.01	cover.v.01	person.n.01	wear.v.01	coat.n.03	dress.v.15	person.n.02
+jean.n.01	lie.v.01	motorcycle.n.01	lie.v.02	street.n.02	lie.v.02	parking_meter.n.01	lie.v.02	tree.n.01
+keyboard.n.01	attach_to.v.01	laptop.n.01	attach.v.02	keyboard.n.01	use.v.01	laptop.n.01	install.v.01	keyboard.n.01
+kite.n.03	fly.v.01	person.n.01	launch.v.02	kite.n.03	hold.v.11	person.n.01	play.v.03	kite.n.03
+kite.n.03	fly.v.01	sky.n.01	launch.v.02	kite.n.03	fly.v.01	bird.n.01	fly.v.01	airplane.n.01
+laptop.n.01	have.v.01	keyboard.n.01	have.v.02	mouse.n.01	have.v.02	monitor.n.05	have.v.02	backpack.n.01
+laptop.n.01	have.v.01	monitor.n.04	have.v.02	laptop.n.01	have.v.02	monitor.n.04	own.v.01	laptop.n.01
+laptop.n.01	lie.v.01	chair.n.01	lie.v.02	laptop.n.01	lie.v.02	chair.n.01	sit.v.01	chair.n.01
+manner.n.01	transport.v.02	doughnut.n.02	hold.v.11	doughnut.n.02	eat.v.01	doughnut.n.02	carry.v.02	doughnut.n.02
+monitor.n.04	have.v.02	clock.n.01	have.v.01	monitor.n.05	have.v.01	television.n.01	have.v.01	computer.n.01
+monitor.n.05	have	mouse.n.04	have	keyboard.n.01	have	laptop.n.01	have	computer.n.01
+motorcycle.n.01	have	helmet.n.02	wear.v.05	helmet.n.02	ride.v.01	motorcycle.n.01	drive.v.01	motorcycle.n.01
+motorcycle.n.01	have.v.01	bag.n.01	have.v.02	backpack.n.01	have.v.02	helmet.n.02	have.v.02	coat.n.03
+motorcycle.n.01	have.v.01	cup.n.01	have.v.02	cup.n.01	own.v.01	cup.n.01	contain.v.05	cup.n.01
+motorcycle.n.01	have.v.01	engine.n.01	drive.v.01	motorcycle.n.01	have.v.02	engine.n.01	contain.v.05	engine.n.01
+motorcycle.n.01	have.v.01	helmet.n.01	have.v.02	helmet.n.02	wear.v.01	helmet.n.01
+motorcycle.n.01	have.v.01	person.n.01	have.v.02	person.n.02	own.v.01	person.n.02	ride.v.02	person.n.02
+motorcycle.n.01	have.v.01	plate.n.02	have.v.02	plate.n.04	have.v.02	plate.n.03
+motorcycle.n.01	have.v.02	bag.n.01	have.v.01	bag.n.06	contain.v.05	bag.n.04	carry.v.02	backpack.n.01
+motorcycle.n.01	have.v.02	box.n.01	have.v.01	motorcycle.n.01	have.v.01	box.n.01	contain.v.05	box.n.01
+motorcycle.n.01	incorporate.v.02	box.n.01	drive.v.02	motorcycle.n.01	contain.v.05	box.n.01	hold.v.10	motorcycle.n.01
+motorcycle.n.01	keep.v.01	bottle.n.01	drive_on	motorcycle.n.01	hold.v.10	bottle.n.01	ride.v.01	motorcycle.n.01
+motorcycle.n.01	keep.v.01	tree.n.01	drive_on	motorcycle.n.01	stand_on	tree.n.01	park.v.01	motorcycle.n.01
+motorcycle.n.01	lean.v.02	building.n.01	lean_on.v.01	building.n.01	lean.v.01	motorcycle.n.01	lean.v.01	person.n.02
+motorcycle.n.01	lean_on.v.01	tree.n.01	drive_on	motorcycle.n.01	rest_on	tree.n.01
+motorcycle.n.01	park.v.01	road.n.01	drive.v.01	motorcycle.n.01	drive_on	road.n.01	sit_on	motorcycle.n.01
+motorcycle.n.01	park.v.02	grass.n.01	park.v.01	motorcycle.n.01	drive.v.02	motorcycle.n.01	sit_on	grass.n.01
+motorcycle.n.01	park.v.02	street.n.01	drive.v.02	motorcycle.n.01	park.v.01	street.n.01	stop.v.01	street.n.01
+motorcycle.n.01	ride.v.02	street.n.02	drive_on	motorcycle.n.01	drive_on	street.n.02	sit_on	motorcycle.n.01
+motorcycle.n.01	sit.v.02	motorcycle.n.01	sit.v.01	motorcycle.n.01	sit.v.02	person.n.01
+motorcycle.n.01	stand.v.01	street.n.02	drive_on	motorcycle.n.01	park.v.01	motorcycle.n.01	stop.v.01	motorcycle.n.01
+motorcycle.n.01	stand.v.03	street.n.02	park.v.01	motorcycle.n.01	drive_on	street.n.02	stand_on	street.n.02
+motorcycle.n.01	touch.v.01	motorcycle.n.01	touch.v.05	motorcycle.n.01	drive.v.01	motorcycle.n.01	ride.v.01	motorcycle.n.01
+motorcycle.n.01	transport.v.02	person.n.01	ride.v.02	motorcycle.n.01	drive.v.01	motorcycle.n.01	carry.v.02	person.n.01
+mountain.n.01	against	sky.n.01	against	tree.n.01
+mountain.n.01	have.v.01	bush.n.02	have.v.02	bush.n.02	have.v.01	tree.n.01	have.v.01	plant.n.02
+mountain.n.01	have.v.01	grass.n.01	have.v.02	grass.n.01	inhere_in.v.01	mountain.n.01	contain.v.05	grass.n.01
+mouse.n.04	attach_to.v.01	laptop.n.01	attach.v.01	mouse.n.01	attach.v.01	monitor.n.05	attach.v.01	keyboard.n.01
+necktie.n.01	touch.v.01	shirt.n.01	touch.v.05	necktie.n.01	touch.v.05	shirt.n.01	wear.v.02	shirt.n.01
+oven.n.01	have.v.01	clock.n.01	have.v.02	clock.n.01	own.v.01	clock.n.01	contain.v.05	clock.n.01
+paper.n.01	against	person.n.01	against	person.n.02	against	president.n.04	against	proctor.n.01
+person.n.01	adjust.v.01	ski.n.01	adjust.v.01	snowboard.n.01	adjust.v.01	helmet.n.02
+person.n.01	against	person.n.01	against	person.n.02	against	president.n.04	against	admonisher.n.01
+person.n.01	align.v.01	necktie.n.01	wear.v.01	necktie.n.01	adjust.v.01	necktie.n.01	tie.v.01	necktie.n.01
+person.n.01	align.v.01	snowboard.n.01	stand_on	snowboard.n.01
+person.n.01	assemble.v.01	kite.n.01	feed.v.01	kite.n.01	play.v.01	kite.n.01	launch.v.02	kite.n.01
+person.n.01	attach_to	kite.n.03	launch.v.02	kite.n.03	fly.v.01	kite.n.03	hold.v.10	kite.n.03
+person.n.01	audit.v.01	airplane.n.01	inspect.v.01	airplane.n.01	check.v.01	airplane.n.01
+person.n.01	beckon.v.01	bus.n.01
+person.n.01	blow.v.01	cake.n.01	feed.v.06	cake.n.01	hold.v.10	person.n.02	sit.v.01	person.n.02
+person.n.01	board.v.01	airplane.n.01	board.v.01	bus.n.01	board.v.01	train.n.01	board.v.01	boat.n.01
+person.n.01	board.v.01	boat.n.01	ride.v.01	person.n.02	launch.v.02	boat.n.01	sit.v.01	boat.n.01
+person.n.01	board.v.01	bus.n.01	ride.v.02	bus.n.01	sit.v.01	bus.n.01	stand.v.01	bus.n.01
+person.n.01	board.v.01	car.n.01	drive.v.01	bus.n.01	park.v.01	parking_meter.n.01	ride.v.02	motorcycle.n.01
+person.n.01	board.v.01	train.n.01	ride.v.02	train.n.01	get.v.03	person.n.01	sit.v.01	train.n.01
+person.n.01	break.v.05	baseball_bat.n.01	wield.v.02	baseball_bat.n.01	hit.v.01	baseball_bat.n.01	carry.v.02	baseball_bat.n.01
+person.n.01	brush.v.01	toothbrush.n.01	wash.v.01	toothbrush.n.01	clean.v.01	toothbrush.n.01	hold.v.02	person.n.01
+person.n.01	buy.v.01	banana.n.01	pay.v.01	person.n.02	hold.v.10	banana.n.02
+person.n.01	buy.v.01	doughnut.n.02	pay.v.01	doughnut.n.02	have.v.01	doughnut.n.02	own.v.01	doughnut.n.02
+person.n.01	buy.v.01	orange.n.01	pay.v.01	person.n.02	own.v.01	orange.n.01
+person.n.01	buy.v.01	pizza.n.01	buy.v.01	sandwich.n.01	buy.v.01	beer.n.01	buy.v.01	hotdog.n.02
+person.n.01	carry.v.02	backpack.n.01	wear.v.05	backpack.n.01	hold.v.10	backpack.n.01	own.v.01	backpack.n.01
+person.n.01	carry.v.02	bag.n.04	carry.v.02	backpack.n.01	carry.v.02	laptop.n.01	carry.v.02	coat.n.03
+person.n.01	carry.v.02	baggage.n.01	carry.v.02	backpack.n.01	carry.v.02	laptop.n.01	carry.v.02	coat.n.03
+person.n.01	carry.v.02	ball.n.01	carry.v.26	ball.n.03	carry.v.26	frisbee.n.01	carry.v.26	backpack.n.01
+person.n.01	carry.v.02	baseball_bat.n.01	wear.v.05	person.n.02	hold.v.10	baseball_glove.n.01	pick_up.v.02	backpack.n.01
+person.n.01	carry.v.02	bicycle.n.01	wear.v.01	coat.n.01	hold.v.10	backpack.n.01	ride.v.01	motorcycle.n.01
+person.n.01	carry.v.02	bottle.n.01	carry.v.26	backpack.n.01	carry.v.02	cup.n.01	carry.v.02	bag.n.01
+person.n.01	carry.v.02	camera.n.01	wear.v.01	coat.n.01	hold.v.10	backpack.n.01	have.v.01	cellular_telephone.n.01
+person.n.01	carry.v.02	carrot.n.01	hold.v.11	carrot.n.01	own.v.01	person.n.02	wear.v.01	coat.n.01
+person.n.01	carry.v.02	dog.n.01	hold.v.11	ball.n.03	walk.v.09	street.n.01	wear.v.05	coat.n.01
+person.n.01	carry.v.02	keyboard.n.01	carry.v.26	backpack.n.01	carry.v.02	laptop.n.01	carry.v.02	mouse.n.01
+person.n.01	carry.v.02	kite.n.03	hold.v.02	kite.n.01	wear.v.01	coat.n.03	play.v.03	frisbee.n.01
+person.n.01	carry.v.02	plate.n.02	have.v.01	person.n.02	have.v.02	plate.n.03	hold.v.10	plate.n.04
+person.n.01	carry.v.02	sandwich.n.01	carry.v.26	backpack.n.01	carry.v.26	coat.n.03	carry.v.26	laptop.n.01
+person.n.01	carry.v.02	sheep.n.01	carry.v.26	backpack.n.01	carry.v.02	person.n.02	carry.v.02	coat.n.03
+person.n.01	carry.v.02	skateboard.n.01	wear.v.02	coat.n.03	hold.v.10	backpack.n.01	ride.v.10	skateboard.n.01
+person.n.01	carry.v.02	sunglasses.n.01	wear.v.01	sunglasses.n.01	hold.v.10	sunglasses.n.01	own.v.01	sunglasses.n.01
+person.n.01	carry.v.02	teddy.n.01	hold.v.11	teddy.n.01	wear.v.02	coat.n.03	carry.v.26	backpack.n.01
+person.n.01	carry.v.02	tennis_racket.n.01	hold.v.11	tennis_racket.n.01	wear.v.05	person.n.01	carry.v.26	tennis_racket.n.01
+person.n.01	catch.v.04	ball.n.01	pick_up.v.02	ball.n.03	throw.v.01	frisbee.n.01	hold.v.10	person.n.02
+person.n.01	catch.v.04	frisbee.n.01	catch.v.04	ball.n.03	catch.v.04	bird.n.01	catch.v.04	mouse.n.01
+person.n.01	chase.v.01	bird.n.01	chase.v.01	mouse.n.01	chase.v.01	frisbee.n.01	chase.v.01	cat.n.01
+person.n.01	chase.v.01	cat.n.01	chase.v.01	mouse.n.01	chase.v.01	ball.n.03	chase.v.01	bird.n.01
+person.n.01	chase.v.01	dog.n.01	chase.v.01	ball.n.03	chase.v.01	mouse.n.01	chase.v.01	frisbee.n.01
+person.n.01	check.v.01	parking_meter.n.01	check.v.02	parking_meter.n.01	inspect.v.01	parking_meter.n.01	audit.v.01	parking_meter.n.01
+person.n.01	check.v.02	clock.n.01	inspect.v.01	clock.n.01	check.v.01	clock.n.01	look.v.01	clock.n.01
+person.n.01	clean.v.01	dining_table.n.01	wash.v.02	dining_table.n.01	clean.v.01	plate.n.04	clean.v.01	fork.n.01
+person.n.01	clean.v.01	oven.n.01	clean.v.01	spoon.n.01	clean.v.01	fork.n.01	clean.v.01	pot.n.01
+person.n.01	clean.v.01	toilet.n.01	wash.v.01	toilet.n.02	use.v.01	toilet.n.02	clean.v.01	person.n.02
+person.n.01	confront.v.03	street.n.01	confront.v.01	person.n.02	confront.v.02	street.n.02
+person.n.01	cook.v.01	hotdog.n.02	serve.v.06	hotdog.n.02	eat.v.01	hotdog.n.02	use.v.01	fork.n.01
+person.n.01	cook.v.01	sandwich.n.01	serve.v.06	sandwich.n.01	eat.v.01	sandwich.n.01	hold.v.10	person.n.01
+person.n.01	cook.v.02	pizza.n.01	serve.v.06	pizza.n.01	cook.v.01	pizza.n.01	eat.v.01	pizza.n.01
+person.n.01	cream.v.02	person.n.01
+person.n.01	crunch.v.02	skateboard.n.01	ride.v.02	skateboard.n.01	stand_on	skateboard.n.01	push.v.01	skateboard.n.01
+person.n.01	cut.v.01	apple.n.01	hold.v.10	knife.n.01	eat.v.01	apple.n.01
+person.n.01	cut.v.01	banana.n.01	cut.v.04	knife.n.01	cut.v.01	fork.n.01	cut.v.01	scissors.n.01
+person.n.01	cut.v.01	carrot.n.01	cut.v.04	carrot.n.01	hold.v.10	person.n.02	pick.v.01	carrot.n.01
+person.n.01	cut.v.01	necktie.n.01	wear.v.01	shirt.n.01	tie.v.01	necktie.n.01	cut.v.04	tie.n.04
+person.n.01	cut.v.01	sandwich.n.01	hold.v.11	knife.n.01	cut.v.04	sandwich.n.01	eat.v.01	sandwich.n.01
+person.n.01	cut.v.01	scissors.n.01	wield.v.02	scissors.n.01	hold.v.10	scissors.n.01	operate.v.01	scissors.n.01
+person.n.01	cut.v.04	cake.n.03	cut.v.01	knife.n.01	cut.v.04	plate.n.04	cut.v.04	fork.n.01
+person.n.01	cut.v.04	orange.n.01	cut.v.01	knife.n.01	cut.v.04	carrot.n.01	cut.v.04	apple.n.01
+person.n.01	cut.v.04	pizza.n.01	eat.v.01	pizza.n.01	hold.v.10	pizza.n.01
+person.n.01	cut.v.28	broccoli.n.01	feed.v.01	broccoli.n.01	feed.v.06	broccoli.n.01	cut.v.01	broccoli.n.01
+person.n.01	decant.v.01	cup.n.01	drink.v.01	cup.n.01	serve.v.06	cup.n.01
+person.n.01	direct.v.01	car.n.01	drive.v.01	car.n.01	own.v.01	car.n.01	park.v.01	car.n.01
+person.n.01	discipline.v.01	horse.n.01	teach.v.01	person.n.02	ride.v.02	horse.n.01	raise.v.02	horse.n.01
+person.n.01	drag.v.01	bag.n.06	pull.v.01	bag.n.06	drag.v.01	backpack.n.01	drag.v.01	coat.n.03
+person.n.01	drag.v.01	surfboard.n.01	pull.v.01	surfboard.n.01	drag.v.01	person.n.02	drag.v.01	snowboard.n.01
+person.n.01	dress.v.15	dog.n.01	wear.v.01	coat.n.03	groom.v.03	dog.n.01	have.v.01	person.n.02
+person.n.01	dribble.v.03	ball.n.01	carry.v.26	ball.n.03	play.v.03	sport.n.01	hold.v.10	person.n.02
+person.n.01	drink.v.01	bottle.n.01	hold.v.10	cup.n.01	sip.v.01	wine.n.01	feed.v.01	beer.n.01
+person.n.01	drink.v.01	cup.n.01	hold.v.10	cup.n.01	contain.v.05	cup.n.01
+person.n.01	drive.v.01	boat.n.01	operate.v.01	boat.n.01	drive.v.02	person.n.01	drive_on	boat.n.01
+person.n.01	drive.v.01	bus.n.01	drive.v.02	truck.n.01	drive.v.01	car.n.01	drive.v.01	train.n.01
+person.n.01	drive.v.01	car.n.01	drive_on	truck.n.01
+person.n.01	drive.v.01	elephant.n.01	drive_on	truck.n.01	drive_on	bus.n.01	drive_on	motorcycle.n.01
+person.n.01	drive.v.01	motorcycle.n.01	drive_on	motorcycle.n.01	ride.v.02	motorcycle.n.01
+person.n.01	drive.v.01	train.n.01	drive_on	car.n.01	drive_on	motorcycle.n.01	drive_on	truck.n.01
+person.n.01	drive.v.01	truck.n.01	drive_on	truck.n.01	have	person.n.02
+person.n.01	dry.v.01	cat.n.01	feed.v.01	cat.n.01	hold.v.10	person.n.02	play.v.01	cat.n.01
+person.n.01	dry.v.01	dog.n.01	feed.v.01	dog.n.01	play.v.03	dog.n.01	walk.v.01	dog.n.01
+person.n.01	eat.v.01	banana.n.01	feed.v.06	banana.n.01	eat.v.02	banana.n.01	have.v.02	banana.n.01
+person.n.01	eat.v.01	cake.n.03	feed.v.06	person.n.02	drink.v.01	cup.n.01	serve.v.06	plate.n.04
+person.n.01	eat.v.01	carrot.n.01	feed.v.01	carrot.n.01	hold.v.10	carrot.n.01	use.v.01	fork.n.01
+person.n.01	eat.v.01	doughnut.n.02	feed.v.01	doughnut.n.02	hold.v.10	doughnut.n.02	serve.v.06	doughnut.n.02
+person.n.01	eat.v.01	hotdog.n.02	feed.v.01	hotdog.n.02	buy.v.01	hotdog.n.02	serve.v.06	hotdog.n.02
+person.n.01	eat.v.01	orange.n.01	feed.v.01	orange.n.01	eat.v.02	orange.n.01	drink.v.01	orange.n.01
+person.n.01	eat.v.01	pizza.n.01	feed.v.06	pizza.n.01	cook.v.01	pizza.n.01	serve.v.06	pizza.n.01
+person.n.01	eat.v.02	dining_table.n.01	sit.v.01	dining_table.n.01	serve.v.06	dining_table.n.01	hold.v.10	fork.n.01
+person.n.01	eat.v.02	sandwich.n.01	feed.v.06	sandwich.n.01	have.v.01	person.n.02	serve.v.06	sandwich.n.01
+person.n.01	embrace.v.02	cat.n.01	pet.v.01	cat.n.01	greet.v.01	person.n.01	hold.v.10	person.n.01
+person.n.01	embrace.v.02	cow.n.01	squeeze.v.02	person.n.02	hold.v.10	cow.n.02	pet.v.01	cow.n.01
+person.n.01	embrace.v.02	horse.n.01	squeeze.v.02	person.n.02	ride.v.02	horse.n.01	hold.v.10	person.n.01
+person.n.01	embrace.v.02	person.n.01	squeeze.v.02	person.n.02	hold.v.10	person.n.01
+person.n.01	embrace.v.02	sheep.n.01	squeeze.v.02	person.n.02	squeeze.v.02	sheep.n.01	hold.v.11	person.n.01
+person.n.01	embrace.v.02	teddy.n.01	squeeze.v.02	teddy.n.01	hold.v.11	teddy.n.01	squeeze.v.02	person.n.01
+person.n.01	exit.v.01	airplane.n.01	board.v.01	airplane.n.01	ride.v.02	airplane.n.01	move.v.02	airplane.n.01
+person.n.01	exit.v.01	boat.n.01	board.v.01	boat.n.01	ride.v.02	boat.n.01	sit.v.01	boat.n.01
+person.n.01	exit.v.01	bus.n.01	board.v.01	bus.n.01	ride.v.02	bus.n.01	walk.v.02	person.n.02
+person.n.01	exit.v.01	train.n.01	board.v.01	train.n.01	ride.v.02	train.n.01	walk.v.01	street.n.01
+person.n.01	face.v.05	bus.n.01	board.v.01	bus.n.01	face.v.05	person.n.02	ride.v.02	bus.n.01
+person.n.01	feed.v.01	bear.n.01	feed.v.06	bear.n.01	feed.v.02	bear.n.01	feed.v.01	person.n.02
+person.n.01	feed.v.02	bird.n.01	feed.v.06	bird.n.01	feed.v.01	bird.n.01	raise.v.02	bird.n.01
+person.n.01	feed.v.02	cow.n.01	feed.v.01	cow.n.01	feed.v.06	cow.n.01	have.v.01	person.n.01
+person.n.01	feed.v.02	dog.n.01	feed.v.01	dog.n.01	feed.v.06	dog.n.01	feed.v.01	person.n.02
+person.n.01	feed.v.02	elephant.n.01	feed.v.06	elephant.n.01	feed.v.01	elephant.n.01	feed.v.01	person.n.02
+person.n.01	feed.v.02	giraffe.n.01	feed.v.06	giraffe.n.01	feed.v.01	giraffe.n.01	feed.v.02	plant.n.02
+person.n.01	feed.v.02	horse.n.01	feed.v.06	horse.n.01	raise.v.02	horse.n.01	groom.v.03	horse.n.01
+person.n.01	feed.v.02	person.n.01	feed.v.01	person.n.01	feed.v.06	person.n.01	have.v.02	person.n.01
+person.n.01	feed.v.02	sheep.n.01	raise.v.02	sheep.n.01	greet.v.01	person.n.01	pet.v.01	sheep.n.01
+person.n.01	feed.v.02	zebra.n.01	feed.v.01	carrot.n.01	feed.v.01	apple.n.01
+person.n.01	fill.v.01	cup.n.01	drink.v.01	cup.n.01	fill.v.01	bowl.n.01	fill.v.01	pot.n.01
+person.n.01	fleece.v.02	sheep.n.01	raise.v.02	sheep.n.01	groom.v.03	sheep.n.01	herd.v.01	sheep.n.01
+person.n.01	flip.v.05	skateboard.n.01	ride.v.02	skateboard.n.01	stand_on	skateboard.n.01	jump.v.01	skateboard.n.01
+person.n.01	flush.v.02	toilet.n.01	inhere_in.v.01	toilet.n.01	sit.v.01	person.n.02	wash.v.01	toilet.n.01
+person.n.01	fly.v.01	airplane.n.01	board.v.01	airplane.n.01	drive.v.01	airplane.n.01	launch.v.02	airplane.n.01
+person.n.01	fly.v.01	kite.n.01	launch.v.02	kite.n.01	hold.v.11	person.n.02	fly.v.01	bird.n.01
+person.n.01	follow.v.01	person.n.01	follow.v.01	person.n.02	follow.v.01	backpack.n.01	follow.v.01	dog.n.01
+person.n.01	front.v.01	person.n.01	face.v.05	person.n.02	stand.v.01	person.n.02	look.v.01	person.n.02
+person.n.01	greet.v.01	person.n.01	greet.v.01	person.n.02	greet.v.01	president.n.04
+person.n.01	grind.v.07	snowboard.n.01	ride.v.02	snowboard.n.01	wear.v.01	snowboard.n.01	stand_on	snowboard.n.01
+person.n.01	groom.v.03	horse.n.01	groom.v.03	coat.n.01	groom.v.03	shirt.n.01	groom.v.03	tie.n.04
+person.n.01	have.v.01	bag.n.01	have.v.02	backpack.n.01	have.v.02	coat.n.01	have.v.02	laptop.n.01
+person.n.01	have.v.01	bag.n.06	have.v.02	backpack.n.01	have.v.02	coat.n.03	have.v.02	shirt.n.01
+person.n.01	have.v.01	ball.n.01	have.v.02	ball.n.03	have.v.02	frisbee.n.01	have.v.02	baseball_bat.n.01
+person.n.01	have.v.01	basket.n.01	have.v.02	person.n.02	have.v.02	basket.n.01	own.v.01	basket.n.01
+person.n.01	have.v.01	bed.n.01	own.v.01	bed.n.01	rest_on	bed.n.01	sleep_on	bed.n.01
+person.n.01	have.v.01	bicycle.n.01	have.v.02	bicycle.n.01	own.v.01	bicycle.n.01	ride.v.01	bicycle.n.01
+person.n.01	have.v.01	bottle.n.01	have.v.02	bottle.n.01	own.v.01	bottle.n.01	carry.v.26	bottle.n.01
+person.n.01	have.v.01	box.n.01	have.v.02	backpack.n.01	own.v.01	laptop.n.01	contain.v.05	book.n.01
+person.n.01	have.v.01	camera.n.01	have.v.02	laptop.n.01	have.v.01	backpack.n.01
+person.n.01	have.v.01	cat.n.01	feed.v.06	cat.n.01	own.v.01	cat.n.01	pet.v.01	cat.n.01
+person.n.01	have.v.01	coat.n.01	have.v.02	person.n.02	wear.v.05	coat.n.03	own.v.01	coat.n.01
+person.n.01	have.v.01	cow.n.01	have.v.02	cow.n.02	own.v.01	cow.n.01	feed.v.01	cow.n.01
+person.n.01	have.v.01	cup.n.01	have.v.02	cup.n.01	have.v.01	person.n.02	have.v.01	spoon.n.01
+person.n.01	have.v.01	dog.n.01	have.v.02	dog.n.01	own.v.01	dog.n.01	feed.v.01	dog.n.01
+person.n.01	have.v.01	face.n.01	have.v.02	face.n.07	have.v.01	person.n.02	have.v.01	shirt.n.01
+person.n.01	have.v.01	helmet.n.01	wear.v.01	helmet.n.02	own.v.01	helmet.n.02	hold.v.10	helmet.n.02
+person.n.01	have.v.01	horse.n.01	have.v.02	horse.n.01	own.v.01	horse.n.01	feed.v.01	horse.n.01
+person.n.01	have.v.01	jacket.n.01	have.v.02	coat.n.03	wear.v.01	jacket.n.01	own.v.01	jacket.n.01
+person.n.01	have.v.01	laptop.n.01	have.v.02	laptop.n.01	own.v.01	laptop.n.01	use.v.01	laptop.n.01
+person.n.01	have.v.01	motorcycle.n.01	have.v.02	motorcycle.n.01	own.v.01	motorcycle.n.01	drive.v.01	motorcycle.n.01
+person.n.01	have.v.01	mouse.n.01	feed.v.01	mouse.n.01	hold.v.10	mouse.n.01	own.v.01	mouse.n.01
+person.n.01	have.v.01	necktie.n.01	have.v.02	necktie.n.01	wear.v.01	necktie.n.01	own.v.01	necktie.n.01
+person.n.01	have.v.01	paper.n.01	have.v.02	book.n.01	have.v.02	laptop.n.01	have.v.02	paper.n.01
+person.n.01	have.v.01	person.n.01	have.v.02	person.n.02	own.v.01	person.n.01	have.v.01	person.n.02
+person.n.01	have.v.01	plate.n.03	have.v.02	plate.n.04	own.v.01	plate.n.02	keep.v.01	plate.n.03
+person.n.01	have.v.01	shirt.n.01	have.v.02	person.n.02	wear.v.01	coat.n.01	own.v.01	shirt.n.01
+person.n.01	have.v.01	short_pants.n.01	wear.v.01	short_pants.n.01	own.v.01	short_pants.n.01	have.v.02	person.n.01
+person.n.01	have.v.01	skateboard.n.01	ride.v.01	skateboard.n.01	own.v.01	skateboard.n.01	play.v.01	skateboard.n.01
+person.n.01	have.v.01	ski.n.01	have.v.02	snowboard.n.01	have	ski.n.01	own.v.01	ski.n.01
+person.n.01	have.v.01	snowboard.n.01	have.v.02	snowboard.n.01	have.v.01	backpack.n.01	have.v.01	helmet.n.02
+person.n.01	have.v.01	sunglasses.n.01	have.v.02	person.n.02	wear.v.01	spectacles.n.01	own.v.01	sunglasses.n.01
+person.n.01	have.v.01	surfboard.n.01	own.v.01	surfboard.n.01	hold.v.11	surfboard.n.01	ride.v.02	surfboard.n.01
+person.n.01	have.v.01	umbrella.n.01	have.v.02	umbrella.n.01	own.v.01	umbrella.n.01	carry.v.26	umbrella.n.01
+person.n.01	have.v.01	vase.n.01	have.v.02	person.n.02	have.v.01	plant.n.02	have.v.01	cabinet.n.01
+person.n.01	have.v.01	watch.n.01	have.v.02	person.n.02	have.v.01	laptop.n.01	have.v.01	cellular_telephone.n.01
+person.n.01	herd.v.01	cow.n.01	feed.v.01	cow.n.01	raise.v.02	cow.n.01	drive.v.01	cow.n.01
+person.n.01	herd.v.01	sheep.n.01	herd.v.01	person.n.02	herd.v.01	grass.n.01
+person.n.01	hit.v.01	ball.n.01	kick.v.01	ball.n.03	throw.v.01	ball.n.03	catch.v.04	ball.n.03
+person.n.01	hold.v.02	apple.n.01	hold.v.10	ball.n.03	hold.v.11	cup.n.01	hold.v.22	fork.n.01
+person.n.01	hold.v.02	backpack.n.01	carry.v.02	backpack.n.01	wear.v.02	shirt.n.01	hold.v.10	ball.n.03
+person.n.01	hold.v.02	bag.n.04	carry.v.02	backpack.n.01	hold.v.10	cup.n.01	hold.v.11	plate.n.03
+person.n.01	hold.v.02	bag.n.06	carry.v.02	backpack.n.01	hold.v.11	cup.n.01	pick_up.v.01	ball.n.03
+person.n.01	hold.v.02	ball.n.01	hold.v.11	ball.n.03	hold.v.10	frisbee.n.01	hold.v.02	person.n.02
+person.n.01	hold.v.02	baseball_glove.n.01	hold.v.11	baseball_bat.n.01	hold.v.10	ball.n.03	hold.v.22	backpack.n.01
+person.n.01	hold.v.02	basket.n.01	carry.v.02	basket.n.01	hold.v.10	person.n.01	pick_up.v.01	basket.n.01
+person.n.01	hold.v.02	bear.n.01	hold.v.11	ball.n.03	hold.v.10	frisbee.n.01	hold.v.22	cup.n.01
+person.n.01	hold.v.02	bench.n.01	hold.v.11	ball.n.03	hold.v.10	frisbee.n.01	hold.v.22	cup.n.01
+person.n.01	hold.v.02	bicycle.n.01	hold.v.11	bicycle.n.01	hold.v.10	bicycle.n.01	carry.v.26	bicycle.n.01
+person.n.01	hold.v.02	bird.n.01	hold.v.10	ball.n.03	hold.v.11	frisbee.n.01	hold.v.22	cup.n.01
+person.n.01	hold.v.02	book.n.01	hold.v.11	person.n.02	hold.v.10	laptop.n.01	hold.v.22	cup.n.01
+person.n.01	hold.v.02	broccoli.n.01	feed.v.02	broccoli.n.01	pick_up.v.01	broccoli.n.01	carry.v.02	broccoli.n.01
+person.n.01	hold.v.02	cake.n.01	hold.v.10	cake.n.03	hold.v.22	cake.n.03	have.v.01	person.n.02
+person.n.01	hold.v.02	camera.n.01	hold.v.10	camera.n.01	hold.v.11	camera.n.01	hold.v.22	camera.n.01
+person.n.01	hold.v.02	carrot.n.01	hold.v.11	carrot.n.01	hold.v.10	carrot.n.01	have.v.01	carrot.n.01
+person.n.01	hold.v.02	cart.n.01	carry.v.02	cart.n.01	pull.v.04	cart.n.01	push.v.01	cart.n.01
+person.n.01	hold.v.02	chair.n.01	sit.v.01	chair.n.01	hold.v.11	chair.n.01	hold.v.10	chair.n.01
+person.n.01	hold.v.02	clock.n.01	hold.v.11	ball.n.03	hold.v.10	cup.n.01	hold.v.22	backpack.n.01
+person.n.01	hold.v.02	computer.n.01	hold.v.11	laptop.n.01	hold.v.10	mouse.n.01
+person.n.01	hold.v.02	cone.n.01	hold.v.11	ball.n.03	hold.v.10	frisbee.n.01	hold.v.22	cup.n.01
+person.n.01	hold.v.02	cup.n.01	hold.v.11	cup.n.01	hold.v.10	cup.n.01	carry.v.02	cup.n.01
+person.n.01	hold.v.02	dog.n.01	hold.v.10	ball.n.03	hold.v.11	frisbee.n.01	hold.v.22	cup.n.01
+person.n.01	hold.v.02	doughnut.n.02	hold.v.10	doughnut.n.02	carry.v.02	doughnut.n.02	pick_up.v.01	doughnut.n.02
+person.n.01	hold.v.02	elephant.n.01	hold.v.10	ball.n.03	hold.v.11	mouse.n.01	carry.v.02	backpack.n.01
+person.n.01	hold.v.02	fork.n.01	hold.v.10	person.n.02	hold.v.11	fork.n.01	hold.v.22	person.n.01
+person.n.01	hold.v.02	frisbee.n.01	hold.v.11	frisbee.n.01	hold.v.10	frisbee.n.01	have.v.01	person.n.01
+person.n.01	hold.v.02	giraffe.n.01	feed.v.01	giraffe.n.01	pick_up.v.01	giraffe.n.01	wear.v.02	person.n.02
+person.n.01	hold.v.02	hand.n.01	hold.v.10	ball.n.03	hold.v.11	mouse.n.01	hold.v.22	cup.n.01
+person.n.01	hold.v.02	hat.n.01	wear.v.01	hat.n.01	hold.v.10	person.n.01	have.v.01	person.n.01
+person.n.01	hold.v.02	hotdog.n.02	hold.v.10	hotdog.n.02	hold.v.22	hotdog.n.02	hold.v.11	hotdog.n.02
+person.n.01	hold.v.02	jacket.n.01	wear.v.01	jacket.n.01	have.v.02	person.n.01	carry.v.02	jacket.n.01
+person.n.01	hold.v.02	keyboard.n.01	hold.v.11	mouse.n.01	hold.v.10	laptop.n.01	hold.v.22	cup.n.01
+person.n.01	hold.v.02	knife.n.01	wield.v.02	knife.n.01	pick_up.v.02	knife.n.01	carry.v.02	knife.n.01
+person.n.01	hold.v.02	laptop.n.01	hold.v.10	laptop.n.01	hold.v.11	laptop.n.01	carry.v.02	laptop.n.01
+person.n.01	hold.v.02	oven.n.01	hold.v.10	oven.n.01	hold.v.11	oven.n.01	have.v.01	person.n.01
+person.n.01	hold.v.02	paper.n.01	hold.v.10	ball.n.03	hold.v.11	cup.n.01	hold.v.22	backpack.n.01
+person.n.01	hold.v.02	person.n.01	hold.v.11	ball.n.03	hold.v.10	frisbee.n.01	hold.v.22	laptop.n.01
+person.n.01	hold.v.02	pillow.n.01	sleep_on	pillow.n.01	rest_on	pillow.n.01	carry.v.02	pillow.n.01
+person.n.01	hold.v.02	pot.n.01	hold.v.11	pot.n.01	hold.v.10	pot.n.04	hold.v.22	pot.n.04
+person.n.01	hold.v.02	potted.a.01	hold.v.10	potted.a.01	hold.v.11	potted.a.01	hold.v.22	potted.a.01
+person.n.01	hold.v.02	remote_control.n.01	hold.v.11	mouse.n.01	hold.v.10	laptop.n.01	hold.v.22	remote_control.n.01
+person.n.01	hold.v.02	scissors.n.01	hold.v.11	scissors.n.01	hold.v.10	scissors.n.01	wield.v.02	scissors.n.01
+person.n.01	hold.v.02	shirt.n.01	wear.v.01	shirt.n.01	hold.v.10	ball.n.01	carry.v.02	backpack.n.01
+person.n.01	hold.v.02	shoe.n.01	wear.v.05	shoe.n.01	pick_up.v.01	shoe.n.01	touch.v.01	shoe.n.01
+person.n.01	hold.v.02	ski.n.01	hold.v.11	ski.n.01	hold.v.10	ski.n.01	hold.v.22	ski.n.01
+person.n.01	hold.v.02	snowboard.n.01	hold.v.11	snowboard.n.01	hold.v.10	snowboard.n.01	carry.v.02	snowboard.n.01
+person.n.01	hold.v.02	spectacles.n.01	hold.v.11	spectacles.n.01	hold.v.10	spectacles.n.01	carry.v.02	spectacles.n.01
+person.n.01	hold.v.02	surfboard.n.01	hold.v.11	surfboard.n.01	hold.v.10	surfboard.n.01	carry.v.26	surfboard.n.01
+person.n.01	hold.v.02	telephone.n.01	hold.v.11	ball.n.03	hold.v.10	mouse.n.01	hold.v.22	laptop.n.01
+person.n.01	hold.v.02	tennis_racket.n.01	hold.v.11	tennis_racket.n.01	hold.v.10	tennis_racket.n.01	carry.v.02	tennis_racket.n.01
+person.n.01	hold.v.02	toaster.n.01	toast.v.02	person.n.02	hold.v.10	toaster.n.02	hold.v.11	toaster.n.01
+person.n.01	hold.v.02	toothbrush.n.01	hold.v.11	toothbrush.n.01	hold.v.10	toothbrush.n.01	hold.v.22	toothbrush.n.01
+person.n.01	hold.v.02	umbrella.n.01	carry.v.02	umbrella.n.01	wear.v.01	coat.n.03	hold.v.11	person.n.02
+person.n.01	hold.v.02	vase.n.01	hold.v.11	vase.n.01	hold.v.10	vase.n.01	hold.v.22	vase.n.01
+person.n.01	hold.v.02	wheel.n.01	hold.v.11	ball.n.03	hold.v.10	backpack.n.01	hold.v.22	cup.n.01
+person.n.01	hold.v.02	wine.n.01	hold.v.11	cup.n.01	hold.v.10	glass.n.01	hold.v.22	bottle.n.01
+person.n.01	hold.v.02	zebra.n.01	hold.v.11	ball.n.03	hold.v.10	frisbee.n.01	hold.v.22	cup.n.01
+person.n.01	hold.v.22	horse.n.01	hold.v.11	person.n.02	hold.v.10	horse.n.01	hold.v.02	horse.n.01
+person.n.01	hop_on.v.01	bicycle.n.01	ride.v.02	bicycle.n.01	sit_on	bicycle.n.01	stand_on	bicycle.n.01
+person.n.01	hop_on.v.01	elephant.n.01	ride.v.02	elephant.n.01	stand_on	elephant.n.01	sit_on	elephant.n.01
+person.n.01	hop_on.v.01	horse.n.01	ride.v.02	horse.n.01	board.v.01	horse.n.01	sit.v.01	horse.n.01
+person.n.01	hop_on.v.01	motorcycle.n.01	ride.v.02	motorcycle.n.01	stand_on	motorcycle.n.01	sit.v.01	motorcycle.n.01
+person.n.01	hose.v.01	car.n.01	wash.v.01	car.n.01	drive.v.01	car.n.01	sit.v.01	person.n.01
+person.n.01	hose.v.01	elephant.n.01	wash.v.01	elephant.n.01	hold.v.10	person.n.02
+person.n.01	hose.v.01	potted.a.01	hose.v.01	plant.n.02	hose.v.01	potted_plant	hose.v.01	tree.n.01
+person.n.01	hunt.v.01	bear.n.01	hunt.v.01	mouse.n.01	hunt.v.01	bird.n.01
+person.n.01	inspect.v.01	apple.n.01	look.v.01	apple.n.01
+person.n.01	inspect.v.01	backpack.n.01	inspect.v.01	laptop.n.01	inspect.v.01	coat.n.01	inspect.v.01	table.n.01
+person.n.01	inspect.v.01	bag.n.04	look.v.02	person.n.02	check.v.01	bag.n.01	inspect.v.01	backpack.n.01
+person.n.01	inspect.v.01	ball.n.01	inspect.v.01	ball.n.03	inspect.v.01	sports_ball	inspect.v.01	baseball_bat.n.01
+person.n.01	inspect.v.01	bench.n.01	inspect.v.01	chair.n.01	inspect.v.01	table.n.01	inspect.v.01	street.n.01
+person.n.01	inspect.v.01	bicycle.n.01	look.v.01	bicycle.n.01	inspect.v.01	person.n.02
+person.n.01	inspect.v.01	bottle.n.01	look.v.02	person.n.02	touch.v.01	bottle.n.01	check.v.01	bottle.n.01
+person.n.01	inspect.v.01	bus.n.01	inspect.v.01	parking_meter.n.01
+person.n.01	inspect.v.01	dog.n.01	greet.v.01	person.n.02	play.v.03	dog.n.01	watch.v.01	person.n.01
+person.n.01	inspect.v.01	kite.n.03	launch.v.02	kite.n.03	play.v.01	kite.n.03	look.v.02	person.n.01
+person.n.01	inspect.v.01	motorcycle.n.01	inspect.v.01	helmet.n.02	inspect.v.01	engine.n.01
+person.n.01	inspect.v.01	necktie.n.01	wear.v.01	necktie.n.01	look.v.01	person.n.01
+person.n.01	inspect.v.01	oven.n.01	inspect.v.01	microwave.n.01	inspect.v.01	toaster.n.01
+person.n.01	inspect.v.01	ski.n.01	inspect.v.01	person.n.02	inspect.v.01	snowboard.n.01
+person.n.01	inspect.v.01	surfboard.n.01	inspect.v.01	ball.n.03	inspect.v.01	mouse.n.01	inspect.v.01	plant.n.02
+person.n.01	inspect.v.01	truck.n.01	look.v.02	person.n.02	look.v.01	truck.n.01	check.v.01	person.n.01
+person.n.01	install.v.01	traffic_light.n.01	install.v.01	parking_meter.n.01	install.v.01	street.n.01
+person.n.01	jab.v.01	person.n.01
+person.n.01	jump.v.01	bicycle.n.01	ride.v.02	bicycle.n.01	stand.v.01	person.n.01	jump.v.11	person.n.01
+person.n.01	jump.v.01	boat.n.01	ride.v.02	boat.n.01	jump.v.11	person.n.01	stand_on	boat.n.01
+person.n.01	jump.v.01	horse.n.01	ride.v.02	horse.n.01	jump.v.11	person.n.02	jump.v.11	horse.n.01
+person.n.01	jump.v.01	motorcycle.n.01	ride.v.02	motorcycle.n.01	jump.v.11	person.n.02	move.v.02	grass.n.01
+person.n.01	jump.v.01	surfboard.n.01	ride.v.02	surfboard.n.01	stand_on	surfboard.n.01	jump.v.11	person.n.01
+person.n.01	jump.v.11	ski.n.01	ride.v.02	ski.n.01	wear.v.01	helmet.n.02	jump.v.01	mountain.n.01
+person.n.01	keep.v.01	ball.n.01	hold.v.10	ball.n.03	play.v.03	frisbee.n.01	kick.v.01	baseball_bat.n.01
+person.n.01	keep.v.01	banana.n.01	feed.v.01	banana.n.01	hold.v.10	banana.n.01	eat.v.01	banana.n.01
+person.n.01	keep.v.01	bowl.n.01	hold.v.11	bowl.n.01	keep.v.01	person.n.02	hold.v.10	person.n.01
+person.n.01	keep.v.01	can.n.01	feed.v.06	can.n.01	hold.v.10	can.n.01	clean.v.01	can.n.01
+person.n.01	keep.v.01	hand_blower.n.01	use.v.01	hand_blower.n.01	hold.v.10	hand_blower.n.01
+person.n.01	keep.v.01	motorcycle.n.01	ride.v.01	motorcycle.n.01	drive.v.02	motorcycle.n.01	own.v.01	motorcycle.n.01
+person.n.01	keep.v.01	necktie.n.01	wear.v.01	necktie.n.01	keep.v.01	person.n.02	keep.v.01	shirt.n.01
+person.n.01	keep.v.01	orange.n.01	feed.v.01	orange.n.01	hold.v.10	orange.n.01	look.v.02	orange.n.01
+person.n.01	keep.v.01	pizza.n.01	eat.v.01	pizza.n.01	serve.v.06	pizza.n.01	hold.v.11	pizza.n.01
+person.n.01	keep.v.01	post.n.01	stand.v.01	post.n.01	keep.v.01	person.n.02	keep.v.01	post.n.04
+person.n.01	keep.v.01	refrigerator.n.01	open.v.01	refrigerator.n.01	clean.v.01	refrigerator.n.01
+person.n.01	keep.v.01	sandwich.n.01	hold.v.10	sandwich.n.01	eat.v.01	sandwich.n.01	have.v.01	sandwich.n.01
+person.n.01	keep.v.01	spoon.n.01	hold.v.11	spoon.n.01	use.v.01	spoon.n.01	clean.v.01	spoon.n.01
+person.n.01	keep.v.01	stop_sign	stop.v.01	stop_sign	keep.v.01	person.n.02
+person.n.01	kick.v.01	ball.n.01	kick.v.01	ball.n.03	kick.v.01	frisbee.n.01	kick.v.01	sports_ball
+person.n.01	lasso.v.01	cow.n.02	ride.v.02	cow.n.02	feed.v.01	cow.n.02	herd.v.01	cow.n.02
+person.n.01	launch.v.02	kite.n.02	launch.v.03	kite.n.01	move.v.02	kite.n.01
+person.n.01	launch.v.03	boat.n.01	drive_on	boat.n.01	ride.v.01	boat.n.01	board.v.01	boat.n.01
+person.n.01	lean.v.01	truck.n.01	lean.v.02	person.n.02	lean.v.02	truck.n.01
+person.n.01	lean.v.02	table.n.02	sit_on	table.n.01	stand_on	table.n.01	rest_on	table.n.01
+person.n.01	lean_on.v.01	bench.n.01	sit.v.01	bench.n.01	rest.v.01	bench.n.01	stand.v.01	person.n.02
+person.n.01	lean_on.v.01	car.n.01	rest_on	parking_meter.n.01
+person.n.01	lean_on.v.01	chair.n.01	sit.v.01	chair.n.01	rest.v.01	chair.n.01	stand.v.01	person.n.01
+person.n.01	lean_on.v.01	hand.n.01	rest.v.01	table.n.01	hold.v.11	cup.n.01	touch.v.01	mouse.n.01
+person.n.01	lean_on.v.01	hydrant.n.02	rest_on	person.n.02
+person.n.01	lean_on.v.01	motorcycle.n.01	ride.v.02	motorcycle.n.01	wear.v.02	helmet.n.02	sit.v.01	motorcycle.n.01
+person.n.01	lean_on.v.01	pillow.n.01	rest.v.01	pillow.n.01	sit_on	pillow.n.01	hold.v.10	person.n.01
+person.n.01	lean_on.v.01	sofa.n.01	rest_on	sofa.n.01	sit_on	sofa.n.01
+person.n.01	let_go_of.v.01	bird.n.01	hold.v.10	ball.n.03	feed.v.01	bird.n.01	catch.v.04	frisbee.n.01
+person.n.01	lick.v.02	bowl.n.01	feed.v.06	bowl.n.01	hold.v.11	bowl.n.01	eat.v.01	bowl.n.01
+person.n.01	lick.v.02	fork.n.01	touch.v.01	fork.n.01	hold.v.10	person.n.02	eat.v.01	fork.n.01
+person.n.01	lick.v.02	spoon.n.01	stir.v.01	spoon.n.01	hold.v.11	person.n.01	touch.v.01	spoon.n.01
+person.n.01	lick.v.02	wine.n.01	drink.v.01	wine.n.01	sip.v.01	wine.n.01
+person.n.01	lie.v.01	table.n.02	sit_on	table.n.01	rest_on	table.n.01	stand_on	table.n.01
+person.n.01	lie.v.02	bench.n.01	sit.v.01	bench.n.01	rest.v.02	bench.n.01	lie.v.01	person.n.01
+person.n.01	lie.v.02	chair.n.01	sit.v.01	chair.n.01	rest.v.02	chair.n.01	sleep_on	chair.n.01
+person.n.01	lie.v.02	grass.n.01	rest.v.02	grass.n.01	sit.v.01	grass.n.01	lie.v.01	person.n.01
+person.n.01	lie.v.02	sofa.n.01	sit.v.01	sofa.n.01	rest.v.01	sofa.n.01	lie.v.01	person.n.01
+person.n.01	lie.v.02	surfboard.n.01	ride.v.02	surfboard.n.01	rest.v.02	person.n.01	lie.v.01	person.n.01
+person.n.01	light.v.01	cake.n.03	make.v.03	ball.n.03	make.v.03	mouse.n.01	make.v.03	plant.n.02
+person.n.01	load.v.01	airplane.n.01	board.v.01	airplane.n.01	load.v.04	baggage.n.01
+person.n.01	load.v.01	bag.n.06	pack.v.01	backpack.n.01	carry.v.02	person.n.02	fill.v.01	bag.n.01
+person.n.01	load.v.01	bus.n.01	board.v.01	bus.n.01	carry.v.02	bus.n.01	pack.v.01	backpack.n.01
+person.n.01	load.v.01	car.n.01	drive.v.02	truck.n.01	park.v.01	street.n.01	pull.v.01	backpack.n.01
+person.n.01	load.v.01	horse.n.01	ride.v.02	horse.n.01	pull.v.01	truck.n.01	carry.v.02	backpack.n.01
+person.n.01	load.v.01	train.n.01	board.v.01	train.n.01	hold.v.10	person.n.01
+person.n.01	load.v.01	truck.n.01	carry.v.02	person.n.02	transport.v.02	truck.n.01	fill.v.01	truck.n.01
+person.n.01	load.v.04	surfboard.n.01	stand_on	surfboard.n.01	hold.v.02	surfboard.n.01	carry.v.02	surfboard.n.01
+person.n.01	lodge.v.02	knife.n.01	wield.v.02	knife.n.01	hold.v.11	person.n.01	cut.v.04	knife.n.01
+person.n.01	look.v.01	airplane.n.01	look.v.02	bird.n.01	look.v.02	train.n.01	look.v.02	mountain.n.01
+person.n.01	look.v.01	bag.n.06	look.v.02	person.n.02	look.v.02	backpack.n.01	look.v.02	coat.n.03
+person.n.01	look.v.01	ball.n.01	look.v.02	ball.n.03	look.v.01	person.n.02	play.v.01	ball.n.01
+person.n.01	look.v.01	bench.n.01	sit.v.01	bench.n.01	watch.v.01	bench.n.01	stand.v.01	bench.n.01
+person.n.01	look.v.01	boat.n.01	look.v.02	ball.n.03	look.v.02	mouse.n.01	look.v.02	tree.n.01
+person.n.01	look.v.01	car.n.01	look.v.02	person.n.02	look.v.01	street.n.01	look.v.01	truck.n.01
+person.n.01	look.v.01	computer.n.01	look.v.02	laptop.n.01	look.v.01	monitor.n.05	look.v.01	mouse.n.01
+person.n.01	look.v.01	elephant.n.01	look.v.02	elephant.n.01	look.v.01	person.n.02	look.v.01	street.n.01
+person.n.01	look.v.01	handcart.n.01	push.v.01	handcart.n.01	hold.v.11	handcart.n.01	look.v.02	person.n.01
+person.n.01	look.v.01	horse.n.01	watch.v.01	horse.n.01	look.v.02	person.n.02	look.v.01	mouse.n.01
+person.n.01	look.v.01	kite.n.03	look.v.02	kite.n.01	look.v.01	bird.n.01	look.v.01	sky.n.01
+person.n.01	look.v.01	laptop.n.01	look.v.02	person.n.02	look.v.01	monitor.n.05	look.v.01	keyboard.n.01
+person.n.01	look.v.01	monitor.n.04	watch.v.03	monitor.n.04	look.v.02	monitor.n.04	look.v.01	person.n.02
+person.n.01	look.v.01	motorcycle.n.01	look.v.02	ball.n.03	look.v.02	mouse.n.01	look.v.02	street.n.02
+person.n.01	look.v.01	pizza.n.01	look.v.02	person.n.02	look.v.02	pizza.n.01	look.v.01	street.n.01
+person.n.01	look.v.01	plate.n.02	look.v.02	plate.n.04	look.v.01	cup.n.01	look.v.01	bowl.n.01
+person.n.01	look.v.01	ski.n.01	look.v.02	mountain.n.01	look.v.02	sport.n.01	look.v.02	snowboard.n.01
+person.n.01	look.v.01	sofa.n.01	sit_on	sofa.n.01	look.v.02	person.n.01	look.v.02	sofa.n.01
+person.n.01	look.v.01	street.n.01	look.v.02	person.n.02	look.v.02	street.n.02
+person.n.01	look.v.01	surfboard.n.01	watch.v.03	surfboard.n.01	hold.v.11	surfboard.n.01	ride.v.02	surfboard.n.01
+person.n.01	look.v.01	table.n.01	look.v.02	person.n.02	look.v.01	dining_table.n.01	look.v.01	table.n.02
+person.n.01	look.v.01	telephone.n.01	look.v.02	person.n.02	look.v.01	cellular_telephone.n.01	look.v.01	laptop.n.01
+person.n.01	look.v.01	tower.n.01	look.v.02	person.n.02	look.v.01	building.n.01	look.v.01	street.n.01
+person.n.01	look.v.01	train.n.01	ride.v.02	train.n.01	watch.v.01	train.n.01	follow.v.01	person.n.01
+person.n.01	look.v.01	watch.n.01	look.v.02	watch.n.01	look.v.01	clock.n.01	look.v.01	monitor.n.05
+person.n.01	look.v.02	hydrant	look.v.01	person.n.02	look.v.01	hydrant.n.02	look.v.01	parking_meter.n.01
+person.n.01	lose.v.01	umbrella.n.01	own.v.01	umbrella.n.01	hold.v.11	umbrella.n.01	have.v.01	person.n.01
+person.n.01	make.v.03	doughnut.n.02	make.v.03	ball.n.03	make.v.03	sandwich.n.01	make.v.03	cake.n.01
+person.n.01	manipulate.v.05	mouse.n.01	feed.v.06	mouse.n.01	play.v.03	mouse.n.01	touch.v.01	mouse.n.01
+person.n.01	milk.v.01	cow.n.01	feed.v.01	cow.n.01	drink.v.01	person.n.01	raise.v.02	cow.n.01
+person.n.01	move.v.02	refrigerator.n.01	pull.v.01	refrigerator.n.01	push.v.01	refrigerator.n.01	carry.v.02	refrigerator.n.01
+person.n.01	obstruct.v.01	ball.n.03
+person.n.01	open.v.01	backpack.n.01	wear.v.01	backpack.n.01	carry.v.02	backpack.n.01	pack.v.01	backpack.n.01
+person.n.01	open.v.01	bag.n.06	hold.v.11	bag.n.06	carry.v.02	bag.n.06	wear.v.01	person.n.01
+person.n.01	open.v.01	bottle.n.01	open.v.03	bottle.n.01	open.v.03	person.n.01	hold.v.10	bottle.n.01
+person.n.01	open.v.01	fireplug.n.01	pull.v.04	fireplug.n.01	stand.v.01	person.n.02	hold.v.11	fireplug.n.01
+person.n.01	open.v.01	microwave.n.01	operate.v.01	microwave.n.01	hold.v.10	microwave.n.01	use.v.01	microwave.n.01
+person.n.01	open.v.01	oven.n.01	open.v.03	cabinet.n.01	open.v.03	microwave.n.01	open.v.03	toaster.n.01
+person.n.01	open.v.01	toilet.n.01	sit.v.01	toilet.n.01	clean.v.01	toilet.n.01	wash.v.01	toilet.n.01
+person.n.01	open.v.03	laptop.n.01	open.v.01	laptop.n.01	open.v.03	person.n.02	open.v.03	computer.n.01
+person.n.01	operate.v.01	horse.n.01	ride.v.01	horse.n.01	feed.v.01	horse.n.01
+person.n.01	operate.v.01	microwave.n.01	use.v.01	microwave.n.01	cook.v.01	microwave.n.01
+person.n.01	operate.v.01	toaster.n.02	toast.v.02	toaster.n.01	use.v.01	toaster.n.01	operate.v.03	toaster.n.01
+person.n.01	operate.v.03	hand_blower.n.01	use.v.01	hand_blower.n.01	hold.v.02	hand_blower.n.01	groom.v.03	person.n.01
+person.n.01	operate.v.03	oven.n.01	cook.v.02	person.n.01	use.v.01	oven.n.01	clean.v.01	oven.n.01
+person.n.01	operate.v.03	television.n.01	watch.v.03	television.n.01	operate.v.01	television.n.01	have.v.01	person.n.01
+person.n.01	own.v.01	bear.n.01	feed.v.01	bear.n.01	own.v.01	person.n.02	raise.v.02	bear.n.01
+person.n.01	own.v.01	hat.n.01	wear.v.01	hat.n.01	have.v.02	hat.n.01	own.v.01	person.n.02
+person.n.01	own.v.01	telephone.n.01	own.v.01	laptop.n.01	own.v.01	cellular_telephone.n.01	own.v.01	computer.n.01
+person.n.01	pack.v.01	bag.n.06	hold.v.11	backpack.n.01	carry.v.26	person.n.02
+person.n.01	paint.v.01	fireplug.n.01	paint.v.02	fireplug.n.01	paint.v.01	street.n.02	paint.v.01	hydrant.n.02
+person.n.01	paint.v.02	vase.n.01	wear.v.01	shirt.n.01	hold.v.10	cup.n.01
+person.n.01	park.v.01	bicycle.n.01	ride.v.01	bicycle.n.01	sit.v.01	bench.n.01	rest.v.01	grass.n.01
+person.n.01	park.v.01	motorcycle.n.01	drive_on	motorcycle.n.01	sit_on	motorcycle.n.01	walk.v.01	person.n.01
+person.n.01	park.v.02	car.n.01	drive.v.01	car.n.01	own.v.01	person.n.01	park.v.01	car.n.01
+person.n.01	parry.v.01	frisbee.n.01	obstruct.v.01	frisbee.n.01	hit.v.01	ball.n.03	throw.v.01	ball.n.01
+person.n.01	pay.v.01	parking_meter.n.01	pay.v.01	person.n.02	pay.v.01	car.n.01
+person.n.01	pet.v.01	cat.n.01	groom.v.03	cat.n.01	play.v.03	cat.n.01	feed.v.01	cat.n.01
+person.n.01	pet.v.01	cow.n.01	feed.v.01	cow.n.01	groom.v.03	cow.n.01	raise.v.02	cow.n.01
+person.n.01	pet.v.01	dog.n.01	feed.v.06	dog.n.01	play.v.03	dog.n.01	walk.v.01	dog.n.01
+person.n.01	pet.v.01	giraffe.n.01	groom.v.03	giraffe.n.01	feed.v.01	giraffe.n.01	play.v.03	giraffe.n.01
+person.n.01	pet.v.01	horse.n.01	feed.v.01	horse.n.01	ride.v.02	horse.n.01	groom.v.03	horse.n.01
+person.n.01	pet.v.01	sheep.n.01	feed.v.06	sheep.n.01	groom.v.03	sheep.n.01	own.v.01	sheep.n.01
+person.n.01	pet.v.01	zebra.n.01	groom.v.03	zebra.n.01	touch.v.05	zebra.n.01	play.v.01	zebra.n.01
+person.n.01	pick.v.01	apple.n.01	pick.v.01	person.n.02
+person.n.01	pick.v.01	banana.n.01	feed.v.01	banana.n.01	eat.v.01	banana.n.01	carry.v.02	banana.n.01
+person.n.01	pick_up.v.01	bag.n.06	carry.v.02	bag.n.06	wear.v.01	person.n.01	hold.v.10	person.n.01
+person.n.01	pick_up.v.01	skateboard.n.01	pick.v.01	skateboard.n.01	hold.v.10	skateboard.n.01	ride.v.02	skateboard.n.01
+person.n.01	pick_up.v.01	sport.n.01	pick.v.01	ball.n.03	pick.v.01	frisbee.n.01	pick.v.01	baseball_bat.n.01
+person.n.01	pick_up.v.02	doughnut.n.02	hold.v.10	person.n.02	pick.v.01	doughnut.n.02	eat.v.01	doughnut.n.02
+person.n.01	play.v.01	telephone.n.01	play.v.03	ball.n.03	play.v.05	sport.n.01	play.v.01	frisbee.n.01
+person.n.01	play.v.03	keyboard.n.01	play.v.01	keyboard.n.01	play.v.01	laptop.n.01
+person.n.01	play.v.05	ball.n.01	play.v.03	ball.n.03	play.v.01	frisbee.n.01	play.v.05	sport.n.01
+person.n.01	play.v.05	person.n.01	play.v.03	ball.n.03	play.v.01	frisbee.n.01	play.v.05	dog.n.01
+person.n.01	play.v.05	skateboard.n.01	ride.v.02	skateboard.n.01	play.v.01	person.n.01	play.v.03	person.n.01
+person.n.01	pluck.v.04	orange.n.01
+person.n.01	point.v.08	remote_control.n.01	point.v.08	person.n.02	point.v.08	television.n.01
+person.n.01	produce.v.02	hotdog.n.02	eat.v.01	hotdog.n.02	serve.v.06	hotdog.n.02	make.v.03	hotdog.n.02
+person.n.01	produce.v.02	pizza.n.01	eat.v.01	pizza.n.01	serve.v.06	pizza.n.01	cook.v.01	pizza.n.01
+person.n.01	produce.v.02	sandwich.n.01	eat.v.01	sandwich.n.01	hold.v.02	sandwich.n.01	make.v.03	sandwich.n.01
+person.n.01	pull.v.01	bag.n.06	hold.v.10	bag.n.06	carry.v.02	bag.n.06	wear.v.02	person.n.01
+person.n.01	pull.v.01	baggage.n.01	pull.v.04	backpack.n.01	pull.v.01	coat.n.03	pull.v.01	cart.n.01
+person.n.01	pull.v.01	boat.n.01	pull.v.04	boat.n.01	pull.v.04	person.n.02	pull.v.01	person.n.02
+person.n.01	pull.v.01	cart.n.01	pull.v.04	cart.n.01	pull.v.01	person.n.02	pull.v.01	horse.n.01
+person.n.01	pull.v.01	kite.n.03	launch.v.02	kite.n.01	fly.v.01	kite.n.01	hold.v.10	person.n.02
+person.n.01	pull.v.04	necktie.n.01	wear.v.01	necktie.n.01	pull.v.01	necktie.n.01	hold.v.10	tie.n.04
+person.n.01	push.v.01	bicycle.n.01	pull.v.01	bicycle.n.01	ride.v.02	bicycle.n.01	move.v.02	bicycle.n.01
+person.n.01	push.v.01	motorcycle.n.01	drive.v.02	motorcycle.n.01	ride.v.02	motorcycle.n.01	pull.v.01	motorcycle.n.01
+person.n.01	put.v.01	clock.n.01	put.v.01	table.n.01	put.v.01	cabinet.n.01	put.v.01	shelf.n.01
+person.n.01	put.v.01	umbrella.n.01	hold.v.10	umbrella.n.01	stand.v.01	person.n.01	put.v.01	cabinet.n.01
+person.n.01	race.v.02	motorcycle.n.01	race.v.04	person.n.02	ride.v.01	motorcycle.n.01
+person.n.01	race.v.04	horse.n.01	race.v.02	horse.n.01	race.v.04	person.n.02
+person.n.01	raise.v.02	fork.n.01	raise.v.02	person.n.02	raise.v.02	table.n.01
+person.n.01	read.v.01	book.n.01	teach.v.01	person.n.02	inspect.v.01	book.n.01	own.v.01	person.n.01
+person.n.01	read.v.01	laptop.n.01	sit.v.01	person.n.02	use.v.01	laptop.n.01	hold.v.10	laptop.n.01
+person.n.01	repair.v.01	bicycle.n.01	ride.v.02	bicycle.n.01	repair.v.01	person.n.02	have.v.01	bicycle.n.01
+person.n.01	repair.v.01	boat.n.01	inspect.v.01	boat.n.01	launch.v.02	boat.n.01	operate.v.01	boat.n.01
+person.n.01	repair.v.01	cellular_telephone.n.01	install.v.01	cellular_telephone.n.01	inspect.v.01	cellular_telephone.n.01	use.v.01	cellular_telephone.n.01
+person.n.01	repair.v.01	hand_blower.n.01	repair.v.01	laptop.n.01	repair.v.01	toaster.n.01	repair.v.01	microwave.n.01
+person.n.01	repair.v.01	laptop.n.01	inspect.v.01	laptop.n.01	assemble.v.01	laptop.n.01	clean.v.01	laptop.n.01
+person.n.01	repair.v.01	mouse.n.04	operate.v.01	mouse.n.01	use.v.01	computer.n.01	hold.v.10	ball.n.03
+person.n.01	repair.v.01	oven.n.01	install.v.01	oven.n.01	clean.v.01	oven.n.01	check.v.02	oven.n.01
+person.n.01	repair.v.01	parking_meter.n.01	inspect.v.01	parking_meter.n.01	install.v.01	parking_meter.n.01	operate.v.01	parking_meter.n.01
+person.n.01	repair.v.01	sink.n.01	install.v.01	sink.n.01	clean.v.01	sink.n.01	inspect.v.01	sink.n.01
+person.n.01	repair.v.01	ski.n.01	repair.v.01	snowboard.n.01
+person.n.01	repair.v.01	television.n.01	install.v.01	television.n.01	operate.v.01	television.n.01	inspect.v.01	television.n.01
+person.n.01	repair.v.01	toaster.n.01	repair.v.01	toaster.n.02	repair.v.01	laptop.n.01	repair.v.01	microwave.n.01
+person.n.01	repair.v.01	toilet.n.01	inspect.v.01	toilet.n.02	clean.v.01	toilet.n.02	install.v.01	toilet.n.02
+person.n.01	repair.v.01	truck.n.01	drive.v.01	truck.n.01	inspect.v.01	truck.n.01	own.v.01	person.n.01
+person.n.01	repair.v.01	umbrella.n.01	wear.v.01	umbrella.n.01	hold.v.10	umbrella.n.01	stand.v.02	person.n.01
+person.n.01	rest.v.01	cart.n.01	sit_on	cart.n.01	rest_on	person.n.01
+person.n.01	rest.v.02	bench.n.01	sit.v.01	bench.n.01	rest.v.01	person.n.01	sit_on	bench.n.01
+person.n.01	rest.v.02	bicycle.n.01	ride.v.02	bicycle.n.01	walk.v.01	person.n.01	rest_on	bench.n.01
+person.n.01	rest.v.02	pillow.n.01	rest.v.01	person.n.02	rest.v.01	pillow.n.01	sleep_on	pillow.n.01
+person.n.01	ride.v.01	airplane.n.01	board.v.01	airplane.n.01	ride.v.02	person.n.02	drive.v.01	airplane.n.01
+person.n.01	ride.v.01	bag.n.06	carry.v.02	bag.n.06	sit_on	horse.n.01	hold.v.10	bag.n.06
+person.n.01	ride.v.01	cow.n.01	ride.v.02	horse.n.01	ride.v.01	person.n.02	ride.v.10	truck.n.01
+person.n.01	ride.v.01	dog.n.01	ride.v.02	horse.n.01	ride.v.02	bicycle.n.01	ride.v.02	skateboard.n.01
+person.n.01	ride.v.01	elephant.n.01	ride.v.02	elephant.n.01	ride.v.01	person.n.02	ride.v.10	elephant.n.01
+person.n.01	ride.v.01	giraffe.n.01	ride.v.02	horse.n.01	ride.v.01	zebra.n.01	ride.v.01	elephant.n.01
+person.n.01	ride.v.01	horse.n.01	ride.v.02	person.n.02	ride.v.10	horse.n.01
+person.n.01	ride.v.01	sheep.n.01	ride.v.02	horse.n.01	ride.v.02	truck.n.01	ride.v.02	bicycle.n.01
+person.n.01	ride.v.02	bicycle.n.01	ride.v.01	bicycle.n.01	ride.v.10	bicycle.n.01	stand_on	bicycle.n.01
+person.n.01	ride.v.02	boat.n.01	ride.v.01	person.n.02	ride.v.10	boat.n.01	sit.v.01	person.n.01
+person.n.01	ride.v.02	bus.n.01	ride.v.01	bus.n.01	ride.v.10	bus.n.01	board.v.01	bus.n.01
+person.n.01	ride.v.02	car.n.01	drive.v.01	car.n.01	board.v.01	bus.n.01	park.v.01	parking_meter.n.01
+person.n.01	ride.v.02	cart.n.01	drive.v.02	truck.n.01	pull.v.04	horse.n.01	ride.v.01	motorcycle.n.01
+person.n.01	ride.v.02	motorcycle.n.01	drive.v.01	motorcycle.n.01	ride.v.01	motorcycle.n.01	ride.v.10	motorcycle.n.01
+person.n.01	ride.v.02	ski.n.01	ride.v.01	snowboard.n.01	ride.v.10	ski.n.01	sit.v.01	chair.n.01
+person.n.01	ride.v.02	street.n.01	drive.v.01	car.n.01	ride.v.01	bus.n.01	ride.v.10	motorcycle.n.01
+person.n.01	ride.v.02	truck.n.01	drive.v.01	truck.n.01	sit.v.01	truck.n.01	stand.v.01	truck.n.01
+person.n.01	ride.v.10	motorcycle.n.01	ride.v.01	person.n.02	ride.v.02	motorcycle.n.01	drive.v.01	motorcycle.n.01
+person.n.01	ride.v.10	snowboard.n.01	sit_on	snowboard.n.01	stand_on	snowboard.n.01
+person.n.01	ride.v.10	surfboard.n.01	sit_on	surfboard.n.01	stand_on	surfboard.n.01
+person.n.01	row.v.01	boat.n.01	sit.v.01	boat.n.01	row.v.01	person.n.02	hold.v.10	boat.n.01
+person.n.01	rub.v.02	dog.n.01	feed.v.06	dog.n.01	play.v.03	dog.n.01	pet.v.01	dog.n.01
+person.n.01	run.v.01	dog.n.01	chase.v.01	dog.n.01	play.v.03	dog.n.01	walk.v.01	person.n.01
+person.n.01	sail.v.01	boat.n.01	board.v.01	boat.n.01	drive_on	boat.n.01	launch.v.02	boat.n.01
+person.n.01	scratch.v.02	cat.n.01	touch.v.01	cat.n.01	pet.v.01	cat.n.01	hold.v.11	person.n.01
+person.n.01	send.v.01	airplane.n.01	transport.v.02	airplane.n.01	board.v.01	airplane.n.01	drive.v.01	airplane.n.01
+person.n.01	serve.v.06	ball.n.01	feed.v.01	ball.n.01	play.v.01	ball.n.01	hold.v.02	person.n.02
+person.n.01	sign.v.01	baseball_bat.n.01	sign.v.01	ball.n.03	sign.v.01	baseball_glove.n.01	sign.v.01	sports_ball
+person.n.01	sign.v.01	sports_ball	sign.v.01	ball.n.03	sign.v.01	frisbee.n.01	sign.v.01	baseball_bat.n.01
+person.n.01	sip.v.01	cup.n.01	drink.v.01	cup.n.01	have.v.01	person.n.01	hold.v.10	cup.n.01
+person.n.01	sip.v.01	spoon.n.01	drink.v.01	cup.n.01	hold.v.10	person.n.02	stir.v.01	fork.n.01
+person.n.01	sip.v.01	wine.n.01	drink.v.01	wine.n.01	sip.v.01	cup.n.01	sip.v.01	person.n.02
+person.n.01	sit.v.01	bed.n.01	sit.v.02	person.n.02	sit.v.07	bed.n.01	rest.v.01	bed.n.01
+person.n.01	sit.v.01	bench.n.01	sit.v.02	person.n.02	sit.v.07	bench.n.01	sit.v.01	table.n.01
+person.n.01	sit.v.01	bicycle.n.01	sit_on	bicycle.n.01	sit.v.02	person.n.02	ride.v.01	bicycle.n.01
+person.n.01	sit.v.01	boat.n.01	sit.v.02	person.n.02	sit.v.07	boat.n.01	rest.v.02	boat.n.01
+person.n.01	sit.v.01	cart.n.01	sit.v.02	bench.n.01	sit.v.01	chair.n.01	sit.v.01	table.n.01
+person.n.01	sit.v.01	chair.n.01	sit.v.02	chair.n.01	sit.v.01	person.n.02	sit.v.01	bench.n.01
+person.n.01	sit.v.01	dining_table.n.01	sit.v.02	person.n.02	sit.v.01	chair.n.01	sit.v.01	table.n.01
+person.n.01	sit.v.01	elephant.n.01	sit.v.07	person.n.02	sit_on	elephant.n.01	rest_on	bench.n.01
+person.n.01	sit.v.01	grass.n.01	sit.v.02	person.n.02	sit.v.01	bench.n.01	sit.v.01	chair.n.01
+person.n.01	sit.v.01	motorcycle.n.01	ride.v.02	motorcycle.n.01	sit.v.07	person.n.02	wear.v.01	helmet.n.01
+person.n.01	sit.v.01	ramp.n.01	sit.v.02	person.n.02	sit.v.07	ramp.n.01	sit_on	chair.n.01
+person.n.01	sit.v.01	sand.n.01	sit.v.02	chair.n.01	sit.v.07	bench.n.01
+person.n.01	sit.v.01	sofa.n.01	sit_on	sofa.n.01	sit.v.07	person.n.02	rest_on	sofa.n.01
+person.n.01	sit.v.01	table.n.02	sit.v.02	chair.n.01	sit.v.01	dining_table.n.01	sit.v.01	bench.n.01
+person.n.01	sit.v.01	toilet.n.02	sit.v.02	person.n.02	sit.v.07	toilet.n.01	rest.v.02	toilet.n.02
+person.n.01	sit.v.01	train.n.01	board.v.01	train.n.01	sit.v.02	person.n.01	rest.v.01	train.n.01
+person.n.01	sit.v.02	street.n.03	sit.v.01	street.n.02	sit.v.02	person.n.02	sit.v.07	street.n.01
+person.n.01	sit_down.v.01	airplane.n.01	board.v.01	airplane.n.01	sit.v.01	chair.n.01	rest.v.01	person.n.02
+person.n.01	sit_down.v.01	counter.n.01	sit.v.01	person.n.02	sit_on	chair.n.01	rest_on	counter.n.01
+person.n.01	sit_on	surfboard.n.01	sit.v.01	person.n.02	ride.v.02	surfboard.n.01	stand_on	surfboard.n.01
+person.n.01	skate.v.01	ramp.n.01	ride.v.02	skateboard.n.01	stand_on	ramp.n.01	jump.v.01	ramp.n.01
+person.n.01	skate.v.01	road.n.01	ride.v.02	skateboard.n.01	drive_on	street.n.01	walk.v.01	person.n.02
+person.n.01	skate.v.01	skateboard.n.01	skate.v.01	mouse.n.01	skate.v.01	person.n.02	skate.v.01	street.n.01
+person.n.01	skate.v.01	street.n.01	ride.v.02	skateboard.n.01	drive_on	street.n.02	walk.v.01	grass.n.01
+person.n.01	skin.v.04	banana.n.02	wash.v.01	banana.n.02	cut.v.01	banana.n.02
+person.n.01	skin.v.04	carrot.n.01	wash.v.01	carrot.n.01	cut.v.01	carrot.n.01	hold.v.10	person.n.01
+person.n.01	skin.v.04	orange.n.01	cut.v.28	orange.n.01	pick.v.01	orange.n.01
+person.n.01	sleep.v.01	bed.n.01	sleep_on	bed.n.01	rest.v.02	person.n.01	have.v.02	bed.n.01
+person.n.01	sleep.v.01	sand.n.01	sleep_on	bed.n.01	rest_on	sofa.n.01	sleep_on	pillow.n.01
+person.n.01	sleep.v.01	sofa.n.01	sleep_on	sofa.n.01	rest_on	sofa.n.01	sit_on	sofa.n.01
+person.n.01	sleep_on	bench.n.01	rest.v.01	person.n.01	sit.v.01	person.n.01	sleep.v.01	person.n.01
+person.n.01	slide.v.03	pizza.n.01	feed.v.06	pizza.n.01	eat.v.01	pizza.n.01	serve.v.06	pizza.n.01
+person.n.01	smell.v.01	banana.n.01	touch.v.01	banana.n.01	look.v.01	banana.n.01	hold.v.10	person.n.01
+person.n.01	smell.v.01	cup.n.01	inhere_in.v.01	cup.n.01	hold.v.11	person.n.01	smell.v.02	person.n.01
+person.n.01	smell.v.01	doughnut.n.02	smell.v.02	doughnut.n.02	smell.v.01	cup.n.01	smell.v.01	cake.n.01
+person.n.01	smell.v.02	broccoli.n.01	smell.v.01	broccoli.n.01	smell.v.01	person.n.01	smell.v.02	person.n.02
+person.n.01	smell.v.02	pizza.n.01	smell.v.01	pizza.n.01	smell.v.02	person.n.02	smell.v.01	person.n.01
+person.n.01	snog.v.01	cat.n.01	greet.v.01	person.n.02	touch.v.01	cat.n.01	embrace.v.02	person.n.02
+person.n.01	snog.v.01	cow.n.01	greet.v.01	person.n.02	milk.v.01	cow.n.02	embrace.v.02	person.n.01
+person.n.01	snog.v.01	dog.n.01	lick.v.02	dog.n.01	pet.v.01	dog.n.01	embrace.v.02	person.n.02
+person.n.01	snog.v.01	elephant.n.01	feed.v.01	elephant.n.01	touch.v.01	person.n.02	hold.v.10	elephant.n.01
+person.n.01	snog.v.01	giraffe.n.01	greet.v.01	person.n.02	touch.v.01	face.n.01	embrace.v.02	giraffe.n.01
+person.n.01	snog.v.01	person.n.01	greet.v.01	person.n.02	embrace.v.02	person.n.02	touch.v.01	person.n.02
+person.n.01	snog.v.01	sheep.n.01	greet.v.01	person.n.02	touch.v.01	sheep.n.01	embrace.v.02	person.n.02
+person.n.01	snog.v.01	teddy.n.01	greet.v.01	person.n.02	hold.v.10	teddy.n.01	touch.v.01	teddy.n.01
+person.n.01	squeeze.v.02	orange.n.01	squeeze.v.02	person.n.02	squeeze.v.02	cup.n.01
+person.n.01	stand.v.01	bed.n.01	sit.v.01	person.n.02	sleep_on	bed.n.01	rest_on	bed.n.01
+person.n.01	stand.v.01	bench.n.01	rest_on	bench.n.01	sit_on	bench.n.01
+person.n.01	stand.v.01	boat.n.01	stand_on	boat.n.01	hold.v.10	boat.n.01	wear.v.01	person.n.01
+person.n.01	stand.v.01	bus.n.01	stand_on	street.n.02
+person.n.01	stand.v.01	car.n.01	stand_on	parking_meter.n.01	stand_on	street.n.02	stand_on	bench.n.01
+person.n.01	stand.v.01	chair.n.01	sit.v.01	chair.n.01	stand_on	chair.n.01	lean_on.v.01	chair.n.01
+person.n.01	stand.v.01	horse.n.01	ride.v.02	horse.n.01	sit.v.01	person.n.02	stand_on	horse.n.01
+person.n.01	stand.v.01	plate.n.02	stand_on	table.n.01	stand_on	chair.n.01	stand_on	street.n.01
+person.n.01	stand.v.01	ramp.n.01	stand_on	ramp.n.01	stand.v.02	person.n.02	stand.v.03	person.n.01
+person.n.01	stand.v.01	road.n.01	stand_on	street.n.01	stand_on	road.n.01
+person.n.01	stand.v.01	sand.n.01	stand_on	sand.n.01	stand.v.02	person.n.01	stand.v.02	person.n.02
+person.n.01	stand.v.01	skateboard.n.01	ride.v.02	skateboard.n.01	wear.v.01	helmet.n.02	stand_on	skateboard.n.01
+person.n.01	stand.v.01	ski.n.01	wear.v.01	ski.n.01	stand_on	ski.n.01	stand.v.02	person.n.01
+person.n.01	stand.v.01	snowboard.n.01	stand_on	snowboard.n.01
+person.n.01	stand.v.01	sofa.n.01	sit_on	sofa.n.01	stand_on	sofa.n.01	stand_on	person.n.01
+person.n.01	stand.v.01	street.n.01	stand_on	street.n.02	stand_on	street.n.03
+person.n.01	stand.v.01	surfboard.n.01	stand_on	surfboard.n.01	hold.v.02	surfboard.n.01	wear.v.01	person.n.02
+person.n.01	stand.v.02	toilet.n.01	sit.v.01	person.n.02	inhere_in.v.01	toilet.n.02	rest.v.01	person.n.02
+person.n.01	stand_on	table.n.01	stand_on	chair.n.01	stand_on	bench.n.01	stand_on	cabinet.n.01
+person.n.01	startle.v.02	snowboard.n.01	ride.v.02	snowboard.n.01	startle.v.02	person.n.02	jump.v.11	person.n.01
+person.n.01	steer.v.01	bus.n.01	drive.v.01	bus.n.01	ride.v.01	person.n.02	park.v.01	bus.n.01
+person.n.01	stick.v.13	fork.n.01	feed.v.06	fork.n.01	pick.v.01	fork.n.01	hold.v.11	person.n.01
+person.n.01	stir.v.01	bowl.n.01	hold.v.11	spoon.n.01	stir.v.01	pot.n.01	hold.v.10	fork.n.01
+person.n.01	stir.v.01	carrot.n.01	feed.v.01	carrot.n.01	cut.v.04	carrot.n.01	hold.v.10	fork.n.01
+person.n.01	stop.v.01	stop_sign	stop.v.01	person.n.02	stop.v.01	street.n.01
+person.n.01	straddle.v.01	bicycle.n.01	ride.v.02	bicycle.n.01	sit.v.01	person.n.02	lean.v.01	bicycle.n.01
+person.n.01	straddle.v.01	dog.n.01	sit.v.01	dog.n.01	stand.v.01	dog.n.01	straddle.v.01	person.n.02
+person.n.01	straddle.v.01	horse.n.01	ride.v.02	horse.n.01	sit.v.01	person.n.02	stand.v.01	horse.n.01
+person.n.01	swing.v.01	baseball_bat.n.01	hit.v.01	baseball_bat.n.01	play.v.03	sport.n.01	stand.v.01	person.n.01
+person.n.01	swing.v.01	remote_control.n.01	hold.v.11	remote_control.n.01	hit.v.01	ball.n.03	swing.v.01	baseball_bat.n.01
+person.n.01	swing.v.01	tennis_racket.n.01	hold.v.11	tennis_racket.n.01	hit.v.01	ball.n.03	swing.v.01	ball.n.03
+person.n.01	tag.v.01	person.n.01	tag.v.01	person.n.02	tag.v.01	president.n.04	tag.v.01	proctor.n.01
+person.n.01	talk.v.01	cellular_telephone.n.01	talk.v.01	person.n.02	talk.v.01	laptop.n.01
+person.n.01	talk.v.01	person.n.01	greet.v.01	person.n.02	teach.v.01	person.n.02	confront.v.01	person.n.02
+person.n.01	tall.a.01	building.n.01	taller_than	person.n.02	tall.a.01	tower.n.01	tall.a.01	mountain.n.01
+person.n.01	tall.a.01	horse.n.01	taller_than	person.n.02	ride.v.02	horse.n.01	stand_on	horse.n.01
+person.n.01	teach.v.01	person.n.01	teach.v.01	person.n.02	teach.v.01	proctor.n.01	teach.v.01	admonisher.n.01
+person.n.01	text_on	cell_phone	text_on	cellular_telephone.n.01	text_on	laptop.n.01	text_on	telephone.n.01
+person.n.01	throw.v.01	baseball_bat.n.01	hold.v.10	baseball_bat.n.01	pick_up.v.02	baseball_bat.n.01	throw.v.01	ball.n.03
+person.n.01	throw.v.01	frisbee.n.01	play.v.01	frisbee.n.01	hold.v.11	person.n.01	catch.v.04	frisbee.n.01
+person.n.01	throw.v.01	sports_ball	play.v.01	sports_ball	catch.v.04	sports_ball	launch.v.02	sports_ball
+person.n.01	tie.v.01	boat.n.01	sail.v.01	boat.n.01	board.v.01	boat.n.01	attach.v.02	boat.n.01
+person.n.01	tie.v.01	necktie.n.01	wear.v.01	person.n.02	attach.v.02	necktie.n.01	hold.v.11	necktie.n.01
+person.n.01	tire.v.02	horse.n.01	ride.v.02	horse.n.01	rest.v.02	person.n.01	drive.v.01	horse.n.01
+person.n.01	toast.v.02	glass.n.02	hold.v.10	glass.n.02	drink.v.01	glass.n.02	raise.v.02	person.n.01
+person.n.01	touch.v.01	bag.n.01	hold.v.11	bag.n.01	pick_up.v.02	bag.n.01	carry.v.26	bag.n.01
+person.n.01	touch.v.01	bench.n.01	sit.v.01	bench.n.01	rest.v.02	bench.n.01	lean_on.v.01	bench.n.01
+person.n.01	touch.v.01	bicycle.n.01	ride.v.02	bicycle.n.01	hold.v.11	bicycle.n.01	lean.v.01	bicycle.n.01
+person.n.01	touch.v.01	cat.n.01	pet.v.01	cat.n.01	feed.v.01	cat.n.01	hold.v.10	person.n.01
+person.n.01	touch.v.01	elephant.n.01	touch.v.05	ball.n.03	touch.v.05	mouse.n.01	touch.v.05	plant.n.02
+person.n.01	touch.v.01	hat.n.01	wear.v.01	hat.n.01	hold.v.11	hat.n.01	sit.v.01	person.n.01
+person.n.01	touch.v.01	hydrant.n.02	stand_on	hydrant.n.02	sit_on	hydrant.n.02	lean_on.v.01	hydrant.n.02
+person.n.01	touch.v.01	pizza.n.01	feed.v.01	pizza.n.01	hold.v.10	pizza.n.01	eat.v.01	pizza.n.01
+person.n.01	touch.v.01	ramp.n.01	stand_on	ramp.n.01	touch.v.05	person.n.01
+person.n.01	touch.v.01	shoe.n.01	wear.v.01	shoe.n.01	kick.v.01	shoe.n.01	pick_up.v.01	shoe.n.01
+person.n.01	touch.v.01	spectacles.n.01	touch.v.05	ball.n.03	touch.v.01	hand.n.01	touch.v.01	mouse.n.01
+person.n.01	touch.v.01	table.n.02	touch.v.05	ball.n.03	touch.v.05	mouse.n.01	touch.v.05	plant.n.02
+person.n.01	touch.v.05	street.n.01	touch.v.01	ball.n.03	touch.v.01	mouse.n.01	touch.v.01	coat.n.03
+person.n.01	transport.v.02	bag.n.06	carry.v.02	backpack.n.01	hold.v.10	coat.n.03
+person.n.01	transport.v.02	bed.n.01	ride.v.02	train.n.01	hold.v.10	backpack.n.01	sleep_on	pillow.n.01
+person.n.01	transport.v.02	book.n.01	read.v.01	book.n.01	carry.v.02	backpack.n.01	drive.v.02	car.n.01
+person.n.01	transport.v.02	cake.n.03	carry.v.02	cake.n.01	hold.v.02	cake.n.01	transport.v.02	cake.n.01
+person.n.01	transport.v.02	cart.n.01	pull.v.04	horse.n.01	ride.v.02	truck.n.01	drive.v.01	car.n.01
+person.n.01	transport.v.02	chair.n.01	sit.v.01	chair.n.01	ride.v.02	train.n.01	carry.v.02	backpack.n.01
+person.n.01	transport.v.02	cup.n.01	hold.v.11	cup.n.01	drive.v.01	truck.n.01	carry.v.26	person.n.02
+person.n.01	transport.v.02	hotdog.n.02	feed.v.01	hotdog.n.02	hold.v.10	hotdog.n.02	eat.v.01	hotdog.n.02
+person.n.01	transport.v.02	person.n.01	drive.v.02	car.n.01	ride.v.01	bicycle.n.01	board.v.01	bus.n.01
+person.n.01	transport.v.02	pillow.n.01	transport.v.02	backpack.n.01	transport.v.02	car.n.01	transport.v.02	bus.n.01
+person.n.01	transport.v.02	potted_plant	carry.v.02	potted_plant	pick_up.v.02	potted_plant	hold.v.10	potted_plant
+person.n.01	transport.v.02	ski.n.01	ride.v.02	snowboard.n.01	transport.v.02	train.n.01	hold.v.11	backpack.n.01
+person.n.01	transport.v.02	umbrella.n.01	carry.v.26	umbrella.n.01	hold.v.10	umbrella.n.01	wear.v.01	coat.n.03
+person.n.01	turn.v.01	motorcycle.n.01	drive.v.02	motorcycle.n.01	ride.v.01	motorcycle.n.01	turn.v.01	person.n.02
+person.n.01	type.v.01	keyboard.n.01	use.v.01	laptop.n.01	type.v.01	computer.n.01	sit.v.01	chair.n.01
+person.n.01	type.v.01	laptop.n.01	hold.v.11	laptop.n.01	own.v.01	laptop.n.01
+person.n.01	unfold.v.04	book.n.01	read.v.01	book.n.01	open.v.01	book.n.01	hold.v.10	book.n.01
+person.n.01	unfold.v.04	scissors.n.01	hold.v.10	scissors.n.01	cut.v.01	scissors.n.01	use.v.01	scissors.n.01
+person.n.01	use.v.01	camera.n.01
+person.n.01	use.v.01	computer.n.01	use.v.01	laptop.n.01	use.v.01	mouse.n.01	use.v.01	keyboard.n.01
+person.n.01	use.v.01	kite.n.03	fly.v.01	kite.n.01	play.v.01	kite.n.01	launch.v.02	kite.n.01
+person.n.01	use.v.01	laptop.n.01	type.v.01	laptop.n.01	have.v.01	person.n.01	operate.v.01	laptop.n.01
+person.n.01	use.v.01	ramp.n.01	drive_on	ramp.n.01	walk.v.01	ramp.n.01	stand_on	ramp.n.01
+person.n.01	use.v.01	skateboard.n.01	ride.v.02	skateboard.n.01	play.v.01	skateboard.n.01	jump.v.01	skateboard.n.01
+person.n.01	use.v.01	telephone.n.01	use.v.01	cellular_telephone.n.01	use.v.01	laptop.n.01	use.v.01	computer.n.01
+person.n.01	walk.v.01	ashcan.n.01	walk.v.02	person.n.02	walk.v.01	street.n.01	walk.v.01	grass.n.01
+person.n.01	walk.v.01	building.n.01	walk.v.04	street.n.02	walk.v.02	person.n.02	walk.v.01	tree.n.01
+person.n.01	walk.v.01	car.n.01	drive.v.01	car.n.01	ride.v.01	car.n.01	walk.v.02	person.n.02
+person.n.01	walk.v.01	dog.n.01	follow.v.01	dog.n.01	chase.v.01	dog.n.01	play.v.03	dog.n.01
+person.n.01	walk.v.01	grass.n.01	stand_on	grass.n.01	sit_on	grass.n.01	walk.v.02	person.n.01
+person.n.01	walk.v.01	person.n.01	follow.v.01	person.n.02	race.v.04	person.n.02	walk.v.04	person.n.02
+person.n.01	walk.v.01	street.n.01	drive_on	street.n.02	sit.v.01	bench.n.01	feed.v.01	dog.n.01
+person.n.01	walk.v.01	tree.n.01	walk.v.04	grass.n.01	walk.v.02	street.n.01	walk.v.01	mountain.n.01
+person.n.01	walk.v.02	cow.n.01
+person.n.01	walk.v.09	dog.n.01	follow.v.01	dog.n.01	walk.v.10	person.n.01	play.v.01	dog.n.01
+person.n.01	walk.v.09	horse.n.01	ride.v.02	horse.n.01	follow.v.01	person.n.02
+person.n.01	walk.v.09	sheep.n.01	follow.v.01	sheep.n.01	herd.v.01	sheep.n.01	look.v.01	person.n.01
+person.n.01	walk.v.10	bicycle.n.01	ride.v.02	bicycle.n.01	sit.v.01	bicycle.n.01	walk.v.02	person.n.01
+person.n.01	wash.v.01	airplane.n.01	wash.v.02	person.n.02	wash.v.03	airplane.n.01	clean.v.01	airplane.n.01
+person.n.01	wash.v.01	apple.n.01	wash.v.02	person.n.02	wash.v.02	apple.n.01	wash.v.03	person.n.01
+person.n.01	wash.v.01	bowl.n.01	clean.v.01	bowl.n.01	wash.v.02	cup.n.01	wash.v.03	plate.n.04
+person.n.01	wash.v.01	broccoli.n.01	wash.v.02	person.n.02	wash.v.01	pot.n.01	wash.v.01	plate.n.02
+person.n.01	wash.v.01	bus.n.01	drive_on	bus.n.01	ride.v.02	person.n.01	sit.v.01	bus.n.01
+person.n.01	wash.v.01	cup.n.01	clean.v.01	cup.n.01	clean.v.01	person.n.01	wash.v.02	cup.n.01
+person.n.01	wash.v.01	fork.n.01	clean.v.01	fork.n.01	clean.v.01	person.n.01	wash.v.02	fork.n.01
+person.n.01	wash.v.01	horse.n.01	groom.v.03	horse.n.01	ride.v.02	horse.n.01	feed.v.01	horse.n.01
+person.n.01	wash.v.01	knife.n.01	clean.v.01	knife.n.01	hold.v.10	person.n.01	use.v.01	knife.n.01
+person.n.01	wash.v.01	motorcycle.n.01	drive_on	motorcycle.n.01	wear.v.02	person.n.02	inspect.v.01	motorcycle.n.01
+person.n.01	wash.v.01	sink.n.01	clean.v.01	person.n.02	wash.v.02	sink.n.01	wash.v.03	person.n.01
+person.n.01	wash.v.01	surfboard.n.01	wash.v.02	surfboard.n.01	wash.v.03	surfboard.n.01	wash.v.01	person.n.02
+person.n.01	wash.v.01	toothbrush.n.01	clean.v.01	toothbrush.n.01	use.v.01	toothbrush.n.01	hold.v.10	toothbrush.n.01
+person.n.01	wash.v.01	truck.n.01	clean.v.01	truck.n.01	drive.v.01	truck.n.01	have.v.01	person.n.01
+person.n.01	wash.v.02	carrot.n.01	wash.v.01	person.n.02	wash.v.01	carrot.n.01	clean.v.01	person.n.01
+person.n.01	wash.v.02	dog.n.01	feed.v.01	dog.n.01	groom.v.03	dog.n.01	play.v.03	dog.n.01
+person.n.01	wash.v.02	elephant.n.01	wash.v.01	person.n.02	wash.v.01	elephant.n.01	wash.v.01	spoon.n.01
+person.n.01	wash.v.02	sheep.n.01	groom.v.03	sheep.n.01	hold.v.11	person.n.01	feed.v.01	sheep.n.01
+person.n.01	wash.v.03	bicycle.n.01	ride.v.02	bicycle.n.01	wear.v.01	person.n.01	clean.v.01	bicycle.n.01
+person.n.01	wash.v.03	cat.n.01	wash.v.01	person.n.02	wash.v.02	cat.n.01	clean.v.01	cat.n.01
+person.n.01	wash.v.03	spoon.n.01	wash.v.01	spoon.n.01	wash.v.03	plate.n.04	wash.v.03	fork.n.01
+person.n.01	watch.v.01	boat.n.01	watch.v.03	person.n.02	watch.v.04	person.n.01
+person.n.01	watch.v.01	giraffe.n.01	watch.v.03	person.n.02	look.v.01	giraffe.n.01
+person.n.01	watch.v.01	kite.n.03	watch.v.03	kite.n.01	watch.v.01	frisbee.n.01	watch.v.01	ball.n.03
+person.n.01	watch.v.01	laptop.n.01	watch.v.03	person.n.02	watch.v.01	monitor.n.05	watch.v.01	television.n.01
+person.n.01	watch.v.01	monitor.n.04	watch.v.03	monitor.n.05	look.v.01	monitor.n.05	watch.v.01	laptop.n.01
+person.n.01	watch.v.01	person.n.01	watch.v.03	person.n.02	look.v.02	person.n.02	look.v.01	person.n.02
+person.n.01	watch.v.01	television.n.01	watch.v.03	person.n.02	watch.v.03	laptop.n.01	watch.v.03	monitor.n.05
+person.n.01	watch.v.01	truck.n.01	drive_on	truck.n.01	watch.v.03	person.n.02	look.v.01	person.n.01
+person.n.01	watch.v.03	ball.n.01	watch.v.01	ball.n.03	watch.v.03	person.n.02	watch.v.01	sports_ball
+person.n.01	wear.v.01	baseball_glove.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	helmet.n.01
+person.n.01	wear.v.01	coat.n.01	wear.v.02	coat.n.03	wear.v.05	shirt.n.01	wear.v.01	jacket.n.01
+person.n.01	wear.v.01	cone.n.01	wear.v.02	shirt.n.01	wear.v.02	coat.n.03	wear.v.02	hat.n.01
+person.n.01	wear.v.01	hat.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	helmet.n.01
+person.n.01	wear.v.01	helmet.n.01	wear.v.02	helmet.n.02	wear.v.01	coat.n.03	wear.v.01	shirt.n.01
+person.n.01	wear.v.01	jean.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	short_pants.n.01
+person.n.01	wear.v.01	necktie.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	tie.n.04
+person.n.01	wear.v.01	shirt.n.01	wear.v.02	coat.n.01	wear.v.02	trouser.n.01	wear.v.02	jacket.n.01
+person.n.01	wear.v.01	shoe.n.01	wear.v.05	coat.n.03	wear.v.02	shirt.n.01	wear.v.01	trouser.n.01
+person.n.01	wear.v.01	sunglasses.n.01	wear.v.02	coat.n.01	wear.v.02	shirt.n.01	wear.v.02	hat.n.01
+person.n.01	wear.v.01	trouser.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	jean.n.01
+person.n.01	wear.v.02	backpack.n.01	wear.v.01	coat.n.03	wear.v.05	shirt.n.01	wear.v.02	hat.n.01
+person.n.01	wear.v.02	bag.n.01	wear.v.01	coat.n.01	wear.v.01	backpack.n.01	wear.v.01	shirt.n.01
+person.n.01	wear.v.02	ski.n.01	wear.v.01	coat.n.03	wear.v.01	helmet.n.02	wear.v.01	jacket.n.01
+person.n.01	wear.v.02	snowboard.n.01	wear.v.01	coat.n.03	wear.v.01	jacket.n.01	wear.v.05	helmet.n.02
+person.n.01	wear.v.02	spectacles.n.01	wear.v.05	spectacles.n.01	have.v.01	spectacles.n.01	have.v.02	spectacles.n.01
+person.n.01	wear.v.02	watch.n.01	wear.v.01	coat.n.01	wear.v.01	shirt.n.01	wear.v.01	jacket.n.01
+person.n.01	wear.v.05	camera.n.01	hold.v.11	camera.n.01	look.v.01	person.n.01	wear.v.01	coat.n.03
+person.n.01	whirl.v.02	frisbee.n.01	play.v.03	frisbee.n.01	hold.v.11	person.n.01	throw.v.01	frisbee.n.01
+person.n.01	whirl.v.02	sport.n.01	play.v.01	sport.n.01	hold.v.11	person.n.01	race.v.04	sport.n.01
+person.n.01	wield.v.02	baseball_bat.n.01	hold.v.10	baseball_bat.n.01	carry.v.02	baseball_bat.n.01	swing.v.01	baseball_bat.n.01
+person.n.01	wield.v.02	knife.n.01	hold.v.10	knife.n.01	cut.v.01	knife.n.01	use.v.01	knife.n.01
+person.n.01	zip_up.v.01	bag.n.06	wear.v.01	coat.n.03	carry.v.02	backpack.n.01	hold.v.02	laptop.n.01
+person.n.02	pick_up.v.02	ski.n.01	wear.v.05	person.n.02	hold.v.11	ski.n.01	use.v.01	ski.n.01
+pillow.n.01	cover.v.01	person.n.01	cover.v.02	pillow.n.01	cover.v.01	person.n.02	cover.v.01	bed.n.01
+pillow.n.01	lie.v.01	sofa.n.01	rest_on	pillow.n.01	sit_on	sofa.n.01	lie.v.02	sofa.n.01
+pillow.n.01	rest_on	bed.n.01	rest.v.02	pillow.n.01	rest.v.01	bed.n.01	sleep_on	pillow.n.01
+pizza.n.01	sit.v.02	plate.n.04	sit.v.01	plate.n.04	sit.v.01	pizza.n.01
+plant.n.01	have.v.01	pot.n.04	have.v.02	pot.n.01	have.v.02	potted_plant	have.v.02	plant.n.02
+plate.n.02	have.v.01	bowl.n.01	have.v.02	plate.n.04	have.v.02	cup.n.01	have.v.02	bowl.n.01
+plate.n.04	have.v.01	pizza.n.01	have.v.02	plate.n.04	have.v.01	bowl.n.01	have.v.01	cup.n.01
+post.n.01	have.v.01	lamp.n.01	have.v.02	lamp.n.02	have.v.01	post.n.04	stand.v.01	person.n.02
+post.n.04	have.v.01	glass.n.01	have.v.02	glass.n.02	have.v.01	cup.n.01	have.v.01	vase.n.01
+post.n.04	have.v.01	lamp.n.02	have.v.02	post.n.01	have.v.02	lamp.n.01	have.v.01	cabinet.n.01
+pot.n.01	have.v.01	tree.n.01	have.v.02	pot.n.01	have.v.01	potted_plant	have.v.01	plant.n.02
+pot.n.01	have.v.02	plant.n.02	have.v.01	pot.n.01	contain.v.05	plant.n.02	hold.v.10	pot.n.01
+pot.n.04	hold.v.11	plant.n.01	hold.v.10	pot.n.01	hold.v.11	potted_plant	contain.v.05	plant.n.02
+president.n.04	face.v.05	monitor.n.04	turn.v.01	laptop.n.01	turn.v.01	monitor.n.05	face.v.05	person.n.02
+refrigerator.n.01	have.v.01	cat.n.01	have.v.02	refrigerator.n.01	own.v.01	refrigerator.n.01	feed.v.01	cat.n.01
+refrigerator.n.01	have.v.02	paper.n.01	have.v.01	refrigerator.n.01	have.v.01	paper.n.01	contain.v.05	paper.n.01
+road.n.01	have.v.01	bus.n.01	drive_on	bus.n.01	park.v.01	bus.n.01	transport.v.02	bus.n.01
+road.n.01	have.v.01	car.n.01	drive_on	car.n.01	park.v.01	car.n.01	have.v.02	road.n.01
+road.n.01	have.v.01	mountain.n.01	have.v.02	road.n.01	have.v.02	mountain.n.01	contain.v.05	mountain.n.01
+road.n.01	have.v.01	train.n.01	drive_on	train.n.01	park.v.01	road.n.01	board.v.01	train.n.01
+road.n.01	have.v.01	truck.n.01	drive_on	truck.n.01	park.v.01	truck.n.01	load.v.01	truck.n.01
+roof.n.01	cover.v.01	bench.n.01	cover.v.02	building.n.01	sit.v.01	bench.n.01	sit_on	roof.n.01
+sand.n.01	have.v.01	grass.n.01	have.v.02	sand.n.01	have.v.02	grass.n.01	have.v.01	plant.n.02
+shelf.n.01	have.v.01	basket.n.01	have.v.02	basket.n.01	have.v.02	shelf.n.01	contain.v.05	basket.n.01
+shelf.n.01	have.v.01	cabinet.n.01	have.v.02	shelf.n.01	contain.v.05	cabinet.n.01	own.v.01	cabinet.n.01
+shelf.n.01	have.v.01	glass.n.02	have.v.02	cup.n.01	have.v.02	vase.n.01	have.v.02	bottle.n.01
+shelf.n.01	have.v.01	plant.n.02	have.v.02	potted_plant	have.v.02	plant.n.01	have.v.01	vase.n.01
+shirt.n.01	cover.v.01	person.n.01	wear.v.02	shirt.n.01	cover.v.01	coat.n.03	cover.v.01	person.n.02
+shirt.n.01	have.v.02	necktie.n.01	have.v.01	shirt.n.01	wear.v.01	necktie.n.01	wear.v.02	shirt.n.01
+shirt.n.01	keep.v.01	sunglasses.n.01	wear.v.01	shirt.n.01	wear.v.01	sunglasses.n.01
+shoe.n.01	touch.v.01	skateboard.n.01	wear.v.01	shoe.n.01	ride.v.02	skateboard.n.01	push.v.01	skateboard.n.01
+shoe.n.01	touch.v.01	street.n.02	touch.v.05	ball.n.03	touch.v.05	person.n.02	touch.v.05	truck.n.01
+shrub.n.01	touch.v.01	bench.n.01	touch.v.05	ball.n.03	touch.v.05	mouse.n.01	touch.v.05	potted_plant
+shrub.n.01	touch.v.01	building.n.01	touch.v.05	ball.n.03	touch.v.01	tree.n.01	touch.v.01	grass.n.01
+sink.n.01	have.v.01	cup.n.01	have.v.02	cup.n.01	have.v.02	sink.n.01	contain.v.05	cup.n.01
+sink.n.01	have.v.01	faucet.n.01	have.v.02	sink.n.01	have.v.02	faucet.n.01	own.v.01	faucet.n.01
+skateboard.n.01	have.v.01	wheel.n.01	have.v.02	wheel.n.01	have.v.01	street.n.01
+sky.n.01	cover.v.01	tower.n.01	cover.v.02	roof.n.01	cover.v.02	tree.n.01	cover.v.02	mountain.n.01
+sky.n.01	have	kite.n.03	fly.v.01	kite.n.01	play.v.01	kite.n.01	look.v.02	sky.n.01
+sky.n.01	incorporate.v.02	sky.n.01	incorporate.v.02	mountain.n.01	incorporate.v.02	bird.n.01	incorporate.v.02	tree.n.01
+sofa.n.01	have.v.01	bag.n.01	have.v.02	backpack.n.01	have.v.02	potted_plant	have.v.02	coat.n.01
+sofa.n.01	have.v.01	dog.n.01	have.v.02	dog.n.01	sit.v.01	sofa.n.01	rest.v.02	sofa.n.01
+sofa.n.01	have.v.01	person.n.01	have.v.02	person.n.02	own.v.01	person.n.01	sit.v.01	sofa.n.01
+sofa.n.01	have.v.01	pillow.n.01	have.v.02	pillow.n.01	own.v.01	pillow.n.01	rest_on	pillow.n.01
+sofa.n.01	hold.v.10	person.n.01	hold.v.11	sofa.n.01	hold.v.11	person.n.02	sit.v.01	sofa.n.01
+spectacles.n.01	sit.v.07	face.n.01	sit.v.01	spectacles.n.01	sit.v.01	face.n.01	sit.v.02	spectacles.n.01
+stove.n.01	have.v.01	laptop.n.01	have.v.02	stove.n.01	have.v.02	laptop.n.01	own.v.01	laptop.n.01
+stove.n.01	have.v.01	pot.n.01	have.v.02	pot.n.01	cook.v.01	pot.n.01	use.v.01	pot.n.01
+street.n.01	have.v.01	baggage.n.01	have.v.02	backpack.n.01	have.v.02	coat.n.03	have.v.02	bag.n.01
+street.n.01	have.v.01	cone.n.01	have.v.02	street.n.02	have.v.02	street.n.03	have.v.01	parking_meter.n.01
+street.n.01	have.v.01	motorcycle.n.01	drive_on	motorcycle.n.01	park.v.01	motorcycle.n.01	own.v.01	motorcycle.n.01
+street.n.01	have.v.01	sand.n.01	have.v.02	street.n.02	have.v.02	street.n.03	have.v.02	sand.n.01
+street.n.01	have.v.01	tree.n.01	have.v.02	street.n.02	have.v.01	bench.n.01	have.v.01	bush.n.02
+street.n.01	have.v.02	bench.n.01	sit.v.01	bench.n.01	rest.v.02	bench.n.01	stand.v.01	street.n.01
+street.n.01	have.v.02	grass.n.01	have.v.01	street.n.02	have.v.01	parking_meter.n.01	have.v.01	bench.n.01
+street.n.01	touch.v.05	ashcan.n.01	touch.v.01	street.n.02	touch.v.01	ashcan.n.01	touch.v.05	person.n.01
+street.n.02	have.v.01	bus.n.01	have.v.02	street.n.02	own.v.01	bus.n.01	contain.v.05	bus.n.01
+street.n.02	have.v.01	car.n.01	park.v.01	street.n.01	drive.v.01	car.n.01	own.v.01	car.n.01
+street.n.02	have.v.01	van.n.05	drive_on	van.n.05	park.v.01	van.n.05	obstruct.v.01	street.n.02
+street.n.02	hold.v.11	car.n.01	drive_on	car.n.01	park.v.01	car.n.01	inhere_in.v.01	street.n.02
+surfboard.n.01	tall.a.01	person.n.01	taller_than	person.n.02	tall.a.01	plant.n.02	tall.a.01	tree.n.01
+table.n.01	have.v.01	bag.n.01	have.v.02	table.n.01	have.v.02	bag.n.01	contain.v.05	bag.n.01
+table.n.01	have.v.01	bottle.n.01	have.v.02	table.n.01	contain.v.05	bottle.n.01	hold.v.11	table.n.01
+table.n.01	have.v.01	bowl.n.01	have.v.02	plate.n.04	have.v.02	cup.n.01	have.v.02	spoon.n.01
+table.n.01	have.v.01	can.n.01	have.v.02	can.n.01	contain.v.05	can.n.01	own.v.01	can.n.01
+table.n.01	have.v.01	spectacles.n.01	have.v.02	table.n.01	have.v.01	sunglasses.n.01	own.v.01	spectacles.n.01
+table.n.01	have.v.01	vase.n.01	have.v.02	table.n.01	have.v.01	plant.n.02	have.v.01	pot.n.01
+table.n.01	hold.v.10	laptop.n.01	hold.v.11	laptop.n.01	hold.v.02	table.n.01	rest.v.01	laptop.n.01
+table.n.01	hold.v.10	monitor.n.04	hold.v.11	table.n.01	hold.v.10	laptop.n.01	hold.v.10	monitor.n.05
+table.n.02	carry.v.26	keyboard.n.01	sit_on	table.n.01	type.v.01	keyboard.n.01	hold.v.10	laptop.n.01
+table.n.02	cover.v.01	table.n.02	cover.v.02	table.n.01	cover.v.02	dining_table.n.01	cover.v.02	cabinet.n.01
+table.n.02	have.v.01	basket.n.01	have.v.02	basket.n.01	own.v.01	basket.n.01	contain.v.05	basket.n.01
+table.n.02	have.v.01	camera.n.01	have.v.02	table.n.01	have.v.01	laptop.n.01	have.v.01	monitor.n.05
+table.n.02	have.v.01	cat.n.01	have.v.02	table.n.01	have.v.02	dining_table.n.01	have.v.02	cabinet.n.01
+table.n.02	have.v.01	chair.n.01	have.v.02	table.n.01	own.v.01	chair.n.01	sit_on	chair.n.01
+table.n.02	have.v.01	cup.n.01	have.v.02	cup.n.01	sit.v.01	table.n.02	put.v.01	cup.n.01
+table.n.02	have.v.01	lamp.n.02	have.v.02	lamp.n.02	have.v.01	cabinet.n.01	have.v.01	potted_plant
+table.n.02	have.v.01	monitor.n.04	have.v.02	table.n.01	have.v.02	dining_table.n.01	have.v.02	laptop.n.01
+table.n.02	have.v.01	mouse.n.01	have.v.02	table.n.01	have.v.02	dining_table.n.01	have.v.02	laptop.n.01
+table.n.02	have.v.01	person.n.01	have.v.02	person.n.02	have.v.01	dining_table.n.01	own.v.01	table.n.01
+table.n.02	have.v.01	plant.n.02	have.v.02	table.n.01	have.v.02	dining_table.n.01	have.v.02	potted_plant
+table.n.02	have.v.01	plate.n.04	have.v.02	plate.n.03	have.v.02	cup.n.01	have.v.02	bowl.n.01
+table.n.02	have.v.01	telephone.n.01	have.v.02	table.n.01	have.v.02	dining_table.n.01	have.v.02	cabinet.n.01
+table.n.02	keep.v.01	plant.n.02	keep.v.01	potted_plant	keep.v.01	desk.n.01	keep.v.01	vase.n.01
+table.n.02	transport.v.02	vase.n.01	hold.v.11	vase.n.01	sit_on	table.n.02	carry.v.26	vase.n.01
+table.n.03	incorporate.v.02	laptop.n.01	have	table.n.02
+telephone.n.01	have.v.02	camera.n.01	have.v.01	cellular_telephone.n.01	have.v.01	laptop.n.01	have.v.01	television.n.01
+tower.n.01	attach_to.v.01	building.n.01	attach.v.02	roof.n.01	attach.v.01	building.n.01	stand.v.01	tower.n.01
+tower.n.01	have.v.01	roof.n.01	have.v.02	tower.n.01	have.v.02	roof.n.01	have	tower.n.01
+tower.n.01	hold.v.11	clock.n.01	inhere_in.v.01	clock.n.01	stand.v.01	tower.n.01	contain.v.05	tower.n.01
+tower.n.01	keep.v.01	clock.n.01	taller_than	clock.n.01	stand_on	clock.n.01	attach_to	clock.n.01
+tower.n.01	tall.a.01	building.n.01	taller_than	mountain.n.01	tall.a.01	tree.n.01
+tower.n.01	tall.a.01	tree.n.01	taller_than	mountain.n.01	taller_than	person.n.02	taller_than	giraffe.n.01
+traffic_light.n.01	have.v.01	hand.n.01	have.v.02	traffic_light.n.01	have.v.01	person.n.02	have.v.01	street.n.02
+train.n.01	against	sky.n.01	against	mountain.n.01
+train.n.01	have.v.01	engine.n.01	have.v.02	engine.n.01	own.v.01	engine.n.01	contain.v.05	engine.n.01
+train.n.01	have.v.01	wheel.n.01	have.v.02	wheel.n.01	have.v.01	engine.n.01	have.v.01	baggage.n.01
+train.n.01	have.v.02	roof.n.01	have.v.01	train.n.01	cover.v.02	roof.n.01	have.v.01	roof.n.01
+train.n.01	have.v.02	side.n.04	have.v.01	engine.n.01	have.v.01	roof.n.01	have.v.01	side.n.04
+train.n.01	transport.v.02	baggage.n.01	load.v.04	baggage.n.01	board.v.01	train.n.01	carry.v.02	baggage.n.01
+tree.n.01	against	sky.n.01	against	mountain.n.01	against	bird.n.01	against	roof.n.01
+tree.n.01	attach_to.v.01	grass.n.01	attach.v.02	tree.n.01	attach.v.02	grass.n.01	stand_on	tree.n.01
+tree.n.01	attach_to.v.01	tree.n.01	attach.v.02	tree.n.01	rest_on	tree.n.01	stand_on	tree.n.01
+tree.n.01	confront.v.01	bicycle.n.01	confront.v.03	bicycle.n.01	confront.v.02	tree.n.01	against	tree.n.01
+tree.n.01	have.v.01	clock.n.01	have.v.02	tree.n.01	have.v.02	clock.n.01	own.v.01	tree.n.01
+tree.n.01	have.v.01	pot.n.04	have.v.02	potted_plant	contain.v.05	plant.n.02	own.v.01	pot.n.01
+tree.n.01	tall.a.01	building.n.01	taller_than	mountain.n.01	taller_than	building.n.01	taller_than	tree.n.01
+tree.n.01	tall.a.01	giraffe.n.01	taller_than	tree.n.01	taller_than	giraffe.n.01
+tree.n.01	tall.a.01	grass.n.01	taller_than	tree.n.01	taller_than	grass.n.01	tall.a.01	plant.n.02
+tree.n.01	tall.a.01	shrub.n.01	taller_than	shrub.n.01	taller_than	plant.n.02	taller_than	bush.n.02
+tree.n.01	tall.a.01	skateboard.n.01	taller_than	mountain.n.01	ride.v.01	person.n.02	sit_on	skateboard.n.01
+tree.n.01	taller_than	elephant.n.01	taller_than	mountain.n.01	taller_than	tower.n.01	taller_than	person.n.02
+tree.n.01	taller_than	person.n.01	taller_than	mountain.n.01	taller_than	giraffe.n.01	taller_than	tower.n.01
+trouser.n.01	touch.v.01	boat.n.01	wear.v.01	trouser.n.01	sail.v.01	boat.n.01	touch.v.05	boat.n.01
+trouser.n.01	touch.v.01	desk.n.01	touch.v.05	ball.n.03	touch.v.05	mouse.n.01	touch.v.05	plant.n.02
+trouser.n.01	touch.v.01	shoe.n.01	wear.v.01	trouser.n.01	wear.v.01	shoe.n.01	sit_on	trouser.n.01
+truck.n.01	drive.v.01	road.n.01	drive_on	street.n.01	drive.v.02	truck.n.01
+truck.n.01	follow.v.01	truck.n.01	drive_on	truck.n.01	load.v.01	truck.n.01	park.v.01	truck.n.01
+truck.n.01	have.v.01	basket.n.01	have.v.02	basket.n.01	own.v.01	basket.n.01	contain.v.05	basket.n.01
+truck.n.01	have.v.01	boat.n.01	have.v.02	truck.n.01	have.v.02	boat.n.01	own.v.01	truck.n.01
+truck.n.01	have.v.01	cone.n.01	have.v.02	ball.n.03	have.v.02	parking_meter.n.01	have.v.02	laptop.n.01
+truck.n.01	have.v.01	person.n.01	have.v.02	truck.n.01	have.v.01	person.n.02	own.v.01	truck.n.01
+truck.n.01	have.v.01	plate.n.02	have.v.02	plate.n.04	have.v.02	plate.n.03	have.v.02	glass.n.02
+truck.n.01	have.v.01	ramp.n.01	have.v.02	truck.n.01	have.v.02	ramp.n.01
+truck.n.01	have.v.01	roof.n.01	have.v.02	truck.n.01	have.v.02	roof.n.01
+truck.n.01	have.v.01	wheel.n.01	have.v.02	wheel.n.01	drive.v.01	truck.n.01	carry.v.02	truck.n.01
+truck.n.01	have.v.02	bed.n.01	have.v.01	bed.n.01	have.v.02	parking_meter.n.01
+truck.n.01	incorporate.v.02	box.n.01	contain.v.05	box.n.01	hold.v.10	truck.n.01	carry.v.02	truck.n.01
+truck.n.01	park.v.01	grass.n.01	park.v.02	truck.n.01	drive_on	truck.n.01
+truck.n.01	park.v.01	road.n.01	drive_on	truck.n.01	rest.v.02	truck.n.01	stand_on	road.n.01
+truck.n.01	park.v.01	street.n.01	park.v.02	truck.n.01	park.v.01	street.n.02	park.v.01	street.n.03
+truck.n.01	pull.v.01	boat.n.01	pull.v.04	truck.n.01	pull.v.04	boat.n.01
+truck.n.01	transport.v.02	elephant.n.01	carry.v.02	elephant.n.01	drive.v.01	truck.n.01	load.v.01	truck.n.01
+truck.n.01	transport.v.02	person.n.01	drive.v.02	truck.n.01	carry.v.26	person.n.01
+truck.n.01	transport.v.02	wheel.n.01	drive.v.02	truck.n.01	turn.v.01	wheel.n.01	load.v.04	truck.n.01
+umbrella.n.01	cover.v.01	bag.n.01	cover.v.01	backpack.n.01	cover.v.01	coat.n.03	cover.v.01	table.n.01
+umbrella.n.01	cover.v.01	table.n.03	cover.v.02	umbrella.n.01	cover.v.01	table.n.01	cover.v.01	dining_table.n.01
+umbrella.n.01	cover.v.02	dog.n.01	cover.v.01	umbrella.n.01	cover.v.01	dog.n.01	hold.v.02	umbrella.n.01
+umbrella.n.01	cover.v.02	person.n.01	hold.v.10	umbrella.n.01	cover.v.01	person.n.01	wear.v.01	coat.n.03
+umbrella.n.01	cover.v.02	surfboard.n.01	sit_on	surfboard.n.01	ride.v.01	surfboard.n.01
+van.n.05	have.v.02	wheel.n.01	have.v.01	truck.n.01	have.v.02	engine.n.01
+vase.n.01	have.v.01	plant.n.02	have.v.02	pot.n.01	have.v.02	potted_plant	have.v.02	plant.n.01
+vase.n.01	hold.v.11	plant.n.02	hold.v.10	pot.n.01	hold.v.10	bowl.n.01	hold.v.10	cup.n.01
+wheel.n.01	attach.v.02	airplane.n.01	attach.v.01	wheel.n.01	attach.v.01	airplane.n.01	install.v.01	wheel.n.01
+wheel.n.01	attach_to.v.01	bus.n.01	drive.v.02	bus.n.01	attach.v.02	wheel.n.01	move.v.02	bus.n.01
+wheel.n.01	have.v.02	wheel.n.03	have.v.01	wheel.n.03	have.v.01	wheel.n.01	drive.v.02	wheel.n.01
+wheel.n.01	inhere_in.v.01	handcart.n.01	inhere_in.v.01	wheel.n.03	inhere_in.v.01	cart.n.01	inhere_in.v.01	truck.n.01
+wheel.n.01	touch.v.01	street.n.02	drive_on	car.n.01	park.v.01	bus.n.01	ride.v.02	bicycle.n.01
+airplane.n.01	have.v.01	roof.n.02	have.v.02	roof.n.01	have.v.01	truck.n.01	have.v.01	car.n.01
+bag.n.01	lie.v.01	baggage.n.01	contain.v.05	bag.n.01	hold.v.10	baggage.n.01	pack.v.01	bag.n.01
+basket.n.01	have.v.01	ski.n.01	have.v.02	backpack.n.01	have.v.02	coat.n.03	have.v.02	ski.n.01
+bear.n.01	drive.v.01	car.n.01	drive_on	truck.n.01	drive_on	motorcycle.n.01	drive_on	bus.n.01
+bear.n.01	wear.v.01	ski.n.01	wear.v.05	coat.n.01	wear.v.05	shirt.n.01	wear.v.05	jacket.n.01
+bench.n.01	against	table.n.02	against	ball.n.03	against	person.n.02	against	tree.n.01
+boat.n.01	have.v.01	wheel.n.01	have.v.02	wheel.n.01	own.v.01	wheel.n.01	attach.v.02	wheel.n.01
+building.n.01	have.v.01	wheel.n.01	have.v.02	parking_meter.n.01	have.v.02	bicycle.n.01	have.v.02	car.n.01
+building.n.01	tall.a.01	person.n.01	taller_than	building.n.01	taller_than	person.n.01	sit_on	building.n.01
+bus.n.01	have.v.01	person.n.01	have.v.02	bus.n.01	have.v.02	person.n.02	own.v.01	bus.n.01
+bus.n.01	have.v.01	plate.n.02	have.v.02	plate.n.04	have.v.01	parking_meter.n.01	have.v.01	truck.n.01
+cabinet.n.01	have.v.01	counter.n.01	have.v.02	cabinet.n.01	have.v.02	counter.n.01	own.v.01	cabinet.n.01
+car.n.01	have.v.01	person.n.02	own.v.01	car.n.01	drive.v.01	car.n.01	wear.v.01	coat.n.03
+car.n.01	have.v.01	plate.n.02	have.v.02	plate.n.04	own.v.01	plate.n.03
+car.n.01	park.v.01	street.n.02	park.v.02	parking_meter.n.01	park.v.02	person.n.02	park.v.02	truck.n.01
+cart.n.01	hold.v.02	bag.n.06	hold.v.10	backpack.n.01	hold.v.11	baseball_bat.n.01	hold.v.22	cup.n.01
+cart.n.01	hold.v.11	baggage.n.01	load.v.04	baggage.n.01	carry.v.02	baggage.n.01	transport.v.02	baggage.n.01
+cat.n.01	have.v.01	hat.n.01	have.v.02	ball.n.03	have.v.02	mouse.n.01	have.v.02	coat.n.03
+cat.n.01	sleep.v.01	car.n.01	rest.v.01	cat.n.01	drive.v.01	car.n.01	park.v.01	car.n.01
+cat.n.01	stand.v.01	chair.n.01	sit.v.01	chair.n.01	stand_on	chair.n.01	rest_on	chair.n.01
+chair.n.01	taller_than	person.n.01	taller_than	person.n.02	taller_than	giraffe.n.01
+chair.n.01	touch.v.01	table.n.02	touch.v.05	chair.n.01	sit.v.01	chair.n.01	touch.v.01	dining_table.n.01
+clock.n.01	attach_to.v.01	tower.n.01	stand_on	tower.n.01	attach.v.02	clock.n.01	inhere_in.v.01	tower.n.01
+clock.n.01	lie.v.02	chair.n.01	sit.v.01	chair.n.01	rest.v.01	chair.n.01	lie.v.01	clock.n.01
+counter.n.01	have.v.01	sink.n.01	have.v.02	table.n.01	have.v.01	faucet.n.01	have.v.01	cabinet.n.01
+desk.n.01	have.v.01	bag.n.01	have.v.02	backpack.n.01	have.v.02	laptop.n.01	have.v.02	book.n.01
+dog.n.01	follow.v.01	person.n.01	follow.v.01	ball.n.03	follow.v.01	frisbee.n.01	follow.v.01	cat.n.01
+dog.n.01	pull.v.01	person.n.01	pull.v.04	ball.n.03	pull.v.04	frisbee.n.01	pull.v.04	mouse.n.01
+dog.n.01	sit.v.01	basket.n.01	sit.v.02	dog.n.01	hold.v.10	basket.n.01
+dog.n.01	sit.v.01	bed.n.01	sit.v.02	bed.n.01	sit.v.01	person.n.02	sit.v.01	sofa.n.01
+dog.n.01	wear.v.01	hat.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	jacket.n.01
+dog.n.01	wear.v.02	sunglasses.n.01	wear.v.01	coat.n.03	wear.v.01	shirt.n.01	wear.v.01	hat.n.01
+elephant.n.01	wear.v.01	hat.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	helmet.n.01
+face.n.01	have.v.02	spectacles.n.01	have.v.01	spectacles.n.01	wear.v.01	spectacles.n.01	look.v.01	spectacles.n.01
+hand.n.01	touch.v.01	grass.n.01	hold.v.11	grass.n.01	pick.v.01	grass.n.01	squeeze.v.02	grass.n.01
+horse.n.01	look.v.01	street.n.01	look.v.02	parking_meter.n.01	look.v.02	tree.n.01	look.v.02	dog.n.01
+horse.n.01	pull.v.01	cart.n.01	pull.v.04	horse.n.01	pull.v.04	cart.n.01
+kite.n.03	against	sky.n.01	fly.v.01	kite.n.03	play.v.01	kite.n.03	look.v.01	sky.n.01
+motorcycle.n.01	have.v.02	person.n.01	drive.v.02	motorcycle.n.01	own.v.01	person.n.02	ride.v.01	motorcycle.n.01
+motorcycle.n.01	incorporate.v.02	basket.n.01	have.v.02	motorcycle.n.01	contain.v.05	motorcycle.n.01
+person.n.01	attach.v.03	snowboard.n.01	wear.v.01	snowboard.n.01	stand_on	snowboard.n.01	hold.v.11	snowboard.n.01
+person.n.01	carry.v.02	jacket.n.01	wear.v.05	jacket.n.01	have.v.01	person.n.02	hold.v.10	jacket.n.01
+person.n.01	carry.v.02	telephone.n.01	carry.v.26	backpack.n.01	carry.v.26	coat.n.03	carry.v.26	bag.n.01
+person.n.01	clean.v.01	refrigerator.n.01	wash.v.01	refrigerator.n.01	inspect.v.01	refrigerator.n.01	touch.v.01	refrigerator.n.01
+person.n.01	cut.v.01	hotdog.n.02	hold.v.10	fork.n.01	cut.v.04	knife.n.01	eat.v.01	sandwich.n.01
+person.n.01	cut.v.04	knife.n.01	wield.v.02	knife.n.01	hold.v.11	knife.n.01	cut.v.01	person.n.01
+person.n.01	direct.v.01	truck.n.01
+person.n.01	discipline.v.01	dog.n.01	teach.v.01	person.n.02	groom.v.03	dog.n.01
+person.n.01	drive.v.02	street.n.01	drive_on	car.n.01	drive_on	truck.n.01	drive_on	bus.n.01
+person.n.01	eat.v.01	apple.n.01	feed.v.06	apple.n.01	drink.v.01	apple.n.01	cut.v.01	apple.n.01
+person.n.01	eat.v.01	broccoli.n.01	feed.v.01	broccoli.n.01	have.v.02	person.n.01	hold.v.02	fork.n.01
+person.n.01	embrace.v.02	dog.n.01	hold.v.10	dog.n.01	pet.v.01	dog.n.01	squeeze.v.02	dog.n.01
+person.n.01	feed.v.02	cat.n.01	feed.v.06	mouse.n.01	feed.v.01	dog.n.01	feed.v.01	hotdog.n.02
+person.n.01	fill.v.01	wine.n.01	serve.v.06	wine.n.01	drink.v.01	wine.n.01	own.v.01	person.n.02
+person.n.01	have.v.01	kite.n.03	launch.v.02	kite.n.01	fly.v.01	kite.n.01	play.v.03	kite.n.01
+person.n.01	have.v.01	oven.n.01	have.v.02	oven.n.01	own.v.01	oven.n.01	use.v.01	oven.n.01
+person.n.01	have.v.01	pizza.n.01	have.v.02	pizza.n.01	have.v.01	person.n.02	have.v.01	plate.n.04
+person.n.01	have.v.01	shoe.n.01	have.v.02	person.n.02	have.v.02	backpack.n.01	wear.v.01	coat.n.01
+person.n.01	have.v.02	hand.n.01	hold.v.10	ball.n.03	hold.v.11	laptop.n.01	hold.v.02	cup.n.01
+person.n.01	hold.v.02	bag.n.01	hold.v.11	backpack.n.01	hold.v.10	cup.n.01	hold.v.22	baseball_bat.n.01
+person.n.01	hold.v.02	baseball_bat.n.01	wield.v.02	baseball_bat.n.01	hold.v.10	baseball_bat.n.01	carry.v.02	baseball_bat.n.01
+person.n.01	hold.v.02	box.n.01	carry.v.02	box.n.01	hold.v.10	box.n.01	pick_up.v.01	box.n.01
+person.n.01	hold.v.02	cellular_telephone.n.01	hold.v.10	cellular_telephone.n.01	hold.v.22	cellular_telephone.n.01	pick_up.v.01	cellular_telephone.n.01
+person.n.01	hold.v.02	teddy.n.01	hold.v.11	ball.n.03	hold.v.10	cup.n.01	hold.v.22	backpack.n.01
+person.n.01	inspect.v.01	car.n.01	check.v.01	car.n.01	drive.v.01	car.n.01
+person.n.01	inspect.v.01	cup.n.01	look.v.01	person.n.02	inspect.v.01	table.n.01
+person.n.01	inspect.v.01	tennis_racket.n.01	look.v.01	tennis_racket.n.01	inspect.v.01	ball.n.03	inspect.v.01	mouse.n.01
+person.n.01	jump.v.01	car.n.01	drive_on	car.n.01	stand_on	person.n.01	jump.v.11	person.n.01
+person.n.01	keep.v.01	car.n.01	drive.v.02	car.n.01	park.v.01	car.n.01	own.v.01	person.n.01
+person.n.01	lean_on.v.01	person.n.01	lean.v.01	person.n.02	rest.v.01	person.n.01	lean.v.02	person.n.01
+person.n.01	lick.v.02	bottle.n.01	drink.v.01	bottle.n.01	hold.v.11	person.n.01	touch.v.01	bottle.n.01
+person.n.01	look.v.01	camera.n.01	watch.v.01	camera.n.01	inspect.v.01	camera.n.01	check.v.02	camera.n.01
+person.n.01	look.v.01	cat.n.01	look.v.02	ball.n.03	look.v.02	mouse.n.01	look.v.02	plant.n.02
+person.n.01	look.v.01	cone.n.01	look.v.02	ball.n.03	look.v.02	mouse.n.01	look.v.02	plant.n.02
+person.n.01	look.v.01	skateboard.n.01	watch.v.01	skateboard.n.01	look.v.02	person.n.01	ride.v.01	skateboard.n.01
+person.n.01	pet.v.01	bird.n.01	feed.v.01	bird.n.01	groom.v.03	bird.n.01	play.v.03	bird.n.01
+person.n.01	pick_up.v.01	cake.n.01	hold.v.11	cake.n.01	carry.v.26	cake.n.01	pick.v.01	cake.n.01
+person.n.01	produce.v.02	cake.n.01	cook.v.01	cake.n.01	eat.v.01	cake.n.01	serve.v.06	cake.n.01
+person.n.01	produce.v.02	vase.n.01	produce.v.02	person.n.02	have.v.01	person.n.01
+person.n.01	pull.v.01	bag.n.01	pull.v.04	bag.n.06	pull.v.04	backpack.n.01	pull.v.04	coat.n.03
+person.n.01	pull.v.01	bicycle.n.01	pull.v.04	bicycle.n.01	pull.v.01	person.n.02	pull.v.01	truck.n.01
+person.n.01	repair.v.01	clock.n.01	repair.v.01	person.n.02	repair.v.01	laptop.n.01
+person.n.01	repair.v.01	traffic_light.n.01	inspect.v.01	traffic_light.n.01	install.v.01	traffic_light.n.01
+person.n.01	restrain.v.03	airplane.n.01	board.v.01	airplane.n.01	drive.v.01	airplane.n.01	fly.v.01	airplane.n.01
+person.n.01	ride.v.02	train.n.01	board.v.01	train.n.01	ride.v.01	person.n.02	drive.v.01	train.n.01
+person.n.01	search.v.02	bus.n.01	ride.v.02	bus.n.01	search.v.02	person.n.02	search.v.02	street.n.03
+person.n.01	sit.v.01	box.n.01	sit.v.02	chair.n.01	sit.v.01	table.n.01	sit.v.01	bench.n.01
+person.n.01	sit.v.01	person.n.01	sit.v.02	person.n.02	sit.v.01	chair.n.01	sit.v.01	bench.n.01
+person.n.01	sit.v.01	truck.n.01	sit.v.02	person.n.02	sit.v.02	chair.n.01	sit.v.01	table.n.01
+person.n.01	sleep.v.01	pillow.n.01	sleep_on	bed.n.01	rest_on	pillow.n.01	sit_on	sofa.n.01
+person.n.01	smell.v.01	apple.n.01	smell.v.02	apple.n.01	smell.v.01	person.n.02	smell.v.01	plant.n.02
+person.n.01	stand.v.01	grass.n.01	stand_on	grass.n.01	stand.v.02	person.n.02	rest_on	grass.n.01
+person.n.01	stand.v.03	train.n.01	stand_on	bench.n.01	stand_on	table.n.01	stand_on	street.n.01
+person.n.01	stop.v.01	traffic_light.n.01	drive_on	car.n.01	park.v.01	parking_meter.n.01	stop.v.01	stop_sign
+person.n.01	straddle.v.01	motorcycle.n.01	ride.v.02	motorcycle.n.01	sit.v.01	motorcycle.n.01	wear.v.01	helmet.n.02
+person.n.01	talk.v.01	telephone.n.01	greet.v.01	person.n.02	use.v.01	cellular_telephone.n.01	send.v.01	cellular_telephone.n.01
+person.n.01	touch.v.01	giraffe.n.01	touch.v.05	ball.n.03	touch.v.05	mouse.n.01	touch.v.05	plant.n.02
+person.n.01	touch.v.01	grass.n.01	sit.v.01	grass.n.01	stand_on	grass.n.01
+person.n.01	touch.v.01	horse.n.01	pet.v.01	horse.n.01	ride.v.02	horse.n.01	feed.v.01	horse.n.01
+person.n.01	touch.v.01	keyboard.n.01	use.v.01	keyboard.n.01	type.v.01	keyboard.n.01	hold.v.10	keyboard.n.01
+person.n.01	touch.v.01	paper.n.01	touch.v.05	ball.n.03	touch.v.05	mouse.n.01	touch.v.05	book.n.01
+person.n.01	touch.v.01	person.n.01	touch.v.05	person.n.02	embrace.v.02	person.n.01	hold.v.11	person.n.01
+person.n.01	touch.v.01	skateboard.n.01	hold.v.11	skateboard.n.01	ride.v.01	skateboard.n.01	stand_on	skateboard.n.01
+person.n.01	transport.v.02	bag.n.01	carry.v.26	backpack.n.01	wear.v.05	coat.n.03	drive.v.01	truck.n.01
+person.n.01	transport.v.02	banana.n.01	carry.v.26	banana.n.01	pick_up.v.02	banana.n.01	walk.v.09	person.n.01
+person.n.01	transport.v.02	cellular_telephone.n.01	hold.v.11	cellular_telephone.n.01	carry.v.26	cellular_telephone.n.01	pick_up.v.02	cellular_telephone.n.01
+person.n.01	transport.v.02	surfboard.n.01	ride.v.01	surfboard.n.01	carry.v.02	surfboard.n.01	stand_on	surfboard.n.01
+person.n.01	wash.v.01	toilet.n.01	wash.v.02	person.n.02	wash.v.01	toilet.n.02	wash.v.03	toilet.n.01
+person.n.01	wash.v.02	train.n.01	ride.v.02	train.n.01	clean.v.01	person.n.01	wash.v.01	person.n.01
+person.n.01	watch.v.01	bear.n.01	watch.v.03	ball.n.03	watch.v.03	mouse.n.01	watch.v.03	bird.n.01
+person.n.01	watch.v.01	elephant.n.01	watch.v.03	person.n.02	look.v.01	elephant.n.01
+person.n.01	watch.v.01	zebra.n.01	watch.v.03	zebra.n.01	watch.v.01	person.n.02	watch.v.01	bird.n.01
+person.n.01	wear.v.01	jacket.n.01	wear.v.02	coat.n.03	wear.v.01	shirt.n.01	wear.v.01	trouser.n.01
+plate.n.04	hold.v.11	pizza.n.01	contain.v.05	bowl.n.01	serve.v.06	pizza.n.01	hold.v.10	cup.n.01
+shoe.n.01	attach.v.03	ski.n.01	wear.v.01	shoe.n.01	attach_to	ski.n.01	ride.v.02	ski.n.01
+skateboard.n.01	touch.v.01	person.n.01	ride.v.02	skateboard.n.01	stand.v.01	person.n.02	hold.v.10	skateboard.n.01
+sky.n.01	have.v.01	person.n.01	have.v.02	person.n.02	have.v.01	laptop.n.01	have.v.01	potted_plant
+stove.n.01	have.v.01	clock.n.01	have.v.02	stove.n.01	have.v.01	dining_table.n.01	have.v.01	refrigerator.n.01
+street.n.01	have.v.02	traffic_light.n.01	have.v.02	street.n.02	have.v.02	street.n.03
+surfboard.n.01	have.v.02	person.n.01	ride.v.02	surfboard.n.01	have.v.01	person.n.02	wear.v.02	person.n.02
+surfboard.n.01	touch.v.01	sand.n.01	ride.v.02	surfboard.n.01	sit_on	surfboard.n.01	rest_on	surfboard.n.01
+table.n.02	have.v.01	keyboard.n.01	have.v.02	table.n.01	have.v.01	laptop.n.01	have.v.01	monitor.n.05
+table.n.02	have.v.01	umbrella.n.01	have.v.02	table.n.01	own.v.01	table.n.02	contain.v.05	umbrella.n.01
+table.n.02	hold.v.10	vase.n.01	hold.v.11	vase.n.01	hold.v.02	table.n.01	rest.v.02	table.n.01
+tower.n.01	have.v.01	clock.n.01	have.v.02	clock.n.01	taller_than	clock.n.01	have.v.02	tower.n.01
+train.n.01	have.v.01	person.n.01	have.v.02	person.n.02	own.v.01	person.n.01
+train.n.01	transport.v.02	person.n.01	board.v.01	train.n.01	transport.v.02	person.n.02	carry.v.02	person.n.01
+truck.n.01	transport.v.02	truck.n.01	drive.v.02	truck.n.01	load.v.04	truck.n.01	park.v.01	truck.n.01
+umbrella.n.01	attach.v.03	post.n.01	stand_on	umbrella.n.01	attach_to	post.n.01	hold.v.02	post.n.01
+umbrella.n.01	cover.v.01	handcart.n.01	hold.v.10	umbrella.n.01	push.v.01	handcart.n.01	cover.v.02	handcart.n.01
+umbrella.n.01	have.v.02	post.n.01	have.v.01	umbrella.n.01	stand.v.01	post.n.01	have.v.01	post.n.01
+bag.n.01	sit.v.07	street.n.01	sit.v.01	bag.n.01	sit.v.01	street.n.02	sit.v.01	street.n.03
+bear.n.01	against	pillow.n.01	rest_on	pillow.n.01	lean_on.v.01	pillow.n.01	sit_on	pillow.n.01
+bear.n.01	have.v.01	hat.n.01	have.v.02	coat.n.01	have.v.02	person.n.01
+bear.n.01	look.v.01	bear.n.01	look.v.02	bear.n.01	look.v.01	mountain.n.01	look.v.01	tree.n.01
+bloomers.n.01	touch.v.01	sofa.n.01	touch.v.05	ball.n.03	touch.v.01	person.n.02	touch.v.01	shirt.n.01
+boat.n.01	have.v.01	person.n.01	have.v.02	person.n.02	own.v.01	person.n.02	drive.v.01	boat.n.01
+box.n.01	attach_to.v.01	motorcycle.n.01	attach.v.01	box.n.01	attach.v.02	motorcycle.n.01	contain.v.05	box.n.01
+box.n.01	keep.v.01	pizza.n.01	pack.v.01	box.n.01	hold.v.10	pizza.n.01
+bus.n.01	have.v.01	bicycle.n.01	have.v.02	bicycle.n.01	own.v.01	bicycle.n.01	carry.v.02	bicycle.n.01
+cart.n.01	have.v.02	can.n.01	have.v.01	cart.n.01	contain.v.05	can.n.01	own.v.01	can.n.01
+cart.n.01	have.v.02	wheel.n.01	have.v.01	cart.n.01	have.v.02	wheel.n.03	attach.v.02	wheel.n.01
+cart.n.01	transport.v.02	baggage.n.01	load.v.04	baggage.n.01	pull.v.01	cart.n.01	carry.v.02	baggage.n.01
+cat.n.01	ride.v.10	skateboard.n.01	ride.v.01	skateboard.n.01	sit_on	skateboard.n.01	stand_on	skateboard.n.01
+chair.n.01	have.v.01	cat.n.01	sit.v.01	chair.n.01	pet.v.01	cat.n.01	own.v.01	cat.n.01
+chair.n.01	have.v.01	clock.n.01	have.v.02	chair.n.01	have.v.01	table.n.01	have.v.01	cabinet.n.01
+desk.n.01	hold.v.02	chair.n.01	hold.v.10	laptop.n.01	hold.v.11	cup.n.01	hold.v.22	bowl.n.01
+dog.n.01	ride.v.01	horse.n.01	ride.v.02	dog.n.01	ride.v.02	person.n.02	ride.v.02	truck.n.01
+dog.n.01	wear.v.01	necktie.n.01	wear.v.02	coat.n.01	wear.v.02	shirt.n.01	wear.v.02	tie.n.04
+dog.n.01	wear.v.01	shoe.n.01	wear.v.02	coat.n.03	wear.v.02	shirt.n.01	wear.v.02	hat.n.01
+elephant.n.01	transport.v.02	person.n.01	carry.v.02	elephant.n.01	carry.v.02	person.n.01	board.v.01	truck.n.01
+engine.n.01	have.v.01	roof.n.02	have.v.02	roof.n.01	have.v.01	truck.n.01	have.v.01	car.n.01
+face.n.01	have.v.01	hand.n.01	hold.v.11	ball.n.03	touch.v.01	mouse.n.01
+giraffe.n.01	follow.v.01	giraffe.n.01	follow.v.01	zebra.n.01	follow.v.01	person.n.01
+hand.n.01	hold.v.02	can.n.01	hold.v.10	ball.n.03	hold.v.11	cup.n.01	hold.v.22	fork.n.01
+hand.n.01	hold.v.02	pizza.n.01	hold.v.11	ball.n.03	hold.v.10	cup.n.01
+hand.n.01	hold.v.02	spectacles.n.01	hold.v.11	ball.n.03	hold.v.10	laptop.n.01	hold.v.22	cup.n.01
+horse.n.01	eat.v.01	grass.n.01	feed.v.06	horse.n.01	feed.v.01	grass.n.01	eat.v.02	grass.n.01
+horse.n.01	stand.v.01	grass.n.01	stand_on	grass.n.01	ride.v.02	horse.n.01	eat.v.01	grass.n.01
+horse.n.01	walk.v.01	tree.n.01	ride.v.02	horse.n.01	stand.v.01	tree.n.01	follow.v.01	horse.n.01
+monitor.n.04	sit.v.01	table.n.02	rest.v.02	monitor.n.04	sit_on	table.n.02	stand.v.01	table.n.02
+motorcycle.n.01	attach_to.v.01	cart.n.01	pull.v.04	cart.n.01	drive_on	motorcycle.n.01	attach.v.02	cart.n.01
+motorcycle.n.01	have.v.01	roof.n.01	have.v.02	motorcycle.n.01	have.v.01	roof.n.02	own.v.01	motorcycle.n.01
+motorcycle.n.01	have.v.01	wheel.n.01	have	wheel.n.03	have	engine.n.01	have	helmet.n.02
+mountain.n.01	have.v.01	tree.n.01	have.v.02	mountain.n.01	have.v.02	tree.n.01	contain.v.05	tree.n.01
+person.n.01	buy.v.01	apple.n.01	pay.v.01	person.n.02	own.v.01	apple.n.01	eat.v.01	apple.n.01
+person.n.01	carry.v.02	basket.n.01	hold.v.10	basket.n.01	wear.v.01	coat.n.03	pick_up.v.01	basket.n.01
+person.n.01	carry.v.02	pizza.n.01	carry.v.26	pizza.n.01	carry.v.02	person.n.02	carry.v.02	backpack.n.01
+person.n.01	carry.v.02	snowboard.n.01	wear.v.02	coat.n.03	hold.v.10	backpack.n.01	ride.v.02	ski.n.01
+person.n.01	clean.v.01	keyboard.n.01	hold.v.10	keyboard.n.01	use.v.01	keyboard.n.01	touch.v.05	keyboard.n.01
+person.n.01	clean.v.01	microwave.n.01	wash.v.01	microwave.n.01	clean.v.01	plate.n.04	clean.v.01	pot.n.01
+person.n.01	clean.v.01	sink.n.01	wash.v.01	sink.n.01	hold.v.10	person.n.02	use.v.01	sink.n.01
+person.n.01	cook.v.01	carrot.n.01	feed.v.01	carrot.n.01	cut.v.04	carrot.n.01	serve.v.06	carrot.n.01
+person.n.01	decant.v.01	bottle.n.01
+person.n.01	drive.v.01	van.n.05	drive_on	truck.n.01
+person.n.01	embrace.v.02	bag.n.06	squeeze.v.02	person.n.02	carry.v.26	backpack.n.01	hold.v.11	coat.n.03
+person.n.01	embrace.v.02	elephant.n.01	squeeze.v.02	person.n.02	squeeze.v.02	elephant.n.01
+person.n.01	embrace.v.02	fireplug.n.01	squeeze.v.02	person.n.02	touch.v.01	fireplug.n.01	hold.v.10	person.n.01
+person.n.01	have.v.01	baggage.n.01	have.v.02	backpack.n.01	have.v.02	bag.n.01	have.v.02	coat.n.01
+person.n.01	have.v.01	computer.n.01	have.v.02	laptop.n.01	own.v.01	computer.n.01	use.v.01	mouse.n.01
+person.n.01	have.v.01	jean.n.01	wear.v.01	jean.n.01	own.v.01	jean.n.01	have.v.02	jean.n.01
+person.n.01	have.v.01	spectacles.n.01	have.v.02	spectacles.n.01	own.v.01	spectacles.n.01	wear.v.01	spectacles.n.01
+person.n.01	have.v.01	trouser.n.01	wear.v.01	trouser.n.01	own.v.01	trouser.n.01	have.v.02	trouser.n.01
+person.n.01	hold.v.02	bottle.n.01	hold.v.11	person.n.02	hold.v.10	bottle.n.01	hold.v.22	person.n.01
+person.n.01	hold.v.02	helmet.n.01	wear.v.01	helmet.n.02	hold.v.10	helmet.n.02	carry.v.02	helmet.n.02
+person.n.01	hold.v.02	kite.n.03	launch.v.02	kite.n.03	fly.v.01	kite.n.03	play.v.01	kite.n.03
+person.n.01	hold.v.02	plate.n.02	hold.v.11	plate.n.04	hold.v.10	plate.n.03	hold.v.22	plate.n.02
+person.n.01	hold.v.02	sheep.n.01	hold.v.11	ball.n.03	hold.v.10	cup.n.01	hold.v.22	backpack.n.01
+person.n.01	hold.v.02	skateboard.n.01	hold.v.11	skateboard.n.01	hold.v.10	skateboard.n.01	carry.v.02	skateboard.n.01
+person.n.01	hose.v.01	dog.n.01	wash.v.01	dog.n.01	play.v.03	dog.n.01	feed.v.01	dog.n.01
+person.n.01	inspect.v.01	banana.n.01	look.v.02	banana.n.01	inspect.v.01	person.n.02	hold.v.10	banana.n.01
+person.n.01	inspect.v.01	boat.n.01	inspect.v.01	person.n.02	inspect.v.01	laptop.n.01
+person.n.01	inspect.v.01	fireplug.n.01	look.v.02	person.n.02	inspect.v.01	hydrant.n.02	check.v.01	fireplug.n.01
+person.n.01	inspect.v.01	orange.n.01	look.v.02	orange.n.01	inspect.v.01	person.n.02	feed.v.01	orange.n.01
+person.n.01	jump.v.01	skateboard.n.01	stand_on	skateboard.n.01	ride.v.02	skateboard.n.01	play.v.01	skateboard.n.01
+person.n.01	keep.v.01	baggage.n.01	carry.v.02	baggage.n.01	hold.v.02	baggage.n.01	pack.v.01	baggage.n.01
+person.n.01	keep.v.01	cat.n.01	feed.v.06	cat.n.01	pet.v.01	cat.n.01	play.v.03	cat.n.01
+person.n.01	keep.v.01	mouse.n.01	feed.v.01	mouse.n.01	hold.v.10	mouse.n.01	pet.v.01	mouse.n.01
+person.n.01	lean.v.01	bus.n.01	sit_on	bus.n.01	hold.v.02	person.n.02	ride.v.02	bus.n.01
+person.n.01	lean_on.v.01	ramp.n.01	stand_on	ramp.n.01	rest_on	ramp.n.01
+person.n.01	lick.v.02	knife.n.01	hold.v.02	knife.n.01	lick.v.02	person.n.02	cut.v.01	knife.n.01
+person.n.01	lie.v.02	bed.n.01	sleep_on	bed.n.01	rest_on	bed.n.01	sit_on	bed.n.01
+person.n.01	lie.v.02	pillow.n.01	rest_on	pillow.n.01	sleep_on	pillow.n.01	sit_on	pillow.n.01
+person.n.01	look.v.01	mountain.n.01	look.v.02	person.n.02	look.v.01	street.n.02	look.v.01	tree.n.01
+person.n.01	look.v.01	person.n.01	look.v.02	person.n.02	look.v.01	bird.n.01	look.v.01	laptop.n.01
+person.n.01	look.v.01	truck.n.01	look.v.02	person.n.02	look.v.01	street.n.01
+person.n.01	open.v.01	umbrella.n.01	hold.v.11	umbrella.n.01	wear.v.02	coat.n.01	sit.v.01	bench.n.01
+person.n.01	open.v.03	refrigerator.n.01	open.v.01	refrigerator.n.01	open.v.03	cabinet.n.01	open.v.03	microwave.n.01
+person.n.01	pet.v.01	elephant.n.01	feed.v.06	elephant.n.01	greet.v.01	elephant.n.01	play.v.03	elephant.n.01
+person.n.01	pick_up.v.02	pizza.n.01	feed.v.01	pizza.n.01	hold.v.10	person.n.01	carry.v.02	pizza.n.01
+person.n.01	play.v.01	laptop.n.01	use.v.01	laptop.n.01	sit.v.01	laptop.n.01	hold.v.10	laptop.n.01
+person.n.01	read.v.01	cellular_telephone.n.01	watch.v.01	cellular_telephone.n.01	use.v.01	cellular_telephone.n.01	hold.v.11	cellular_telephone.n.01
+person.n.01	ride.v.01	skateboard.n.01	ride.v.02	skateboard.n.01	ride.v.01	person.n.02
+person.n.01	ride.v.02	baggage.n.01	ride.v.01	person.n.02	carry.v.02	baggage.n.01	load.v.01	baggage.n.01
+person.n.01	sit.v.01	bag.n.01	sit.v.07	chair.n.01	sit.v.02	bench.n.01	sit.v.01	sofa.n.01
+person.n.01	sit.v.01	bus.n.01	board.v.01	bus.n.01	sit.v.02	person.n.01	ride.v.02	bus.n.01
+person.n.01	sit.v.01	skateboard.n.01	sit.v.02	skateboard.n.01	sit.v.07	person.n.01	ride.v.01	skateboard.n.01
+person.n.01	skin.v.04	apple.n.01	feed.v.06	apple.n.01	hold.v.11	person.n.01	cut.v.04	apple.n.01
+person.n.01	smell.v.01	carrot.n.01	feed.v.06	carrot.n.01	look.v.01	carrot.n.01	touch.v.01	carrot.n.01
+person.n.01	snog.v.01	horse.n.01	greet.v.01	person.n.02	touch.v.01	face.n.01	ride.v.02	horse.n.01
+person.n.01	stand.v.01	motorcycle.n.01	sit_on	motorcycle.n.01
+person.n.01	stir.v.01	broccoli.n.01	hold.v.11	fork.n.01	cut.v.04	broccoli.n.01	wash.v.01	bowl.n.01
+person.n.01	tall.a.01	elephant.n.01	taller_than	giraffe.n.01	tall.a.01	tree.n.01	tall.a.01	mountain.n.01
+person.n.01	touch.v.01	bear.n.01	hold.v.02	person.n.02	pet.v.01	bear.n.01	scratch.v.02	bear.n.01
+person.n.01	touch.v.01	box.n.01	feed.v.01	box.n.01	open.v.01	box.n.01	hold.v.10	person.n.01
+person.n.01	touch.v.01	bus.n.01	board.v.01	bus.n.01	sit.v.01	bus.n.01	hold.v.11	person.n.01
+person.n.01	touch.v.01	chair.n.01	sit.v.01	chair.n.01	hold.v.10	chair.n.01	lean.v.01	chair.n.01
+person.n.01	touch.v.01	motorcycle.n.01	drive.v.01	motorcycle.n.01	ride.v.02	motorcycle.n.01	hold.v.10	person.n.01
+person.n.01	touch.v.01	ski.n.01	touch.v.05	ski.n.01	touch.v.01	person.n.02
+person.n.01	touch.v.01	telephone.n.01	hold.v.11	telephone.n.01	use.v.01	telephone.n.01	pick_up.v.02	telephone.n.01
+person.n.01	transport.v.02	sofa.n.01	carry.v.02	sofa.n.01	sit.v.01	sofa.n.01	transport.v.02	person.n.02
+person.n.01	use.v.01	mouse.n.04	operate.v.01	laptop.n.01	hold.v.10	mouse.n.01	use.v.01	keyboard.n.01
+person.n.01	walk.v.01	box.n.01	carry.v.02	box.n.01	stand.v.01	person.n.01	move.v.02	person.n.01
+person.n.01	walk.v.09	elephant.n.01	carry.v.02	elephant.n.01	sit.v.01	person.n.01	follow.v.01	person.n.01
+person.n.01	walk.v.09	motorcycle.n.01	drive.v.02	motorcycle.n.01	ride.v.02	motorcycle.n.01	walk.v.01	person.n.01
+person.n.01	wash.v.01	boat.n.01	clean.v.01	ball.n.03	wash.v.02	cup.n.01	wash.v.03	plant.n.02
+person.n.01	wash.v.01	car.n.01	drive.v.01	car.n.01	clean.v.01	car.n.01	inspect.v.01	car.n.01
+person.n.01	wash.v.01	glass.n.02	drink.v.01	glass.n.01	clean.v.01	glass.n.01	hold.v.11	glass.n.02
+person.n.01	wash.v.01	orange.n.01	wash.v.02	orange.n.01	wash.v.01	person.n.02	wash.v.01	plant.n.02
+person.n.01	watch.v.01	bird.n.01	watch.v.03	bird.n.01	look.v.01	bird.n.01
+person.n.01	wear.v.01	short_pants.n.01	wear.v.02	jean.n.01	wear.v.02	coat.n.01	wear.v.02	shirt.n.01
+pizza.n.01	have	pizza.n.01	have	plate.n.04	have	bowl.n.01	have	fork.n.01
+post.n.01	have.v.01	clock.n.01	have.v.02	clock.n.01	have.v.02	post.n.01	have	clock.n.01
+road.n.01	have.v.01	bicycle.n.01	have.v.02	bicycle.n.01	have.v.01	street.n.01	have.v.01	parking_meter.n.01
+road.n.01	have.v.01	motorcycle.n.01	drive_on	motorcycle.n.01	park.v.01	motorcycle.n.01	have.v.02	road.n.01
+road.n.01	have.v.01	person.n.01	have.v.02	road.n.01	have.v.02	person.n.02	have.v.01	street.n.01
+road.n.01	have.v.01	shrub.n.01	have.v.02	shrub.n.01	have.v.02	road.n.01	hold.v.10	shrub.n.01
+roof.n.01	cover.v.01	tower.n.01	taller_than	roof.n.01	stand_on	roof.n.01	attach_to	tower.n.01
+shirt.n.01	touch.v.01	jacket.n.01	wear.v.02	shirt.n.01	wear.v.02	jacket.n.01	hold.v.11	shirt.n.01
+shrub.n.01	attach_to.v.01	mountain.n.01	attach.v.02	shrub.n.01	attach.v.02	mountain.n.01	attach.v.01	shrub.n.01
+sink.n.01	have.v.01	paper.n.01	have.v.02	sink.n.01	contain.v.05	paper.n.01
+sky.n.01	cover.v.01	sky.n.01	cover.v.02	roof.n.01	cover.v.02	mountain.n.01	cover.v.02	tree.n.01
+street.n.01	have.v.01	person.n.01	have.v.02	person.n.02	have.v.01	street.n.02	have.v.01	street.n.03
+street.n.02	have.v.01	bicycle.n.01	have.v.02	bicycle.n.01	drive_on	street.n.02	ride.v.01	bicycle.n.01
+table.n.02	have	box.n.01	have	cabinet.n.01	have	vase.n.01	have	laptop.n.01
+table.n.02	have.v.01	laptop.n.01	have.v.02	laptop.n.01	sit_on	laptop.n.01	put.v.01	laptop.n.01
+table.n.02	have.v.02	pot.n.01	have.v.01	table.n.01	have.v.01	dining_table.n.01	have.v.01	cabinet.n.01
+table.n.02	hold.v.11	vase.n.01	hold.v.10	vase.n.01	hold.v.11	cup.n.01	hold.v.11	pot.n.01
+train.n.01	pull.v.01	train.n.01	pull.v.04	train.n.01	pull.v.01	engine.n.01
+tree.n.01	cover.v.01	mountain.n.01	cover.v.02	tree.n.01	have.v.02	mountain.n.01
+tree.n.01	cover.v.01	person.n.01	cover.v.02	tree.n.01	cover.v.01	person.n.02	cover.v.01	plant.n.02
+vase.n.01	carry.v.02	plant.n.02	carry.v.26	potted_plant	carry.v.26	pot.n.01	carry.v.26	plant.n.01
+bird.n.01	legAmount	0.052632
+cat.n.01	legAmount	0.157895
+cow.n.01	legAmount	0.157895
+dog.n.01	legAmount	0.157895
+giraffe.n.01	legAmount	0.157895
+horse.n.01	legAmount	0.157895
+person.n.01	legAmount	0.052632
+person.n.02	legAmount	0.052632
+sheep.n.01	legAmount	0.157895
+airplane.n.01	lengthAverage	1.000000
+ball.n.03	lengthAverage	0.000000
+banana.n.01	lengthAverage	0.050847
+banana.n.02	lengthAverage	0.000000
+baseball_bat.n.01	lengthAverage	0.011864
+bed.n.01	lengthAverage	0.050847
+bench.n.01	lengthAverage	0.033898
+boat.n.01	lengthAverage	0.152542
+box.n.01	lengthAverage	0.000000
+building.n.01	lengthAverage	0.322034
+bush.n.02	lengthAverage	1.000000
+cabinet.n.01	lengthAverage	0.044068
+cone.n.01	lengthAverage	0.000000
+counter.n.01	lengthAverage	0.050847
+cup.n.01	lengthAverage	0.000000
+desk.n.01	lengthAverage	0.023729
+dining_table.n.01	lengthAverage	0.044068
+doughnut.n.02	lengthAverage	0.000000
+faucet.n.01	lengthAverage	0.000000
+fireplug.n.01	lengthAverage	0.016949
+fork.n.01	lengthAverage	0.000000
+frisbee.n.01	lengthAverage	0.000000
+glass.n.01	lengthAverage	0.016949
+glass.n.02	lengthAverage	0.000000
+grass.n.01	lengthAverage	0.000000
+gun.n.01	lengthAverage	0.016949
+hand.n.01	lengthAverage	0.000000
+hand.n.08	lengthAverage	0.000000
+handcart.n.01	lengthAverage	0.033898
+hat.n.01	lengthAverage	0.000000
+hotdog.n.02	lengthAverage	0.000000
+hydrant	lengthAverage	0.016949
+hydrant.n.02	lengthAverage	0.016949
+jacket.n.01	lengthAverage	0.006780
+jean.n.01	lengthAverage	0.016949
+keyboard.n.01	lengthAverage	0.000000
+kite.n.03	lengthAverage	0.003390
+knife.n.01	lengthAverage	0.000000
+lamp.n.01	lengthAverage	0.000000
+lamp.n.02	lengthAverage	0.023729
+laptop.n.01	lengthAverage	0.000000
+necktie.n.01	lengthAverage	0.032203
+parking_meter.n.01	lengthAverage	0.033898
+plant.n.01	lengthAverage	0.000000
+plant.n.02	lengthAverage	0.016949
+shelf.n.01	lengthAverage	0.023729
+surfboard.n.01	lengthAverage	0.074576
+table.n.01	lengthAverage	0.033898
+tie.n.04	lengthAverage	0.032203
+tower.n.01	lengthAverage	1.000000
+truck.n.01	lengthAverage	0.322034
+president.n.04	lifespan	0.346734
+proctor.n.01	lifespan	0.346734
+tree.n.01	lifespan	0.497487
+zebra.n.01	lifespan	0.120603
+apple.n.01	weightAverage	0.000000
+ashcan.n.01	weightAverage	0.004502
+backpack.n.01	weightAverage	0.000500
+bag.n.01	weightAverage	0.000000
+bag.n.04	weightAverage	0.000200
+bag.n.06	weightAverage	0.002501
+baggage.n.01	weightAverage	0.004502
+ball.n.01	weightAverage	0.000000
+baseball_glove.n.01	weightAverage	0.000200
+basket.n.01	weightAverage	0.001001
+bear.n.01	weightAverage	0.299650
+bicycle.n.01	weightAverage	0.009505
+book.n.01	weightAverage	0.000000
+bottle.n.01	weightAverage	0.000000
+bowl.n.01	weightAverage	0.000000
+broccoli.n.01	weightAverage	0.000000
+bus.n.01	weightAverage	1.000000
+cake.n.01	weightAverage	0.000000
+cake.n.03	weightAverage	0.000700
+camera.n.01	weightAverage	0.000500
+can.n.01	weightAverage	0.000000
+car.n.01	weightAverage	1.000000
+carrot.n.01	weightAverage	0.000000
+cart.n.01	weightAverage	0.149575
+cell_phone	weightAverage	0.000000
+cellular_telephone.n.01	weightAverage	0.000000
+chair.n.01	weightAverage	0.005503
+clock.n.01	weightAverage	0.000700
+coat.n.01	weightAverage	0.000300
+computer.n.01	weightAverage	0.002001
+cow.n.02	weightAverage	0.599800
+elephant.n.01	weightAverage	1.000000
+engine.n.01	weightAverage	0.199600
+hand_blower.n.01	weightAverage	0.000300
+helmet.n.01	weightAverage	0.001001
+helmet.n.02	weightAverage	0.000500
+microwave.n.01	weightAverage	0.012506
+monitor.n.04	weightAverage	0.004502
+monitor.n.05	weightAverage	0.004502
+motorcycle.n.01	weightAverage	0.179590
+mouse.n.01	weightAverage	0.000000
+mouse.n.04	weightAverage	0.000000
+orange.n.01	weightAverage	0.000000
+oven.n.01	weightAverage	0.039520
+paper.n.01	weightAverage	0.000000
+pillow.n.01	weightAverage	0.000500
+pizza.n.01	weightAverage	0.000000
+plate.n.04	weightAverage	0.000000
+pot.n.01	weightAverage	0.001501
+pot.n.04	weightAverage	0.002501
+refrigerator.n.01	weightAverage	0.079540
+remote_control.n.01	weightAverage	0.000000
+sandwich.n.01	weightAverage	0.000000
+scissors.n.01	weightAverage	0.000000
+shirt.n.01	weightAverage	0.000000
+shoe.n.01	weightAverage	0.000000
+short_pants.n.01	weightAverage	0.000000
+skateboard.n.01	weightAverage	0.001501
+ski.n.01	weightAverage	0.002501
+snowboard.n.01	weightAverage	0.004502
+sofa.n.01	weightAverage	0.039520
+spectacles.n.01	weightAverage	0.000000
+spoon.n.01	weightAverage	0.000000
+sports_ball	weightAverage	0.000100
+stove.n.01	weightAverage	0.134567
+sunglasses.n.01	weightAverage	0.000000
+teddy.n.01	weightAverage	0.000500
+telephone.n.01	weightAverage	0.000000
+television.n.01	weightAverage	0.019510
+tennis_racket.n.01	weightAverage	0.000000
+toaster.n.01	weightAverage	0.002501
+toilet.n.02	weightAverage	0.034517
+toothbrush.n.01	weightAverage	0.000000
+train.n.01	weightAverage	1.000000
+trouser.n.01	weightAverage	0.000000
+umbrella.n.01	weightAverage	0.000000
+van.n.05	weightAverage	1.000000
+vase.n.01	weightAverage	0.000500
+watch.n.01	weightAverage	0.000000
+wheel.n.01	weightAverage	0.009505
+wheel.n.03	weightAverage	0.009505
+wine.n.01	weightAverage	0.000700
+bird.n.01	legAmount	0.052632
+cat.n.01	legAmount	0.157895
+cow.n.01	legAmount	0.157895
+dog.n.01	legAmount	0.157895
+giraffe.n.01	legAmount	0.157895
+horse.n.01	legAmount	0.157895
+person.n.01	legAmount	0.052632
+person.n.02	legAmount	0.052632
+sheep.n.01	legAmount	0.157895
+airplane.n.01	lengthAverage	1.000000
+ball.n.03	lengthAverage	0.000000
+banana.n.01	lengthAverage	0.050847
+banana.n.02	lengthAverage	0.000000
+baseball_bat.n.01	lengthAverage	0.011864
+bed.n.01	lengthAverage	0.050847
+bench.n.01	lengthAverage	0.033898
+boat.n.01	lengthAverage	0.152542
+box.n.01	lengthAverage	0.000000
+building.n.01	lengthAverage	0.322034
+bush.n.02	lengthAverage	1.000000
+cabinet.n.01	lengthAverage	0.044068
+cone.n.01	lengthAverage	0.000000
+counter.n.01	lengthAverage	0.050847
+cup.n.01	lengthAverage	0.000000
+desk.n.01	lengthAverage	0.023729
+dining_table.n.01	lengthAverage	0.044068
+doughnut.n.02	lengthAverage	0.000000
+faucet.n.01	lengthAverage	0.000000
+fireplug.n.01	lengthAverage	0.016949
+fork.n.01	lengthAverage	0.000000
+frisbee.n.01	lengthAverage	0.000000
+glass.n.01	lengthAverage	0.016949
+glass.n.02	lengthAverage	0.000000
+grass.n.01	lengthAverage	0.000000
+gun.n.01	lengthAverage	0.016949
+hand.n.01	lengthAverage	0.000000
+hand.n.08	lengthAverage	0.000000
+handcart.n.01	lengthAverage	0.033898
+hat.n.01	lengthAverage	0.000000
+hotdog.n.02	lengthAverage	0.000000
+hydrant	lengthAverage	0.016949
+hydrant.n.02	lengthAverage	0.016949
+jacket.n.01	lengthAverage	0.006780
+jean.n.01	lengthAverage	0.016949
+keyboard.n.01	lengthAverage	0.000000
+kite.n.03	lengthAverage	0.003390
+knife.n.01	lengthAverage	0.000000
+lamp.n.01	lengthAverage	0.000000
+lamp.n.02	lengthAverage	0.023729
+laptop.n.01	lengthAverage	0.000000
+necktie.n.01	lengthAverage	0.032203
+parking_meter.n.01	lengthAverage	0.033898
+plant.n.01	lengthAverage	0.000000
+plant.n.02	lengthAverage	0.016949
+shelf.n.01	lengthAverage	0.023729
+surfboard.n.01	lengthAverage	0.074576
+table.n.01	lengthAverage	0.033898
+tie.n.04	lengthAverage	0.032203
+tower.n.01	lengthAverage	1.000000
+truck.n.01	lengthAverage	0.322034
+president.n.04	lifespan	0.346734
+proctor.n.01	lifespan	0.346734
+tree.n.01	lifespan	0.497487
+zebra.n.01	lifespan	0.120603
+apple.n.01	weightAverage	0.000000
+ashcan.n.01	weightAverage	0.004502
+backpack.n.01	weightAverage	0.000500
+bag.n.01	weightAverage	0.000000
+bag.n.04	weightAverage	0.000200
+bag.n.06	weightAverage	0.002501
+baggage.n.01	weightAverage	0.004502
+ball.n.01	weightAverage	0.000000
+baseball_glove.n.01	weightAverage	0.000200
+basket.n.01	weightAverage	0.001001
+bear.n.01	weightAverage	0.299650
+bicycle.n.01	weightAverage	0.009505
+book.n.01	weightAverage	0.000000
+bottle.n.01	weightAverage	0.000000
+bowl.n.01	weightAverage	0.000000
+broccoli.n.01	weightAverage	0.000000
+bus.n.01	weightAverage	1.000000
+cake.n.01	weightAverage	0.000000
+cake.n.03	weightAverage	0.000700
+camera.n.01	weightAverage	0.000500
+can.n.01	weightAverage	0.000000
+car.n.01	weightAverage	1.000000
+carrot.n.01	weightAverage	0.000000
+cart.n.01	weightAverage	0.149575
+cell_phone	weightAverage	0.000000
+cellular_telephone.n.01	weightAverage	0.000000
+chair.n.01	weightAverage	0.005503
+clock.n.01	weightAverage	0.000700
+coat.n.01	weightAverage	0.000300
+computer.n.01	weightAverage	0.002001
+cow.n.02	weightAverage	0.599800
+elephant.n.01	weightAverage	1.000000
+engine.n.01	weightAverage	0.199600
+hand_blower.n.01	weightAverage	0.000300
+helmet.n.01	weightAverage	0.001001
+helmet.n.02	weightAverage	0.000500
+microwave.n.01	weightAverage	0.012506
+monitor.n.04	weightAverage	0.004502
+monitor.n.05	weightAverage	0.004502
+motorcycle.n.01	weightAverage	0.179590
+mouse.n.01	weightAverage	0.000000
+mouse.n.04	weightAverage	0.000000
+orange.n.01	weightAverage	0.000000
+oven.n.01	weightAverage	0.039520
+paper.n.01	weightAverage	0.000000
+pillow.n.01	weightAverage	0.000500
+pizza.n.01	weightAverage	0.000000
+plate.n.04	weightAverage	0.000000
+pot.n.01	weightAverage	0.001501
+pot.n.04	weightAverage	0.002501
+refrigerator.n.01	weightAverage	0.079540
+remote_control.n.01	weightAverage	0.000000
+sandwich.n.01	weightAverage	0.000000
+scissors.n.01	weightAverage	0.000000
+shirt.n.01	weightAverage	0.000000
+shoe.n.01	weightAverage	0.000000
+short_pants.n.01	weightAverage	0.000000
+skateboard.n.01	weightAverage	0.001501
+ski.n.01	weightAverage	0.002501
+snowboard.n.01	weightAverage	0.004502
+sofa.n.01	weightAverage	0.039520
+spectacles.n.01	weightAverage	0.000000
+spoon.n.01	weightAverage	0.000000
+sports_ball	weightAverage	0.000100
+stove.n.01	weightAverage	0.134567
+sunglasses.n.01	weightAverage	0.000000
+teddy.n.01	weightAverage	0.000500
+telephone.n.01	weightAverage	0.000000
+television.n.01	weightAverage	0.019510
+tennis_racket.n.01	weightAverage	0.000000
+toaster.n.01	weightAverage	0.002501
+toilet.n.02	weightAverage	0.034517
+toothbrush.n.01	weightAverage	0.000000
+train.n.01	weightAverage	1.000000
+trouser.n.01	weightAverage	0.000000
+umbrella.n.01	weightAverage	0.000000
+van.n.05	weightAverage	1.000000
+vase.n.01	weightAverage	0.000500
+watch.n.01	weightAverage	0.000000
+wheel.n.01	weightAverage	0.009505
+wheel.n.03	weightAverage	0.009505
+wine.n.01	weightAverage	0.000700

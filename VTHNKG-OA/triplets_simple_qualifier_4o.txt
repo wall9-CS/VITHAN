@@ -1,0 +1,1316 @@
+admonisher.n.01	restrain.v.03	person.n.01	discipline	manner
+airplane.n.01	fly.v.01	road.n.01	park	car	contain	car
+airplane.n.01	fly.v.01	sky.n.01	board	person	operate	engine	carry	baggage
+airplane.n.01	have.v.01	engine.n.01	operate	airplane
+airplane.n.01	have.v.01	wheel.n.01	attach_to	airplane	use	wheel	transport	baggage
+airplane.n.01	have.v.02	wheel.n.01	attach_to	airplane	transport	airplane
+airplane.n.01	park.v.01	street.n.01	obstruct	traffic_light	accommodate	car	inspect	person
+airplane.n.01	park.v.02	grass.n.01	rest_on	grass	contain	baggage
+airplane.n.01	tall.a.01	truck.n.01	taller_than	building	rest_on	road	contain	baggage
+ashcan.n.01	have.v.02	bag.n.01	install	bag	use	bag
+ashcan.n.01	touch.v.01	refrigerator.n.01	against	refrigerator	rest_on	refrigerator
+bag.n.01	against	shelf.n.01	rest_on	shelf	lean_on	shelf	contain	baggage
+bag.n.01	attach.v.02	table.n.02	attach_to	backpack	rest_on	dining_table	contain	baggage
+bag.n.01	lie.v.01	person.n.01	rest_on	person	contain	baggage	attach_to	backpack
+bag.n.06	have.v.01	wheel.n.01	contain	baggage	attach	cart	transport	person
+bag.n.06	hold.v.11	shirt.n.01	pack	baggage	carry	backpack	contain	jacket
+baggage.n.01	have.v.01	bag.n.01	transport	airplane	pack	backpack
+baggage.n.01	have.v.01	wheel.n.01	transport	cart	attach_to	bag	use	person
+basket.n.01	attach.v.02	bicycle.n.01	contain	bag	carry	apple
+basket.n.01	contain.v.05	dog.n.01	accommodate	dog	carry	dog	own	basket
+basket.n.01	have.v.01	beer.n.01	contain	beer	carry	bag	transport	basket
+basket.n.01	transport.v.02	bag.n.01	carry	hand	contain	baggage	use	bicycle
+bear.n.01	have.v.01	coat.n.03	groom	bear	rest	tree
+bear.n.01	sit.v.01	basket.n.01	rest_on	grass	contain	apple
+bear.n.01	sit.v.01	chair.n.01	rest_on	bench	against	table	contain	bottle
+bear.n.01	stand.v.01	grass.n.01	stand_on	grass	groom	bear
+bear.n.01	wear.v.01	hat.n.01	play	ball	sit_on	bench	stand_on	street
+bear.n.01	wear.v.01	jacket.n.01	carry	backpack	walk	mountain	rest_on	bench
+bed.n.01	have	person.n.01	sleep_on	bed	contain	pillow	rest_on	bed
+bed.n.01	have.v.01	jacket.n.01	contain	jacket	rest_on	bed	cover	bed
+bed.n.01	have.v.01	post.n.04	attach	post
+bed.n.01	have.v.02	bench.n.01	attach	bench	sit_on	bench	rest_on	bench
+bed.n.01	have.v.02	pillow.n.01	contain	pillow	rest_on	bed	sleep_on	bed
+bench.n.01	get.v.03	person.n.01	sit_on	bench	rest_on	bench	sit	person
+bench.n.01	have.v.01	dog.n.01	sit_on	bench	rest_on	bench
+bench.n.01	keep.v.01	person.n.01	sit_on	bench	rest_on	bench	watch	person
+bicycle.n.01	have.v.01	basket.n.01	contain	ball	contain	apple	carry	bag
+bicycle.n.01	have.v.01	bottle.n.01	attach_to	bicycle
+bicycle.n.01	park.v.01	bus.n.01	rest_on	road	align	bus	against	bench
+bicycle.n.01	park.v.01	table.n.02	against	bench	lean_on	side	rest_on	road
+boat.n.01	follow.v.01	boat.n.01	race	boat
+boat.n.01	have.v.01	ball.n.01	contain	ball	carry	ball
+boat.n.01	have.v.01	engine.n.01	operate	boat	drive	boat	sail	boat
+boat.n.01	have.v.02	roof.n.01	cover	boat	contain	baggage
+boat.n.01	transport.v.02	person.n.01	carry	baggage	sit_on	bench
+bottle.n.01	have.v.01	plant.n.02	contain	plant	fill	bottle	attach	bottle
+bottle.n.01	touch.v.01	bag.n.01	carry	person	contain	bottle	pack	bottle
+bowl.n.01	hold.v.11	bowl.n.01	contain	apple
+box.n.01	have.v.01	clock.n.01	contain	clock	transport	baggage
+box.n.01	have.v.01	pizza.n.01	contain	pizza	pack	pizza	carry	box
+box.n.01	hold.v.11	pizza.n.01	contain	bag	transport	car	pack	backpack
+box.n.01	incorporate.v.02	clock.n.01	contain	clock	attach_to	box	use	clock
+building.n.01	accommodate.v.04	person.n.01	contain	bed	have	chair
+building.n.01	attach_to.v.01	tower.n.01	accommodate	person	align	road
+building.n.01	have.v.01	clock.n.01	stand_on	side
+building.n.01	have.v.01	grass.n.01	contain	grass	cover	roof
+building.n.01	have.v.01	tower.n.01	attach_to	building	taller_than	building
+building.n.01	have.v.02	roof.n.01	accommodate	person	contain	bicycle	tall	tower
+building.n.01	have.v.02	truck.n.01	park	road	load	baggage	contain	desk
+building.n.01	tall.a.01	hydrant.n.02
+building.n.01	tall.a.01	tree.n.01	taller_than	tower	taller_than	mountain	taller_than	bush
+building.n.01	taller_than	shrub.n.01	accommodate	person
+building.n.01	touch.v.01	street.n.01	against	traffic_light	align	side	contain	bush
+bus.n.01	drive.v.01	road.n.01	stop	traffic_light	board	person	drive_on	street
+bus.n.01	drive.v.01	street.n.01	drive_on	road	against	traffic_light
+bus.n.01	have.v.01	cat.n.01	contain	cat	transport	cat	carry	cat
+bus.n.01	have.v.01	face.n.01	front	side
+bus.n.01	have.v.01	roof.n.02	cover	baggage
+bus.n.01	have.v.01	wheel.n.01	drive	car	transport	person	attach	engine
+bus.n.01	have.v.02	ramp.n.01	transport	person	accommodate	baggage	align	road
+bus.n.01	park.v.02	road.n.01
+bus.n.01	park.v.02	street.n.02	align	street	drive_on	road	park	parking_meter
+bus.n.01	transport.v.02	person.n.01	contain	baggage	board	bus	sit	chair
+cabinet.n.01	have.v.01	glass.n.02	contain	glass	hold	cup
+cabinet.n.01	have.v.01	paper.n.01	contain	paper	hold	paper
+cabinet.n.01	keep.v.01	monitor.n.04	contain	baggage
+camera.n.01	face.v.05	person.n.01	adjust	camera	hold	person	stand	person
+car.n.01	against	sky.n.01	drive	airplane	park	building
+car.n.01	drive.v.01	street.n.01	carry	baggage	drive_on	road	steer	wheel
+car.n.01	drive.v.02	road.n.01	steer	person	carry	baggage	drive_on	street
+car.n.01	drive_on	person.n.01	drive_on	road	operate	car	own	car
+car.n.01	follow.v.01	car.n.01	drive_on	road	race	car	align	road
+car.n.01	have.v.01	bear.n.01	contain	bear	transport	bear	carry	bear
+car.n.01	have.v.01	dog.n.01	transport	dog	ride	car
+car.n.01	have.v.01	roof.n.02	attach	umbrella	cover	bicycle	contain	bag
+car.n.01	have.v.01	surfboard.n.01	transport	surfboard	contain	surfboard	carry	surfboard
+car.n.01	have.v.01	wheel.n.01	drive_on	road	park	street	transport	person
+car.n.01	park.v.01	motorcycle.n.01	align	building	adjust	street	park	parking_meter
+car.n.01	park.v.01	road.n.01	align	parking_meter	stop	person	rest_on	side
+car.n.01	park.v.02	sand.n.01	rest_on	sand	drive	car	contain	sand
+cart.n.01	have.v.01	baggage.n.01	contain	baggage	carry	baggage	load	baggage
+cart.n.01	have.v.01	roof.n.01	contain	baggage
+cart.n.01	keep.v.01	baggage.n.01	contain	baggage	attach_to	handcart	transport	baggage
+cart.n.01	transport.v.02	bag.n.06	pull	horse	load	bag
+cart.n.01	transport.v.02	person.n.01	pull	horse	load	baggage	push	handcart
+cat.n.01	have.v.02	face.n.07	groom	cat	watch	person	rest_on	pillow
+cat.n.01	lean_on.v.01	sink.n.01	sit_on	counter	rest	pillow	watch	person
+cat.n.01	lie.v.02	sink.n.01	rest_on	counter	sit_on	sink
+cat.n.01	look.v.01	bear.n.01	sit_on	bench	rest_on	grass
+cat.n.01	look.v.01	cat.n.01	sit_on	sofa	stand	bench	watch	bird
+cat.n.01	look.v.01	monitor.n.04	sit_on	desk	rest_on	sofa	watch	television
+cat.n.01	sit.v.01	bench.n.01	rest_on	bench	sit_on	backpack	watch	bird
+cat.n.01	sit.v.01	chair.n.01	rest_on	pillow	watch	television	lean_on	backpack
+cat.n.01	sit.v.01	sink.n.01	rest_on	counter	sit_on	sink	stand_on	sink
+cat.n.01	sit.v.01	table.n.02	rest_on	bowl	lean_on	lamp	watch	bird
+cat.n.01	sit_down.v.01	sofa.n.01	rest_on	pillow	sit	person	contain	book
+cat.n.01	sleep.v.01	chair.n.01	rest_on	chair	sit_on	chair	contain	backpack
+cat.n.01	sleep.v.01	shelf.n.01	rest_on	pillow	sit_on	book	contain	bowl
+cat.n.01	stand.v.01	person.n.01	rest_on	bed	sit_on	sofa	greet	person
+cat.n.01	watch.v.04	proctor.n.01	sit_on	desk	inspect	book	rest_on	bench
+cat.n.01	wear.v.01	necktie.n.01	dress	person	sit_on	sofa	rest_on	bench
+chair.n.01	against	counter.n.01	sit_on	person	rest_on	bag	lean_on	backpack
+chair.n.01	have.v.01	bag.n.01	attach_to	chair	rest_on	chair	contain	backpack
+chair.n.01	have.v.01	pillow.n.01	sit_on	chair	rest_on	pillow	contain	pillow
+chair.n.01	hold.v.10	person.n.01	sit_on	chair	rest_on	chair	accommodate	person
+chair.n.01	incorporate.v.02	bear.n.01	sit_on	chair	contain	bag	rest_on	bench
+clock.n.01	against	sky.n.01	rest_on	tower	attach_to	building	align	tower
+clock.n.01	attach.v.03	building.n.01	rest_on	side	install	roof	align	tower
+clock.n.01	have.v.01	face.n.01	attach_to	clock	contain	watch	front	building
+clock.n.01	have.v.01	hand.n.08	attach_to	clock	align	face	manipulate	clock
+clock.n.01	sit.v.01	chair.n.01	rest_on	table	contain	baggage	lean_on	desk
+coat.n.01	cover.v.01	person.n.01	wear	shirt	use	umbrella	carry	backpack
+computer.n.01	confront.v.02	person.n.01	inspect	monitor	operate	keyboard	use	cell_phone
+computer.n.01	have.v.01	monitor.n.04	attach_to	desk	use	keyboard	sit_on	table
+counter.n.01	have.v.01	basket.n.01	contain	apple	attach_to	chair	rest_on	table
+counter.n.01	have.v.01	box.n.01	contain	cabinet	rest_on	shelf	hold	bottle
+counter.n.01	have.v.01	plate.n.02	contain	bowl	serve	cake	hold	cup
+counter.n.01	have.v.01	pot.n.01	contain	bowl	use	stove	hold	spoon
+counter.n.01	have.v.01	stove.n.01	attach_to	stove	contain	stove	install	stove
+counter.n.01	incorporate.v.02	plate.n.02	contain	cup	hold	bottle
+desk.n.01	have.v.01	chair.n.01	align	desk	sit_on	chair
+desk.n.01	have.v.01	glass.n.02	contain	wine	rest_on	table
+desk.n.01	have.v.01	laptop.n.01	contain	bag	hold	bottle	rest_on	desk
+desk.n.01	have.v.01	monitor.n.04	contain	keyboard	hold	computer
+desk.n.01	have.v.01	pot.n.04	contain	plant	rest_on	desk	align	desk
+desk.n.01	have.v.01	telephone.n.01	contain	cell_phone	sit_on	chair	accommodate	person
+desk.n.01	have.v.02	computer.n.01	contain	keyboard	stand	lamp	rest_on	chair
+desk.n.01	have.v.02	keyboard.n.01	contain	computer	contain	monitor	type	person
+desk.n.01	have.v.02	lamp.n.02	sit_on	desk	light	desk	rest_on	desk
+desk.n.01	hold.v.11	mouse.n.01
+dog.n.01	drive.v.01	car.n.01	accommodate	person	contain	baggage	drive_on	road
+dog.n.01	have.v.01	bear.n.01	play	ball	own	teddy	chase	cat
+dog.n.01	have.v.01	shirt.n.01	wear	shirt	carry	shirt	own	shirt
+dog.n.01	keep.v.01	ball.n.01	hold	ball	play	ball
+dog.n.01	lean_on.v.01	person.n.01	sit_on	bench	rest_on	grass
+dog.n.01	look.v.01	dog.n.01	stand	street	sit_on	bench
+dog.n.01	look.v.01	oven.n.01
+dog.n.01	look.v.01	shoe.n.01
+dog.n.01	look.v.01	tree.n.01	sit	bench	watch	bird
+dog.n.01	pull.v.01	horse.n.01	use	cart
+dog.n.01	ride.v.01	car.n.01
+dog.n.01	ride.v.01	dog.n.01	sit_on	backpack	play	ball	accommodate	person
+dog.n.01	ride.v.01	motorcycle.n.01	accommodate	person
+dog.n.01	ride.v.01	person.n.01	sit_on	backpack	play	ball	park	bench
+dog.n.01	ride.v.02	boat.n.01	sit_on	bench	watch	person	rest_on	baggage
+dog.n.01	sit.v.01	bench.n.01	rest_on	bench	watch	person	own	person
+dog.n.01	sit.v.01	person.n.01	sit_on	person	greet	person
+dog.n.01	sit.v.01	shelf.n.01	rest_on	counter	contain	cabinet	own	person
+dog.n.01	sleep.v.01	sofa.n.01	rest_on	pillow	lie	bench	sit_on	chair
+dog.n.01	stand.v.01	boat.n.01
+dog.n.01	stand.v.01	street.n.01	stand_on	side	watch	traffic_light	rest_on	bench
+dog.n.01	tall.a.01	person.n.01	own	dog	stand_on	bench	have	hat
+dog.n.01	use.v.01	laptop.n.01
+dog.n.01	watch.v.01	monitor.n.04	sit_on	sofa	operate	computer
+dog.n.01	wear.v.01	bloomers.n.01	dress	person	play	ball	contain	basket
+dog.n.01	wear.v.01	helmet.n.01	ride	bicycle	sit_on	motorcycle	inspect	helmet
+dog.n.01	wear.v.01	jacket.n.01
+dog.n.01	wear.v.01	spectacles.n.01	contain	person	sit_on	bench	play	ball
+dog.n.01	wear.v.02	shirt.n.01	own	person	sit_on	sofa	play	frisbee
+elephant.n.01	cover.v.01	car.n.01	rest_on	roof	obstruct	road
+elephant.n.01	feed.v.01	plant.n.01	carry	baggage	contain	apple	rest_on	bench
+elephant.n.01	hold.v.02	person.n.01	contain	basket	stand_on	bicycle	carry	baggage
+elephant.n.01	hold.v.02	plant.n.02	feed	elephant
+elephant.n.01	look.v.01	grass.n.01	stand_on	grass	walk	road
+elephant.n.01	ride.v.01	bicycle.n.01	taller_than	bicycle	obstruct	bicycle	stand_on	bicycle
+elephant.n.01	sleep.v.01	person.n.01	rest_on	bed	rest_on	bench	rest_on	grass
+elephant.n.01	stand.v.01	grass.n.01	greet	bird	rest_on	tree
+elephant.n.01	stand.v.03	street.n.02	obstruct	car	watch	person	greet	bicycle
+elephant.n.01	tall.a.01	person.n.01	taller_than	giraffe	rest_on	bench	carry	baggage
+elephant.n.01	wear.v.01	spectacles.n.01	sit_on	bench	carry	backpack	look	book
+elephant.n.01	wear.v.01	trouser.n.01	watch	person
+engine.n.01	attach.v.03	airplane.n.01	assemble	airplane	install	engine	contain	wheel
+engine.n.01	attach_to.v.01	airplane.n.01	drive	airplane	install	airplane	assemble	airplane
+engine.n.01	have.v.01	grass.n.01	contain	bush
+faucet.n.01	attach.v.01	sink.n.01	attach_to	counter	install	sink	use	hand
+giraffe.n.01	eat.v.01	grass.n.01	taller_than	bush	watch	bird
+giraffe.n.01	have.v.01	person.n.01	accommodate	person	watch	person	taller_than	person
+giraffe.n.01	have.v.02	face.n.01	look	tree	taller_than	bus
+giraffe.n.01	lie.v.02	grass.n.01	watch	bird
+giraffe.n.01	look.v.01	grass.n.01	taller_than	bush
+giraffe.n.01	look.v.01	hand.n.01	face	person	hold	apple
+giraffe.n.01	sit.v.01	grass.n.01
+giraffe.n.01	stand.v.01	grass.n.01	eat	grass	taller_than	bush
+giraffe.n.01	touch.v.01	street.n.01	stand_on	road	walk	side	lean_on	building
+glass.n.01	cover.v.01	cabinet.n.01	attach_to	shelf	contain	bottle
+glass.n.02	have.v.01	plant.n.01	contain	beer	use	bottle	fill	bowl
+grass.n.01	get.v.03	grass.n.01	contain	cow	feed	sheep
+gun.n.01	eat.v.01	grass.n.01	hunt	cow	hunt	sheep	hunt	zebra
+hand.n.01	have.v.01	pizza.n.01	hold	pizza	eat	pizza	manipulate	pizza
+hand.n.01	have.v.01	telephone.n.01	hold	cell_phone	use	telephone	operate	cellular_telephone
+hand.n.01	hold.v.02	bag.n.01	carry	backpack	contain	apple	transport	bottle
+hand.n.01	hold.v.02	camera.n.01	adjust	camera	inspect	camera	use	camera
+hand.n.01	hold.v.02	cup.n.01	drink	beer	serve	table	fill	bottle
+hand.n.01	hold.v.02	telephone.n.01	use	cell_phone	talk	person	sit	chair
+hand.n.01	hold.v.02	umbrella.n.01	use	umbrella	carry	bag	walk	person
+hat.n.01	cover.v.01	person.n.01	wear	hat	sit_on	bench	carry	backpack
+hat.n.01	have.v.02	tie.n.04	attach	helmet	align	roof	assemble	building
+helmet.n.01	cover.v.01	person.n.01	wear	shirt	ride	bicycle	use	motorcycle
+horse.n.01	confront.v.01	car.n.01	stand	road	obstruct	road	face	car
+horse.n.01	feed.v.06	grass.n.01	stand_on	grass	eat	apple
+horse.n.01	follow.v.01	person.n.01	herd	person	direct	person
+horse.n.01	have.v.01	hat.n.01	wear	person	carry	person	dress	person
+horse.n.01	have.v.01	person.n.01	ride	horse	groom	horse	feed	horse
+horse.n.01	look.v.01	grass.n.01	stand_on	grass	groom	grass	herd	horse
+horse.n.01	pull.v.01	train.n.01	attach_to	cart	operate	engine
+horse.n.01	search.v.02	tree.n.01	look	admonisher	inspect	bush	move	grass
+horse.n.01	stand.v.01	street.n.02	against	hydrant	contain	bicycle
+horse.n.01	transport.v.02	bag.n.01	carry	backpack	attach_to	cart	contain	baggage
+horse.n.01	transport.v.02	person.n.01	carry	baggage	ride	road
+horse.n.01	walk.v.04	horse.n.01	walk	road	carry	backpack
+horse.n.01	wear.v.01	hat.n.01	carry	person	stand_on	street	ride	bicycle
+jacket.n.01	cover.v.01	person.n.01	wear	shirt	carry	backpack	stand_on	street
+jean.n.01	lie.v.01	motorcycle.n.01	contain	bag	attach_to	motorcycle
+keyboard.n.01	attach_to.v.01	laptop.n.01	use	computer	install	desk	operate	monitor
+kite.n.03	fly.v.01	person.n.01	against	sky
+kite.n.03	fly.v.01	sky.n.01	launch	person	watch	person
+laptop.n.01	have.v.01	keyboard.n.01	use	person	contain	computer	type	person
+laptop.n.01	have.v.01	monitor.n.04	attach_to	desk	use	computer	contain	keyboard
+laptop.n.01	lie.v.01	chair.n.01	sit_on	person	contain	desk	rest_on	table
+manner.n.01	transport.v.02	doughnut.n.02	carry	bag	load	car	hold	hand
+monitor.n.04	have.v.02	clock.n.01	contain	clock	attach	computer	sit_on	desk
+monitor.n.05	have	mouse.n.04	contain	computer	use	desk	accommodate	keyboard
+motorcycle.n.01	have	helmet.n.02	ride	motorcycle	wear	helmet	use	helmet
+motorcycle.n.01	have.v.01	bag.n.01	attach_to	motorcycle	carry	baggage	contain	backpack
+motorcycle.n.01	have.v.01	cup.n.01	contain	cup	attach_to	motorcycle	carry	cup
+motorcycle.n.01	have.v.01	engine.n.01	accommodate	wheel	drive	motorcycle	operate	engine
+motorcycle.n.01	have.v.01	helmet.n.01	ride	person	wear	helmet	use	helmet
+motorcycle.n.01	have.v.01	person.n.01	ride	motorcycle	own	motorcycle	use	motorcycle
+motorcycle.n.01	have.v.01	plate.n.02	attach_to	motorcycle
+motorcycle.n.01	have.v.02	bag.n.01	attach_to	backpack	carry	baggage	contain	helmet
+motorcycle.n.01	have.v.02	box.n.01	contain	baggage	carry	helmet
+motorcycle.n.01	incorporate.v.02	box.n.01	attach	bag	contain	helmet	carry	baggage
+motorcycle.n.01	keep.v.01	bottle.n.01	attach_to	motorcycle	contain	bottle	carry	baggage
+motorcycle.n.01	keep.v.01	tree.n.01	park	tree	lean_on	tree	rest_on	tree
+motorcycle.n.01	lean.v.02	building.n.01	park	side	lean_on	post
+motorcycle.n.01	lean_on.v.01	tree.n.01	rest_on	side	park	tree	against	post
+motorcycle.n.01	park.v.01	road.n.01	lean_on	side	align	traffic_light
+motorcycle.n.01	park.v.02	grass.n.01	lean_on	person	against	parking_meter
+motorcycle.n.01	park.v.02	street.n.01	park	person	against	parking_meter	align	building
+motorcycle.n.01	ride.v.02	street.n.02	wear	helmet	ride	person	drive_on	road
+motorcycle.n.01	sit.v.02	motorcycle.n.01	park	street	rest	bench	lean_on	building
+motorcycle.n.01	stand.v.01	street.n.02	park	side	lean_on	post	against	hydrant
+motorcycle.n.01	stand.v.03	street.n.02	park	side	rest_on	road	align	traffic_light
+motorcycle.n.01	touch.v.01	motorcycle.n.01	against	road	lean_on	person	rest_on	side
+motorcycle.n.01	transport.v.02	person.n.01	wear	helmet	ride	motorcycle	carry	backpack
+mountain.n.01	against	sky.n.01	taller_than	building	look	person	fly	airplane
+mountain.n.01	have.v.01	bush.n.02	contain	tree
+mountain.n.01	have.v.01	grass.n.01	contain	tree	inhere_in	sheep
+mouse.n.04	attach_to.v.01	laptop.n.01	use	computer	operate	laptop	rest_on	desk
+necktie.n.01	touch.v.01	shirt.n.01	wear	person
+oven.n.01	have.v.01	clock.n.01	contain	clock	install	clock	operate	clock
+paper.n.01	against	person.n.01	hold	paper	use	paper	stand	side
+person.n.01	adjust.v.01	ski.n.01	inspect	ski
+person.n.01	against	person.n.01	confront	sport
+person.n.01	align.v.01	necktie.n.01	adjust	shirt	dress	shirt	tie	shirt
+person.n.01	align.v.01	snowboard.n.01	align	counter	pack	bag
+person.n.01	assemble.v.01	kite.n.01	inspect	paper	check	computer
+person.n.01	attach_to	kite.n.03
+person.n.01	audit.v.01	airplane.n.01	use	computer	inspect	engine	board	airplane
+person.n.01	beckon.v.01	bus.n.01	stand	road
+person.n.01	blow.v.01	cake.n.01	use	hand_blower	hold	bottle
+person.n.01	board.v.01	airplane.n.01	carry	bag	walk	ramp
+person.n.01	board.v.01	boat.n.01	carry	backpack	wear	hat	use	umbrella
+person.n.01	board.v.01	bus.n.01	carry	backpack	use	cell_phone
+person.n.01	board.v.01	car.n.01	carry	backpack	drive	road
+person.n.01	board.v.01	train.n.01	carry	baggage
+person.n.01	break.v.05	baseball_bat.n.01	hit	ball	wield	baseball_bat	throw	baseball_bat
+person.n.01	brush.v.01	toothbrush.n.01
+person.n.01	buy.v.01	banana.n.01	carry	bag	use	cart	pay	banana
+person.n.01	buy.v.01	doughnut.n.02	contain	bag	eat	doughnut	carry	basket
+person.n.01	buy.v.01	orange.n.01	carry	bag	use	cart
+person.n.01	buy.v.01	pizza.n.01	carry	bag	eat	pizza
+person.n.01	carry.v.02	backpack.n.01	wear	jacket	walk	street	contain	book
+person.n.01	carry.v.02	bag.n.04	board	airplane	walk	street	sit_on	bench
+person.n.01	carry.v.02	baggage.n.01	board	airplane	sit_on	bus	walk	road
+person.n.01	carry.v.02	ball.n.01	use	backpack	play	sports_ball	hold	baseball_glove
+person.n.01	carry.v.02	baseball_bat.n.01	put	bag	play	sport
+person.n.01	carry.v.02	bicycle.n.01	carry	bag	carry	backpack	walk	road
+person.n.01	carry.v.02	bottle.n.01	carry	backpack
+person.n.01	carry.v.02	camera.n.01	contain	bag	use	camera	wear	backpack
+person.n.01	carry.v.02	carrot.n.01	contain	bag	contain	backpack	hold	hand
+person.n.01	carry.v.02	dog.n.01	carry	backpack	carry	bag
+person.n.01	carry.v.02	keyboard.n.01	contain	bag	contain	backpack	board	airplane
+person.n.01	carry.v.02	kite.n.03	contain	backpack	carry	bag
+person.n.01	carry.v.02	plate.n.02	contain	apple	rest_on	table	use	bicycle
+person.n.01	carry.v.02	sandwich.n.01	carry	bag	carry	hand	contain	backpack
+person.n.01	carry.v.02	sheep.n.01	use	backpack	herd	sheep	transport	truck
+person.n.01	carry.v.02	skateboard.n.01	carry	bag	walk	road	wear	helmet
+person.n.01	carry.v.02	sunglasses.n.01	board	airplane	contain	bag	wear	face
+person.n.01	carry.v.02	teddy.n.01	carry	backpack	carry	bag	carry	baggage
+person.n.01	carry.v.02	tennis_racket.n.01	carry	bag	carry	backpack
+person.n.01	catch.v.04	ball.n.01	use	baseball_glove	play	sport	catch	sports_ball
+person.n.01	catch.v.04	frisbee.n.01	play	sports_ball	throw	person	stand_on	grass
+person.n.01	chase.v.01	bird.n.01	carry	backpack	run	street	watch	admonisher
+person.n.01	chase.v.01	cat.n.01	carry	backpack	run	street	use	bicycle
+person.n.01	chase.v.01	dog.n.01	use	bicycle	carry	backpack
+person.n.01	check.v.01	parking_meter.n.01	carry	bag	stand	street	use	cell_phone
+person.n.01	check.v.02	clock.n.01
+person.n.01	clean.v.01	dining_table.n.01
+person.n.01	clean.v.01	oven.n.01	use	bottle	use	bowl
+person.n.01	clean.v.01	toilet.n.01	inspect	toilet	wash	hand
+person.n.01	confront.v.03	street.n.01	carry	bag	stand	side	have	bottle
+person.n.01	cook.v.01	hotdog.n.02	use	fork	use	stove
+person.n.01	cook.v.01	sandwich.n.01	use	oven	use	knife
+person.n.01	cook.v.02	pizza.n.01	use	oven	serve	plate
+person.n.01	cream.v.02	person.n.01	play	sports_ball	race	bicycle
+person.n.01	crunch.v.02	skateboard.n.01	manipulate	skateboard	stand_on	skateboard	use	skateboard
+person.n.01	cut.v.01	apple.n.01	hold	knife	cut	knife	sit	dining_table
+person.n.01	cut.v.01	banana.n.01	use	knife	sit	dining_table	eat	banana
+person.n.01	cut.v.01	carrot.n.01	use	knife	cut	apple	contain	bowl
+person.n.01	cut.v.01	necktie.n.01	use	knife
+person.n.01	cut.v.01	sandwich.n.01	use	knife	use	scissors	cut	apple
+person.n.01	cut.v.01	scissors.n.01	cut	paper	hold	hand	use	knife
+person.n.01	cut.v.04	cake.n.03	use	knife	serve	person	contain	plate
+person.n.01	cut.v.04	orange.n.01	use	knife	contain	bowl
+person.n.01	cut.v.04	pizza.n.01	use	knife	cut	table	sit	chair
+person.n.01	cut.v.28	broccoli.n.01	use	knife	contain	basket	use	scissors
+person.n.01	decant.v.01	cup.n.01	contain	wine	contain	beer	lean_on	counter
+person.n.01	direct.v.01	car.n.01	drive	car	operate	engine
+person.n.01	discipline.v.01	horse.n.01	ride	horse
+person.n.01	drag.v.01	bag.n.06	drag	baggage	carry	backpack	use	handcart
+person.n.01	drag.v.01	surfboard.n.01	drag	sand	wear	shirt
+person.n.01	dress.v.15	dog.n.01	attach_to	necktie	wear	hat
+person.n.01	dribble.v.03	ball.n.01	play	sports_ball	wear	shoe
+person.n.01	drink.v.01	bottle.n.01	contain	beer	sit	chair	hold	hand
+person.n.01	drink.v.01	cup.n.01	contain	beer	sit	chair	hold	bottle
+person.n.01	drive.v.01	boat.n.01	sail	boat	steer	boat	ride	boat
+person.n.01	drive.v.01	bus.n.01	operate	wheel	contain	baggage	drive_on	road
+person.n.01	drive.v.01	car.n.01	drive_on	road	wear	helmet	carry	baggage
+person.n.01	drive.v.01	elephant.n.01	ride	elephant	use	road	direct	elephant
+person.n.01	drive.v.01	motorcycle.n.01	wear	helmet	drive_on	road	park	motorcycle
+person.n.01	drive.v.01	train.n.01	use	engine	operate	train	sit_on	bench
+person.n.01	drive.v.01	truck.n.01	carry	baggage	drive_on	road	park	building
+person.n.01	dry.v.01	cat.n.01	use	hand_blower
+person.n.01	dry.v.01	dog.n.01	wash	dog
+person.n.01	eat.v.01	banana.n.01	sit_on	bench	hold	bowl	use	fork
+person.n.01	eat.v.01	cake.n.03	use	fork	drink	wine
+person.n.01	eat.v.01	carrot.n.01	use	fork	sit	chair	hold	bowl
+person.n.01	eat.v.01	doughnut.n.02	sit	bench	hold	bag
+person.n.01	eat.v.01	hotdog.n.02	sit_on	bench	contain	plate	drink	beer
+person.n.01	eat.v.01	orange.n.01	use	knife	sit_on	bench	contain	bowl
+person.n.01	eat.v.01	pizza.n.01	sit_on	bench	hold	bottle	use	fork
+person.n.01	eat.v.02	dining_table.n.01	eat	apple	sit_on	chair	drink	wine
+person.n.01	eat.v.02	sandwich.n.01	sit_on	bench	contain	bag	drink	beer
+person.n.01	embrace.v.02	cat.n.01	sit_on	sofa	wear	shirt	rest_on	bench
+person.n.01	embrace.v.02	cow.n.01	stand_on	grass	rest_on	bench
+person.n.01	embrace.v.02	horse.n.01	sit_on	horse	ride	horse	groom	horse
+person.n.01	embrace.v.02	person.n.01	wear	coat	hold	hand
+person.n.01	embrace.v.02	sheep.n.01	own	sheep	sit_on	bench	rest_on	bush
+person.n.01	embrace.v.02	teddy.n.01	sit_on	sofa	hold	pillow	rest_on	bed
+person.n.01	exit.v.01	airplane.n.01	carry	baggage	walk	ramp	hold	bag
+person.n.01	exit.v.01	boat.n.01	carry	backpack	walk	road	hold	bag
+person.n.01	exit.v.01	bus.n.01	carry	bag	wear	jacket	walk	road
+person.n.01	exit.v.01	train.n.01	carry	bag	wear	jacket	hold	cell_phone
+person.n.01	face.v.05	bus.n.01	watch	bus	stand	side
+person.n.01	feed.v.01	bear.n.01	contain	bowl
+person.n.01	feed.v.02	bird.n.01	use	bowl	rest_on	bench
+person.n.01	feed.v.02	cow.n.01	use	bowl	contain	apple	sit_on	bench
+person.n.01	feed.v.02	dog.n.01	use	bowl	contain	dog	sit_on	bench
+person.n.01	feed.v.02	elephant.n.01	use	basket	stand_on	grass	hold	banana
+person.n.01	feed.v.02	giraffe.n.01	contain	basket	feed	apple	hold	bottle
+person.n.01	feed.v.02	horse.n.01	carry	bag	use	bowl	contain	apple
+person.n.01	feed.v.02	person.n.01	use	spoon	contain	bowl	sit_on	chair
+person.n.01	feed.v.02	sheep.n.01	carry	bag	herd	sheep
+person.n.01	feed.v.02	zebra.n.01	use	bowl	contain	apple
+person.n.01	fill.v.01	cup.n.01	fill	bottle	use	hand	stand	bench
+person.n.01	fleece.v.02	sheep.n.01	use	sheep	contain	bag	produce	jacket
+person.n.01	flip.v.05	skateboard.n.01	wear	helmet	stand_on	ramp	use	hand
+person.n.01	flush.v.02	toilet.n.01	use	toilet	wash	hand	exit	building
+person.n.01	fly.v.01	airplane.n.01	board	airplane	carry	baggage
+person.n.01	fly.v.01	kite.n.01	inspect	paper	check	bag	launch	airplane
+person.n.01	follow.v.01	person.n.01	walk	road
+person.n.01	front.v.01	person.n.01	sit_on	bench	hold	book	talk	person
+person.n.01	greet.v.01	person.n.01	accommodate	desk	use	telephone
+person.n.01	grind.v.07	snowboard.n.01
+person.n.01	groom.v.03	horse.n.01	wash	horse	feed	horse
+person.n.01	have.v.01	bag.n.01	carry	backpack	pack	baggage	own	bag
+person.n.01	have.v.01	bag.n.06	carry	backpack	pack	baggage	board	airplane
+person.n.01	have.v.01	ball.n.01	play	sports_ball	carry	bag	kick	ball
+person.n.01	have.v.01	basket.n.01	carry	basket	contain	apple	use	basket
+person.n.01	have.v.01	bed.n.01	sleep_on	bed	own	bed	rest_on	bed
+person.n.01	have.v.01	bicycle.n.01	ride	bicycle	carry	backpack	wear	helmet
+person.n.01	have.v.01	bottle.n.01	drink	beer	carry	bag
+person.n.01	have.v.01	box.n.01	contain	apple	carry	backpack	own	baggage
+person.n.01	have.v.01	camera.n.01	carry	bag	use	camera	own	camera
+person.n.01	have.v.01	cat.n.01	pet	cat	feed	cat	sit_on	sofa
+person.n.01	have.v.01	coat.n.01	wear	shirt	carry	bag	use	umbrella
+person.n.01	have.v.01	cow.n.01	milk	cow	feed	cow	own	cow
+person.n.01	have.v.01	cup.n.01	drink	beer	carry	bag	use	desk
+person.n.01	have.v.01	dog.n.01	walk	dog	pet	dog	feed	dog
+person.n.01	have.v.01	face.n.01	wear	hat	watch	television
+person.n.01	have.v.01	helmet.n.01	wear	helmet	carry	bag	ride	bicycle
+person.n.01	have.v.01	horse.n.01	ride	horse	feed	horse	own	horse
+person.n.01	have.v.01	jacket.n.01	contain	bag	wear	person	carry	backpack
+person.n.01	have.v.01	laptop.n.01	use	computer	carry	bag	hold	backpack
+person.n.01	have.v.01	motorcycle.n.01	ride	motorcycle	park	motorcycle	own	motorcycle
+person.n.01	have.v.01	mouse.n.01	keep	box	contain	bag	feed	mouse
+person.n.01	have.v.01	necktie.n.01	wear	shirt	carry	bag
+person.n.01	have.v.01	paper.n.01	read	book	carry	bag
+person.n.01	have.v.01	person.n.01	discipline	admonisher	teach	proctor	direct	president
+person.n.01	have.v.01	plate.n.03	contain	book	read	book
+person.n.01	have.v.01	shirt.n.01	wear	shirt	wash	shirt	own	shirt
+person.n.01	have.v.01	short_pants.n.01	wear	short_pants	carry	backpack	ride	bicycle
+person.n.01	have.v.01	skateboard.n.01	ride	skateboard	carry	skateboard	own	skateboard
+person.n.01	have.v.01	ski.n.01	carry	bag	use	snowboard
+person.n.01	have.v.01	snowboard.n.01
+person.n.01	have.v.01	sunglasses.n.01	carry	bag	wear	hat	sit_on	bench
+person.n.01	have.v.01	surfboard.n.01	carry	bag	own	baggage
+person.n.01	have.v.01	umbrella.n.01	carry	bag
+person.n.01	have.v.01	vase.n.01	buy	vase	clean	vase
+person.n.01	have.v.01	watch.n.01	wear	shirt	inspect	clock	carry	bag
+person.n.01	herd.v.01	cow.n.01	use	dog	walk	road
+person.n.01	herd.v.01	sheep.n.01	use	dog
+person.n.01	hit.v.01	ball.n.01	use	baseball_bat	play	sport	hit	sports_ball
+person.n.01	hold.v.02	apple.n.01	eat	apple	pick_up	apple	carry	bag
+person.n.01	hold.v.02	backpack.n.01	carry	baggage	wear	jacket	stand	road
+person.n.01	hold.v.02	bag.n.04	carry	backpack	contain	apple	use	cell_phone
+person.n.01	hold.v.02	bag.n.06	carry	backpack	walk	road	stand_on	bus
+person.n.01	hold.v.02	ball.n.01	play	sport	carry	bag	kick	sports_ball
+person.n.01	hold.v.02	baseball_glove.n.01	play	sports_ball	wear	shirt
+person.n.01	hold.v.02	basket.n.01	contain	apple	carry	bag
+person.n.01	hold.v.02	bear.n.01	use	teddy	contain	backpack
+person.n.01	hold.v.02	bench.n.01	carry	bench	move	bench
+person.n.01	hold.v.02	bicycle.n.01	lean_on	side	stand_on	road	ride	bicycle
+person.n.01	hold.v.02	bird.n.01	contain	bag	contain	basket
+person.n.01	hold.v.02	book.n.01	read	book	sit_on	sofa	wear	spectacles
+person.n.01	hold.v.02	broccoli.n.01	cook	broccoli	buy	broccoli	eat	broccoli
+person.n.01	hold.v.02	cake.n.01	carry	bag	inspect	cake
+person.n.01	hold.v.02	camera.n.01	inspect	camera	carry	bag	use	camera
+person.n.01	hold.v.02	carrot.n.01	eat	carrot	put	basket	carry	bag
+person.n.01	hold.v.02	cart.n.01	pull	cart	push	cart	load	baggage
+person.n.01	hold.v.02	chair.n.01	carry	chair	move	chair	sit_on	chair
+person.n.01	hold.v.02	clock.n.01	inspect	clock	wear	watch
+person.n.01	hold.v.02	computer.n.01	use	computer	transport	bag	carry	backpack
+person.n.01	hold.v.02	cone.n.01	use	hand	stand	street
+person.n.01	hold.v.02	cup.n.01	drink	cup	sit	dining_table	inspect	cup
+person.n.01	hold.v.02	dog.n.01	carry	backpack	pet	dog	walk	dog
+person.n.01	hold.v.02	doughnut.n.02	eat	doughnut	carry	bag	sit_on	bench
+person.n.01	hold.v.02	elephant.n.01	use	basket	stand_on	bench	own	elephant
+person.n.01	hold.v.02	fork.n.01	eat	apple	sit_on	chair	serve	plate
+person.n.01	hold.v.02	frisbee.n.01	play	sports_ball	carry	backpack	stand_on	grass
+person.n.01	hold.v.02	giraffe.n.01
+person.n.01	hold.v.02	hand.n.01	walk	dog	hold	umbrella	sit	bench
+person.n.01	hold.v.02	hat.n.01	wear	coat	sit_on	bench	use	umbrella
+person.n.01	hold.v.02	hotdog.n.02	sit_on	bench	eat	hotdog	stand	street
+person.n.01	hold.v.02	jacket.n.01	sit_on	bench	wear	hat	carry	bag
+person.n.01	hold.v.02	keyboard.n.01	use	computer	operate	laptop
+person.n.01	hold.v.02	knife.n.01	cut	apple	use	knife
+person.n.01	hold.v.02	laptop.n.01	sit_on	chair	use	desk	sit	sofa
+person.n.01	hold.v.02	oven.n.01	carry	oven	use	hand
+person.n.01	hold.v.02	paper.n.01	read	paper	transport	bag
+person.n.01	hold.v.02	person.n.01	embrace	person	carry	backpack	restrain	person
+person.n.01	hold.v.02	pillow.n.01	carry	baggage	sit_on	sofa	sleep_on	bed
+person.n.01	hold.v.02	pot.n.01	cook	stove	carry	backpack
+person.n.01	hold.v.02	potted.a.01	carry	potted_plant	inspect	plant	transport	pot
+person.n.01	hold.v.02	remote_control.n.01	use	television	operate	television	sit_on	sofa
+person.n.01	hold.v.02	scissors.n.01	use	knife	carry	bag	cut	paper
+person.n.01	hold.v.02	shirt.n.01	wear	shirt	carry	bag	use	hand
+person.n.01	hold.v.02	shoe.n.01	stand_on	bench	inspect	shoe	wear	hat
+person.n.01	hold.v.02	ski.n.01	use	ski	stand_on	snowboard	wear	jacket
+person.n.01	hold.v.02	snowboard.n.01	stand_on	snowboard	carry	backpack	wear	jacket
+person.n.01	hold.v.02	spectacles.n.01	wear	spectacles	adjust	spectacles	read	book
+person.n.01	hold.v.02	surfboard.n.01	stand_on	sand	carry	backpack	wear	sunglasses
+person.n.01	hold.v.02	telephone.n.01	use	cell_phone	talk	telephone	hold	cell_phone
+person.n.01	hold.v.02	tennis_racket.n.01	play	sports_ball	wear	shirt
+person.n.01	hold.v.02	toaster.n.01	toast	wine	stand_on	table	drink	glass
+person.n.01	hold.v.02	toothbrush.n.01	use	toothbrush
+person.n.01	hold.v.02	umbrella.n.01	carry	bag	wear	coat	walk	street
+person.n.01	hold.v.02	vase.n.01	carry	basket
+person.n.01	hold.v.02	wheel.n.01	inspect	car	repair	bicycle	carry	wheel
+person.n.01	hold.v.02	wine.n.01	contain	bottle	drink	wine	serve	wine
+person.n.01	hold.v.02	zebra.n.01	hold	teddy	play	zebra
+person.n.01	hold.v.22	horse.n.01	feed	apple	ride	horse	pet	horse
+person.n.01	hop_on.v.01	bicycle.n.01	wear	helmet	ride	road	carry	backpack
+person.n.01	hop_on.v.01	elephant.n.01	ride	elephant	use	backpack	carry	camera
+person.n.01	hop_on.v.01	horse.n.01	carry	backpack	wear	helmet
+person.n.01	hop_on.v.01	motorcycle.n.01	wear	helmet	race	road	ride	street
+person.n.01	hose.v.01	car.n.01	clean	car	wash	car
+person.n.01	hose.v.01	elephant.n.01	use	bottle	stand_on	bench
+person.n.01	hose.v.01	potted.a.01	stand_on	grass
+person.n.01	hunt.v.01	bear.n.01	use	gun	hunt	sport
+person.n.01	inspect.v.01	apple.n.01	pick_up	apple	hold	apple	wash	apple
+person.n.01	inspect.v.01	backpack.n.01	inspect	baggage	against	airplane	check	bag
+person.n.01	inspect.v.01	bag.n.04	inspect	baggage	contain	apple
+person.n.01	inspect.v.01	ball.n.01	play	sports_ball	check	baseball_bat	inspect	baseball_glove
+person.n.01	inspect.v.01	bench.n.01	sit	bench	rest	bench	carry	bag
+person.n.01	inspect.v.01	bicycle.n.01	check	wheel	inspect	helmet
+person.n.01	inspect.v.01	bottle.n.01	contain	beer	clean	hand	rest_on	table
+person.n.01	inspect.v.01	bus.n.01	check	engine	inspect	baggage	operate	road
+person.n.01	inspect.v.01	dog.n.01	groom	dog	pet	dog
+person.n.01	inspect.v.01	kite.n.03	fly	sky	hold	hand	use	kite
+person.n.01	inspect.v.01	motorcycle.n.01	check	engine	repair	wheel	use	helmet
+person.n.01	inspect.v.01	necktie.n.01	buy	necktie	adjust	necktie	wear	necktie
+person.n.01	inspect.v.01	oven.n.01	use	oven	clean	oven	repair	oven
+person.n.01	inspect.v.01	ski.n.01	check	baggage	hold	ski
+person.n.01	inspect.v.01	surfboard.n.01	buy	surfboard	repair	surfboard
+person.n.01	inspect.v.01	truck.n.01	check	truck
+person.n.01	install.v.01	traffic_light.n.01	install	road	install	street	install	building
+person.n.01	jab.v.01	person.n.01	use	baseball_bat	use	knife	play	sport
+person.n.01	jump.v.01	bicycle.n.01	ride	bicycle	wear	helmet
+person.n.01	jump.v.01	boat.n.01	carry	backpack	hop_on	boat
+person.n.01	jump.v.01	horse.n.01	ride	horse	carry	backpack	move	grass
+person.n.01	jump.v.01	motorcycle.n.01	wear	helmet	lean_on	motorcycle	use	ramp
+person.n.01	jump.v.01	surfboard.n.01	carry	surfboard	stand_on	sand	hold	surfboard
+person.n.01	jump.v.11	ski.n.01	use	ski	hold	ski	stand_on	snowboard
+person.n.01	keep.v.01	ball.n.01	contain	bag	hold	hand	dribble	basket
+person.n.01	keep.v.01	banana.n.01	keep	bag	contain	bowl	hold	hand
+person.n.01	keep.v.01	bowl.n.01	clean	bowl	contain	apple	own	bowl
+person.n.01	keep.v.01	can.n.01	contain	beer
+person.n.01	keep.v.01	hand_blower.n.01	use	hand	operate	manner
+person.n.01	keep.v.01	motorcycle.n.01	wash	motorcycle	repair	motorcycle
+person.n.01	keep.v.01	necktie.n.01	keep	necktie	attach	shirt	wear	shirt
+person.n.01	keep.v.01	orange.n.01	contain	bag	hold	hand
+person.n.01	keep.v.01	pizza.n.01	put	box	put	table	put	oven
+person.n.01	keep.v.01	post.n.01	watch	road
+person.n.01	keep.v.01	refrigerator.n.01	contain	beer	contain	apple
+person.n.01	keep.v.01	sandwich.n.01	carry	bag	rest_on	table	contain	box
+person.n.01	keep.v.01	spoon.n.01	contain	bag	contain	bowl	use	hand
+person.n.01	keep.v.01	stop_sign	inspect	stop_sign	stand	street	direct	traffic_light
+person.n.01	kick.v.01	ball.n.01	play	sports_ball	rest_on	grass
+person.n.01	lasso.v.01	cow.n.02	herd	cow	ride	horse
+person.n.01	launch.v.02	kite.n.02	own	paper	sign	person	manipulate	desk
+person.n.01	launch.v.03	boat.n.01	use	ramp	wear	jacket	board	boat
+person.n.01	lean.v.01	truck.n.01	lean_on	truck	rest_on	side	inspect	truck
+person.n.01	lean.v.02	table.n.02	use	hand	push	table	lean_on	table
+person.n.01	lean_on.v.01	bench.n.01	hold	book	wear	jacket	sit	bench
+person.n.01	lean_on.v.01	car.n.01	hold	cell_phone	talk	person	watch	road
+person.n.01	lean_on.v.01	chair.n.01	sit_on	bench	hold	backpack	rest	desk
+person.n.01	lean_on.v.01	hand.n.01	lean_on	table	lean_on	counter	lean_on	bench
+person.n.01	lean_on.v.01	hydrant.n.02	wear	hat	hold	bag	stand	street
+person.n.01	lean_on.v.01	motorcycle.n.01	sit_on	motorcycle	wear	helmet	park	road
+person.n.01	lean_on.v.01	pillow.n.01	sit_on	sofa	rest_on	bed	lean	chair
+person.n.01	lean_on.v.01	sofa.n.01	have	book	sit	chair	watch	television
+person.n.01	let_go_of.v.01	bird.n.01	let_go_of	hand	fly	sky
+person.n.01	lick.v.02	bowl.n.01	hold	bowl	eat	apple
+person.n.01	lick.v.02	fork.n.01	eat	cake	use	dining_table	hold	fork
+person.n.01	lick.v.02	spoon.n.01	hold	bowl	use	fork
+person.n.01	lick.v.02	wine.n.01	hold	glass	contain	bottle
+person.n.01	lie.v.01	table.n.02	rest_on	bench	sit_on	chair	lean_on	bicycle
+person.n.01	lie.v.02	bench.n.01	rest_on	backpack
+person.n.01	lie.v.02	chair.n.01	rest_on	baggage	against	backpack	lean_on	pillow
+person.n.01	lie.v.02	grass.n.01	rest_on	backpack	hold	book	watch	sky
+person.n.01	lie.v.02	sofa.n.01	hold	book	watch	television	drink	beer
+person.n.01	lie.v.02	surfboard.n.01	rest_on	sand	carry	backpack
+person.n.01	light.v.01	cake.n.03	serve	plate
+person.n.01	load.v.01	airplane.n.01	carry	baggage	use	handcart	inspect	baggage
+person.n.01	load.v.01	bag.n.06	contain	baggage	attach_to	bicycle	carry	backpack
+person.n.01	load.v.01	bus.n.01	carry	bag	pack	bicycle
+person.n.01	load.v.01	car.n.01	carry	baggage	pack	backpack
+person.n.01	load.v.01	horse.n.01	own	horse	transport	baggage	carry	bag
+person.n.01	load.v.01	train.n.01	load	baggage	carry	bag	pack	box
+person.n.01	load.v.01	truck.n.01	load	bag	carry	baggage	use	handcart
+person.n.01	load.v.04	surfboard.n.01	attach_to	car	attach_to	van	attach_to	truck
+person.n.01	lodge.v.02	knife.n.01
+person.n.01	look.v.01	airplane.n.01	board	airplane	sit	bench
+person.n.01	look.v.01	bag.n.06	carry	backpack	sit_on	bench	rest_on	table
+person.n.01	look.v.01	ball.n.01	inspect	ball	play	ball	pick_up	ball
+person.n.01	look.v.01	bench.n.01	wear	hat	sit_on	bench	contain	bag
+person.n.01	look.v.01	boat.n.01	sit	bench	use	spectacles
+person.n.01	look.v.01	car.n.01	drive	car	inspect	car	stand_on	street
+person.n.01	look.v.01	computer.n.01	sit_on	chair	sit	desk	use	keyboard
+person.n.01	look.v.01	elephant.n.01	stand	bench	contain	bush	ride	bicycle
+person.n.01	look.v.01	handcart.n.01	carry	baggage	inspect	handcart	push	handcart
+person.n.01	look.v.01	horse.n.01
+person.n.01	look.v.01	kite.n.03	fly	kite	watch	sky
+person.n.01	look.v.01	laptop.n.01	use	laptop	inspect	laptop	sit_on	chair
+person.n.01	look.v.01	monitor.n.04	sit	chair	use	computer	watch	television
+person.n.01	look.v.01	motorcycle.n.01	inspect	motorcycle	stand	street	wear	helmet
+person.n.01	look.v.01	pizza.n.01	sit	chair	rest_on	table	hold	plate
+person.n.01	look.v.01	plate.n.02	inspect	plate	use	plate
+person.n.01	look.v.01	ski.n.01	stand_on	mountain	inspect	ski	sit	bench
+person.n.01	look.v.01	sofa.n.01	sit_on	sofa	hold	book	wear	spectacles
+person.n.01	look.v.01	street.n.01	carry	backpack	watch	car	stand_on	side
+person.n.01	look.v.01	surfboard.n.01	inspect	surfboard	stand	surfboard	buy	surfboard
+person.n.01	look.v.01	table.n.01	inspect	table	check	table
+person.n.01	look.v.01	telephone.n.01	hold	telephone	use	telephone	rest_on	desk
+person.n.01	look.v.01	tower.n.01	stand_on	street	carry	backpack	hold	camera
+person.n.01	look.v.01	train.n.01	hold	camera	wear	sunglasses
+person.n.01	look.v.01	watch.n.01	wear	watch	own	watch
+person.n.01	look.v.02	hydrant	wear	coat	stand	hydrant	use	umbrella
+person.n.01	lose.v.01	umbrella.n.01
+person.n.01	make.v.03	doughnut.n.02	use	oven	contain	apple	serve	plate
+person.n.01	manipulate.v.05	mouse.n.01	use	computer	hold	mouse
+person.n.01	milk.v.01	cow.n.01	hold	bottle	use	bowl
+person.n.01	move.v.02	refrigerator.n.01	use	handcart	push	refrigerator	carry	bag
+person.n.01	obstruct.v.01	ball.n.03	use	baseball_bat	play	sports_ball	kick	ball
+person.n.01	open.v.01	backpack.n.01	contain	baggage	carry	book	inspect	backpack
+person.n.01	open.v.01	bag.n.06	contain	baggage	carry	backpack	inspect	bag
+person.n.01	open.v.01	bottle.n.01	drink	beer	sit	bench	contain	wine
+person.n.01	open.v.01	fireplug.n.01
+person.n.01	open.v.01	microwave.n.01	use	microwave	contain	pizza	operate	oven
+person.n.01	open.v.01	oven.n.01	cook	cake	check	doughnut
+person.n.01	open.v.01	toilet.n.01	open	airplane	use	hand	inspect	toilet
+person.n.01	open.v.03	laptop.n.01	sit_on	bench	use	desk	adjust	chair
+person.n.01	operate.v.01	horse.n.01	ride	horse	own	baggage	direct	person
+person.n.01	operate.v.01	microwave.n.01
+person.n.01	operate.v.01	toaster.n.02	adjust	counter
+person.n.01	operate.v.03	hand_blower.n.01	use	hand	hold	hand_blower
+person.n.01	operate.v.03	oven.n.01	cook	cake	stand	counter
+person.n.01	operate.v.03	television.n.01	use	remote_control	sit_on	sofa
+person.n.01	own.v.01	bear.n.01	contain	teddy
+person.n.01	own.v.01	hat.n.01	wear	jacket	carry	bag	use	umbrella
+person.n.01	own.v.01	telephone.n.01	use	cell_phone	own	cellular_telephone	carry	bag
+person.n.01	pack.v.01	bag.n.06	pack	backpack	carry	baggage
+person.n.01	paint.v.01	fireplug.n.01
+person.n.01	paint.v.02	vase.n.01	own	vase
+person.n.01	park.v.01	bicycle.n.01	against	building
+person.n.01	park.v.01	motorcycle.n.01	park	road	park	bench	lean_on	tree
+person.n.01	park.v.02	car.n.01	park	street	park	parking_meter	align	road
+person.n.01	parry.v.01	frisbee.n.01	use	hand	play	sport	catch	frisbee
+person.n.01	pay.v.01	parking_meter.n.01	park	car	stand	street
+person.n.01	pet.v.01	cat.n.01	sit_on	sofa	hold	cat	sit	bench
+person.n.01	pet.v.01	cow.n.01	feed	cow	groom	cow	stand	bench
+person.n.01	pet.v.01	dog.n.01	sit_on	bench	rest_on	sofa	watch	television
+person.n.01	pet.v.01	giraffe.n.01	stand_on	bench	feed	giraffe	watch	person
+person.n.01	pet.v.01	horse.n.01	stand	side	rest	bench
+person.n.01	pet.v.01	sheep.n.01	sit_on	bench	watch	person	keep	bush
+person.n.01	pet.v.01	zebra.n.01	feed	zebra	own	zebra	rest_on	bench
+person.n.01	pick.v.01	apple.n.01	pick_up	apple	contain	basket	carry	bag
+person.n.01	pick.v.01	banana.n.01	pick_up	basket	carry	bag	eat	banana
+person.n.01	pick_up.v.01	bag.n.06	carry	baggage	board	airplane	load	car
+person.n.01	pick_up.v.01	skateboard.n.01
+person.n.01	pick_up.v.01	sport.n.01	pick_up	sports_ball	pick_up	tennis_racket	pick_up	baseball_bat
+person.n.01	pick_up.v.02	doughnut.n.02	carry	bag	eat	doughnut	sit	bench
+person.n.01	play.v.01	telephone.n.01	use	cellular_telephone	talk	cell_phone	play	sports_ball
+person.n.01	play.v.03	keyboard.n.01	sit	chair	use	laptop
+person.n.01	play.v.05	ball.n.01	dribble	ball	kick	ball	catch	ball
+person.n.01	play.v.05	person.n.01	play	sports_ball	play	frisbee	play	kite
+person.n.01	play.v.05	skateboard.n.01	ride	ramp	stand_on	side	move	street
+person.n.01	pluck.v.04	orange.n.01	pluck	tree	pluck	basket	pluck	hand
+person.n.01	point.v.08	remote_control.n.01	sit	desk	inspect	remote_control
+person.n.01	produce.v.02	hotdog.n.02	cook	stove	use	knife	contain	bowl
+person.n.01	produce.v.02	pizza.n.01	cook	oven
+person.n.01	produce.v.02	sandwich.n.01	cook	stove	cut	knife
+person.n.01	pull.v.01	bag.n.06	against	cart	contain	baggage
+person.n.01	pull.v.01	baggage.n.01	attach_to	cart	move	road	carry	bag
+person.n.01	pull.v.01	boat.n.01	use	bicycle
+person.n.01	pull.v.01	cart.n.01	attach_to	horse	contain	baggage	walk	side
+person.n.01	pull.v.01	kite.n.03	use	hand	pull	sky	adjust	manner
+person.n.01	pull.v.04	necktie.n.01	adjust	tie	dress	shirt	manipulate	coat
+person.n.01	push.v.01	bicycle.n.01	carry	backpack	against	ramp	walk	road
+person.n.01	push.v.01	motorcycle.n.01	push	road	push	side	push	ramp
+person.n.01	put.v.01	clock.n.01	put	shelf	rest_on	desk
+person.n.01	put.v.01	umbrella.n.01	contain	bag	align	umbrella	rest_on	shelf
+person.n.01	race.v.02	motorcycle.n.01	wear	helmet	ride	motorcycle
+person.n.01	race.v.04	horse.n.01	ride	horse
+person.n.01	raise.v.02	fork.n.01	use	fork	eat	apple	sit	dining_table
+person.n.01	read.v.01	book.n.01	sit_on	chair	wear	spectacles	hold	cup
+person.n.01	read.v.01	laptop.n.01	sit_on	chair	watch	monitor	use	keyboard
+person.n.01	repair.v.01	bicycle.n.01	sit	bench	inspect	bicycle
+person.n.01	repair.v.01	boat.n.01	inspect	boat	operate	engine
+person.n.01	repair.v.01	cellular_telephone.n.01	inspect	cellular_telephone
+person.n.01	repair.v.01	hand_blower.n.01	inspect	hand_blower	operate	hand_blower
+person.n.01	repair.v.01	laptop.n.01	sit_on	chair
+person.n.01	repair.v.01	mouse.n.04	inspect	mouse	sit	desk
+person.n.01	repair.v.01	oven.n.01	inspect	oven	check	oven
+person.n.01	repair.v.01	parking_meter.n.01	inspect	parking_meter	check	parking_meter
+person.n.01	repair.v.01	sink.n.01
+person.n.01	repair.v.01	ski.n.01	inspect	ski	sit_on	bench
+person.n.01	repair.v.01	television.n.01
+person.n.01	repair.v.01	toaster.n.01
+person.n.01	repair.v.01	toilet.n.01
+person.n.01	repair.v.01	truck.n.01	inspect	engine
+person.n.01	repair.v.01	umbrella.n.01	sit_on	bench	inspect	umbrella
+person.n.01	rest.v.01	cart.n.01	sit_on	cart	lean_on	cart	rest_on	cart
+person.n.01	rest.v.02	bench.n.01	have	book	sit_on	bag
+person.n.01	rest.v.02	bicycle.n.01	sit_on	bench	lean_on	bicycle	stand_on	road
+person.n.01	rest.v.02	pillow.n.01	rest_on	bed	use	book	sit_on	sofa
+person.n.01	ride.v.01	airplane.n.01	board	airplane	sit_on	chair	fly	airplane
+person.n.01	ride.v.01	bag.n.06	ride	horse	carry	backpack	attach	bicycle
+person.n.01	ride.v.01	cow.n.01	wear	hat	carry	backpack	direct	cow
+person.n.01	ride.v.01	dog.n.01	carry	backpack	sit_on	bench
+person.n.01	ride.v.01	elephant.n.01	wear	hat	hold	camera	carry	backpack
+person.n.01	ride.v.01	giraffe.n.01	taller_than	person	ride	horse	watch	giraffe
+person.n.01	ride.v.01	horse.n.01	wear	helmet	carry	backpack	steer	horse
+person.n.01	ride.v.01	sheep.n.01	herd	sheep	ride	horse	accommodate	person
+person.n.01	ride.v.02	bicycle.n.01	wear	helmet	ride	road	carry	backpack
+person.n.01	ride.v.02	boat.n.01	board	boat	wear	jacket	steer	boat
+person.n.01	ride.v.02	bus.n.01	board	bus	carry	backpack
+person.n.01	ride.v.02	car.n.01	drive	person	own	car
+person.n.01	ride.v.02	cart.n.01	sit_on	bench	drive	horse
+person.n.01	ride.v.02	motorcycle.n.01	wear	helmet	ride	road	carry	backpack
+person.n.01	ride.v.02	ski.n.01	ride	mountain	wear	helmet	carry	backpack
+person.n.01	ride.v.02	street.n.01	ride	bicycle	drive	car	board	bus
+person.n.01	ride.v.02	truck.n.01	drive	person	carry	baggage	park	road
+person.n.01	ride.v.10	motorcycle.n.01	board	helmet	ride	road	wear	jacket
+person.n.01	ride.v.10	snowboard.n.01	stand_on	snowboard	ride	mountain	wear	jacket
+person.n.01	ride.v.10	surfboard.n.01	use	bicycle	wear	shirt
+person.n.01	row.v.01	boat.n.01
+person.n.01	rub.v.02	dog.n.01	groom	dog	pet	dog	play	dog
+person.n.01	run.v.01	dog.n.01	chase	ball
+person.n.01	sail.v.01	boat.n.01	board	boat	use	backpack	wear	jacket
+person.n.01	scratch.v.02	cat.n.01	use	hand	sit_on	sofa	pet	cat
+person.n.01	send.v.01	airplane.n.01	launch	airplane	board	person	operate	airplane
+person.n.01	serve.v.06	ball.n.01	use	tennis_racket	play	sport	align	manner
+person.n.01	sign.v.01	baseball_bat.n.01	own	baseball_bat	use	baseball_bat	carry	bag
+person.n.01	sign.v.01	sports_ball	play	sport	hold	sports_ball
+person.n.01	sip.v.01	cup.n.01	sit	bench	hold	book	rest_on	table
+person.n.01	sip.v.01	spoon.n.01	contain	bowl	use	cup	hold	glass
+person.n.01	sip.v.01	wine.n.01	sip	glass	sit_on	bench	hold	bottle
+person.n.01	sit.v.01	bed.n.01	read	book	use	laptop	rest_on	pillow
+person.n.01	sit.v.01	bench.n.01	hold	book	rest_on	backpack	watch	bird
+person.n.01	sit.v.01	bicycle.n.01	wear	helmet	ride	bicycle
+person.n.01	sit.v.01	boat.n.01	ride	boat	wear	jacket
+person.n.01	sit.v.01	cart.n.01	hold	bag	ride	horse	rest_on	bench
+person.n.01	sit.v.01	chair.n.01	sit_on	bench	sit_on	sofa
+person.n.01	sit.v.01	dining_table.n.01	eat	apple	drink	wine	rest_on	chair
+person.n.01	sit.v.01	elephant.n.01	sit_on	elephant	hold	umbrella	watch	bird
+person.n.01	sit.v.01	grass.n.01	read	book	use	laptop	rest_on	bench
+person.n.01	sit.v.01	motorcycle.n.01	wear	helmet
+person.n.01	sit.v.01	ramp.n.01	lean_on	bicycle	rest_on	backpack	hold	bag
+person.n.01	sit.v.01	sand.n.01	hold	book	eat	apple	watch	bird
+person.n.01	sit.v.01	sofa.n.01	read	book	watch	television	rest_on	pillow
+person.n.01	sit.v.01	table.n.02	sit_on	chair	read	book	eat	apple
+person.n.01	sit.v.01	toilet.n.02	use	paper
+person.n.01	sit.v.01	train.n.01	hold	book	wear	hat
+person.n.01	sit.v.02	street.n.03	hold	bottle	rest_on	bench	watch	car
+person.n.01	sit_down.v.01	airplane.n.01	board	airplane	carry	baggage	have	manner
+person.n.01	sit_down.v.01	counter.n.01	eat	apple	drink	beer	rest_on	bottle
+person.n.01	sit_on	surfboard.n.01	rest_on	sand	wear	jacket
+person.n.01	skate.v.01	ramp.n.01	wear	helmet	use	skateboard	ride	skateboard
+person.n.01	skate.v.01	road.n.01	wear	helmet	carry	backpack	use	skateboard
+person.n.01	skate.v.01	skateboard.n.01	ride	ramp	stand_on	side	use	helmet
+person.n.01	skate.v.01	street.n.01	wear	helmet	carry	backpack	ride	skateboard
+person.n.01	skin.v.04	banana.n.02	use	hand	pick	banana	eat	banana
+person.n.01	skin.v.04	carrot.n.01	use	knife	contain	baggage
+person.n.01	skin.v.04	orange.n.01	eat	orange	use	knife	contain	bowl
+person.n.01	sleep.v.01	bed.n.01	use	pillow	rest_on	pillow
+person.n.01	sleep.v.01	sand.n.01	rest_on	pillow	carry	backpack
+person.n.01	sleep.v.01	sofa.n.01	rest_on	pillow	lie	sofa
+person.n.01	sleep_on	bench.n.01	carry	backpack	rest_on	grass	against	tree
+person.n.01	slide.v.03	pizza.n.01	slide	counter	have	basket	use	knife
+person.n.01	smell.v.01	banana.n.01	pick_up	banana	hold	banana	carry	banana
+person.n.01	smell.v.01	cup.n.01	contain	wine	rest_on	table
+person.n.01	smell.v.01	doughnut.n.02	hold	doughnut	buy	doughnut	sit	bench
+person.n.01	smell.v.02	broccoli.n.01	carry	bag	cook	broccoli	wear	shirt
+person.n.01	smell.v.02	pizza.n.01	sit	dining_table	carry	pizza	eat	pizza
+person.n.01	snog.v.01	cat.n.01	sit_on	sofa	lie	bed	pet	cat
+person.n.01	snog.v.01	cow.n.01	against	face
+person.n.01	snog.v.01	dog.n.01	sit_on	bench	rest_on	sofa	pet	dog
+person.n.01	snog.v.01	elephant.n.01
+person.n.01	snog.v.01	giraffe.n.01	stand_on	bench	greet	giraffe	tall	giraffe
+person.n.01	snog.v.01	person.n.01	sit_on	bench	hold	hand	greet	person
+person.n.01	snog.v.01	sheep.n.01
+person.n.01	snog.v.01	teddy.n.01	sit_on	sofa	embrace	teddy	hold	teddy
+person.n.01	squeeze.v.02	orange.n.01	hold	orange	contain	bowl	use	hand
+person.n.01	stand.v.01	bed.n.01	lean_on	bed	adjust	bed	stand_on	bed
+person.n.01	stand.v.01	bench.n.01	lean_on	bench	greet	person
+person.n.01	stand.v.01	boat.n.01	sail	boat
+person.n.01	stand.v.01	bus.n.01	hold	bag	lean_on	post	watch	road
+person.n.01	stand.v.01	car.n.01	lean_on	car	inspect	car	stand_on	car
+person.n.01	stand.v.01	chair.n.01	stand_on	chair	inspect	lamp
+person.n.01	stand.v.01	horse.n.01	stand_on	horse	ride	horse	lean_on	horse
+person.n.01	stand.v.01	plate.n.02	stand_on	dining_table	inspect	dining_table
+person.n.01	stand.v.01	ramp.n.01
+person.n.01	stand.v.01	road.n.01	hold	umbrella	wear	jacket	carry	bag
+person.n.01	stand.v.01	sand.n.01	hold	surfboard	wear	sunglasses
+person.n.01	stand.v.01	skateboard.n.01	stand_on	ramp	hold	bag	wear	helmet
+person.n.01	stand.v.01	ski.n.01	stand_on	ski	rest_on	mountain	wear	helmet
+person.n.01	stand.v.01	snowboard.n.01	stand_on	ramp	ride	snowboard	wear	helmet
+person.n.01	stand.v.01	sofa.n.01	lean_on	sofa	watch	television	hold	book
+person.n.01	stand.v.01	street.n.01	hold	umbrella	watch	traffic_light	wear	coat
+person.n.01	stand.v.01	surfboard.n.01	ride	surfboard	wear	jacket
+person.n.01	stand.v.02	toilet.n.01	lean_on	sink	hold	cell_phone
+person.n.01	stand_on	table.n.01	inspect	computer	use	laptop	manipulate	monitor
+person.n.01	startle.v.02	snowboard.n.01	lean_on	snowboard	jump	snowboard	slide	snowboard
+person.n.01	steer.v.01	bus.n.01	drive	car	operate	engine	board	bus
+person.n.01	stick.v.13	fork.n.01	stick	apple	stick	cake	stick	hotdog
+person.n.01	stir.v.01	bowl.n.01	use	spoon
+person.n.01	stir.v.01	carrot.n.01	contain	bowl	use	spoon
+person.n.01	stop.v.01	stop_sign	drive	car	walk	person	stop	bicycle
+person.n.01	straddle.v.01	bicycle.n.01	wear	helmet	ride	bicycle	lean_on	bicycle
+person.n.01	straddle.v.01	dog.n.01	ride	horse
+person.n.01	straddle.v.01	horse.n.01	ride	horse	wear	helmet	carry	backpack
+person.n.01	swing.v.01	baseball_bat.n.01	swing	sports_ball	swing	baseball_glove	swing	bag
+person.n.01	swing.v.01	remote_control.n.01	use	remote_control	hold	hand
+person.n.01	swing.v.01	tennis_racket.n.01	against	sports_ball	play	sport	hold	ball
+person.n.01	tag.v.01	person.n.01	tag	person	play	sport	inspect	baggage
+person.n.01	talk.v.01	cellular_telephone.n.01	sit_on	bench	use	cell_phone
+person.n.01	talk.v.01	person.n.01
+person.n.01	tall.a.01	building.n.01	stand_on	roof	lean_on	post	sit_on	bench
+person.n.01	tall.a.01	horse.n.01	ride	horse	stand_on	horse	own	horse
+person.n.01	teach.v.01	person.n.01	use	book	sit_on	chair	talk	manner
+person.n.01	text_on	cell_phone	sit_on	bench	hold	bag	ride	bus
+person.n.01	throw.v.01	baseball_bat.n.01
+person.n.01	throw.v.01	frisbee.n.01	play	dog	wear	shirt	stand_on	grass
+person.n.01	throw.v.01	sports_ball	dribble	ball	catch	sports_ball	play	sport
+person.n.01	tie.v.01	boat.n.01	attach_to	post
+person.n.01	tie.v.01	necktie.n.01	wear	shirt
+person.n.01	tire.v.02	horse.n.01	ride	horse	drive	cart
+person.n.01	toast.v.02	glass.n.02	contain	wine	contain	beer	sit_on	dining_table
+person.n.01	touch.v.01	bag.n.01	carry	backpack	pick_up	bag	hold	hand
+person.n.01	touch.v.01	bench.n.01	sit_on	bench	inspect	bench	clean	bench
+person.n.01	touch.v.01	bicycle.n.01	ride	bicycle	move	bicycle	repair	bicycle
+person.n.01	touch.v.01	cat.n.01	pet	cat	sit_on	sofa	have	baggage
+person.n.01	touch.v.01	elephant.n.01	pet	hand	face	elephant
+person.n.01	touch.v.01	hat.n.01	wear	hat	carry	bag	stand	street
+person.n.01	touch.v.01	hydrant.n.02	inspect	hydrant	use	hydrant	lean	hydrant
+person.n.01	touch.v.01	pizza.n.01	eat	pizza	pick_up	pizza	hold	pizza
+person.n.01	touch.v.01	ramp.n.01	lean_on	hand	walk	ramp	rest_on	hand
+person.n.01	touch.v.01	shoe.n.01	wear	shoe	inspect	shoe	hold	shoe
+person.n.01	touch.v.01	spectacles.n.01	adjust	spectacles	hold	spectacles	clean	spectacles
+person.n.01	touch.v.01	table.n.02	rest_on	hand	lean_on	table	sit_on	table
+person.n.01	touch.v.05	street.n.01	rest_on	hand	carry	bag	use	bicycle
+person.n.01	transport.v.02	bag.n.06	carry	backpack	ride	bicycle	load	car
+person.n.01	transport.v.02	bed.n.01	load	truck	carry	handcart	drive	van
+person.n.01	transport.v.02	book.n.01	carry	backpack	pack	bag	hold	hand
+person.n.01	transport.v.02	cake.n.03	carry	bag	ride	bicycle	hold	hand
+person.n.01	transport.v.02	cart.n.01	pull	horse	attach	handcart	push	hand
+person.n.01	transport.v.02	chair.n.01	carry	bag	load	car
+person.n.01	transport.v.02	cup.n.01	carry	backpack	contain	bag
+person.n.01	transport.v.02	hotdog.n.02	carry	bag	hold	hand	pack	backpack
+person.n.01	transport.v.02	person.n.01	carry	backpack	drive	car	ride	bicycle
+person.n.01	transport.v.02	pillow.n.01	carry	bag	board	airplane	rest_on	bed
+person.n.01	transport.v.02	potted_plant	carry	hand	transport	car
+person.n.01	transport.v.02	ski.n.01	carry	backpack	wear	jacket	hold	hand
+person.n.01	transport.v.02	umbrella.n.01	carry	hand	use	umbrella	walk	street
+person.n.01	turn.v.01	motorcycle.n.01	ride	motorcycle	steer	motorcycle
+person.n.01	type.v.01	keyboard.n.01	sit_on	chair	use	laptop	rest_on	desk
+person.n.01	type.v.01	laptop.n.01	sit_on	bench	use	desk	own	cell_phone
+person.n.01	unfold.v.04	book.n.01	sit_on	chair	wear	spectacles	rest_on	desk
+person.n.01	unfold.v.04	scissors.n.01	use	paper	cut	paper	hold	hand
+person.n.01	use.v.01	camera.n.01	carry	backpack	stand	bench	watch	bird
+person.n.01	use.v.01	computer.n.01	type	keyboard	type	monitor	operate	laptop
+person.n.01	use.v.01	kite.n.03	fly	kite	launch	kite
+person.n.01	use.v.01	laptop.n.01	sit_on	chair	type	keyboard	watch	monitor
+person.n.01	use.v.01	ramp.n.01	load	bicycle	push	cart
+person.n.01	use.v.01	skateboard.n.01	ride	ramp	carry	backpack	skate	street
+person.n.01	use.v.01	telephone.n.01	talk	person	text_on	cell_phone	operate	telephone
+person.n.01	walk.v.01	ashcan.n.01	walk	street	carry	bag
+person.n.01	walk.v.01	building.n.01	carry	backpack	walk	road
+person.n.01	walk.v.01	car.n.01	against	road	carry	backpack	walk	dog
+person.n.01	walk.v.01	dog.n.01	carry	bag
+person.n.01	walk.v.01	grass.n.01	carry	backpack	carry	bag	walk	plant
+person.n.01	walk.v.01	person.n.01	carry	bag	walk	street	follow	person
+person.n.01	walk.v.01	street.n.01	carry	backpack	wear	coat	walk	dog
+person.n.01	walk.v.01	tree.n.01	carry	bag	walk	dog	wear	jacket
+person.n.01	walk.v.02	cow.n.01	carry	backpack	wear	hat
+person.n.01	walk.v.09	dog.n.01	carry	bag	walk	street
+person.n.01	walk.v.09	horse.n.01	walk	road	accommodate	person
+person.n.01	walk.v.09	sheep.n.01	herd	sheep	walk	road
+person.n.01	walk.v.10	bicycle.n.01	carry	backpack	walk	road	walk	side
+person.n.01	wash.v.01	airplane.n.01	inspect	airplane
+person.n.01	wash.v.01	apple.n.01	hold	apple	use	sink
+person.n.01	wash.v.01	bowl.n.01	use	faucet	wash	sink
+person.n.01	wash.v.01	broccoli.n.01	wash	sink	contain	bowl
+person.n.01	wash.v.01	bus.n.01	wash	street	carry	baggage
+person.n.01	wash.v.01	cup.n.01	use	sink
+person.n.01	wash.v.01	fork.n.01	use	sink
+person.n.01	wash.v.01	horse.n.01	groom	horse	stand	side
+person.n.01	wash.v.01	knife.n.01	wash	sink
+person.n.01	wash.v.01	motorcycle.n.01	wash	bicycle
+person.n.01	wash.v.01	sink.n.01	operate	faucet
+person.n.01	wash.v.01	surfboard.n.01	wash	person	stand_on	sand
+person.n.01	wash.v.01	toothbrush.n.01	wash	sink	wash	hand
+person.n.01	wash.v.01	truck.n.01	inspect	truck
+person.n.01	wash.v.02	carrot.n.01	wash	hand	contain	sink
+person.n.01	wash.v.02	dog.n.01	wash	sink
+person.n.01	wash.v.02	elephant.n.01	wear	shirt
+person.n.01	wash.v.02	sheep.n.01	stand_on	grass
+person.n.01	wash.v.03	bicycle.n.01	against	sink
+person.n.01	wash.v.03	cat.n.01	contain	sink
+person.n.01	wash.v.03	spoon.n.01	wash	sink	rest_on	counter
+person.n.01	watch.v.01	boat.n.01	sit_on	bench
+person.n.01	watch.v.01	giraffe.n.01	sit_on	bench	use	camera	stand	side
+person.n.01	watch.v.01	kite.n.03	fly	kite	stand	grass
+person.n.01	watch.v.01	laptop.n.01	sit_on	chair	type	keyboard	use	mouse
+person.n.01	watch.v.01	monitor.n.04	sit_on	chair	use	computer	hold	cell_phone
+person.n.01	watch.v.01	person.n.01	sit_on	bench	use	camera	hold	book
+person.n.01	watch.v.01	television.n.01	sit_on	sofa	use	remote_control	wear	spectacles
+person.n.01	watch.v.01	truck.n.01	stand_on	road	drive_on	street	lean_on	car
+person.n.01	watch.v.03	ball.n.01	play	sports_ball	watch	sport
+person.n.01	wear.v.01	baseball_glove.n.01	play	sports_ball	have	baseball_bat	throw	ball
+person.n.01	wear.v.01	coat.n.01	carry	bag	walk	street	sit	bench
+person.n.01	wear.v.01	cone.n.01	carry	bag	play	sport	use	hat
+person.n.01	wear.v.01	hat.n.01	wear	jacket	carry	backpack	sit_on	bench
+person.n.01	wear.v.01	helmet.n.01	ride	bicycle	board	motorcycle	play	sport
+person.n.01	wear.v.01	jean.n.01	sit_on	bench	ride	bicycle	carry	backpack
+person.n.01	wear.v.01	necktie.n.01	sit	desk
+person.n.01	wear.v.01	shirt.n.01	carry	backpack	sit_on	chair	stand_on	street
+person.n.01	wear.v.01	shoe.n.01	walk	street	ride	bicycle	park	bench
+person.n.01	wear.v.01	sunglasses.n.01	stand	street	ride	bicycle	carry	backpack
+person.n.01	wear.v.01	trouser.n.01	sit_on	bench	ride	bicycle	walk	street
+person.n.01	wear.v.02	backpack.n.01	board	airplane	walk	mountain	ride	bicycle
+person.n.01	wear.v.02	bag.n.01	carry	bag	own	backpack	hold	hand
+person.n.01	wear.v.02	ski.n.01	use	mountain	carry	backpack	stand_on	snowboard
+person.n.01	wear.v.02	snowboard.n.01	use	sport	carry	backpack	stand_on	snowboard
+person.n.01	wear.v.02	spectacles.n.01	read	book	sit_on	bench	look	computer
+person.n.01	wear.v.02	watch.n.01	wear	shirt	wear	jacket	carry	bag
+person.n.01	wear.v.05	camera.n.01	carry	bag
+person.n.01	whirl.v.02	frisbee.n.01	play	sport	throw	hand	stand_on	grass
+person.n.01	whirl.v.02	sport.n.01	whirl	sports_ball	play	skateboard	ride	bicycle
+person.n.01	wield.v.02	baseball_bat.n.01	play	sport	hit	sports_ball	swing	baseball_bat
+person.n.01	wield.v.02	knife.n.01	cut	apple	use	backpack	carry	bag
+person.n.01	zip_up.v.01	bag.n.06	pack	baggage	board	airplane	carry	backpack
+person.n.02	pick_up.v.02	ski.n.01	carry	backpack	wear	jacket	stand_on	snowboard
+pillow.n.01	cover.v.01	person.n.01	rest_on	bed	sleep_on	sofa
+pillow.n.01	lie.v.01	sofa.n.01	rest_on	backpack	contain	book	align	lamp
+pillow.n.01	rest_on	bed.n.01	contain	pillow	contain	person	sleep_on	bed
+pizza.n.01	sit.v.02	plate.n.04	serve	person	eat	person	contain	bowl
+plant.n.01	have.v.01	pot.n.04	contain	potted_plant	rest_on	counter	align	building
+plate.n.02	have.v.01	bowl.n.01	contain	bowl	rest_on	table
+plate.n.04	have.v.01	pizza.n.01	contain	bottle	serve	person
+post.n.01	have.v.01	lamp.n.01	light	lamp	stand_on	post	inspect	lamp
+post.n.04	have.v.01	glass.n.01	attach	glass	contain	glass	hold	glass
+post.n.04	have.v.01	lamp.n.02	attach_to	post	install	lamp	rest_on	post
+pot.n.01	have.v.01	tree.n.01	contain	potted_plant	attach_to	plant	sit_on	table
+pot.n.01	have.v.02	plant.n.02	contain	plant	rest_on	pot	sit_on	counter
+pot.n.04	hold.v.11	plant.n.01	contain	bottle	contain	box	contain	can
+president.n.04	face.v.05	monitor.n.04	inspect	monitor	use	monitor	watch	monitor
+refrigerator.n.01	have.v.01	cat.n.01	contain	cat	sit_on	refrigerator	rest_on	refrigerator
+refrigerator.n.01	have.v.02	paper.n.01	contain	bottle	contain	beer
+road.n.01	have.v.01	bus.n.01	drive_on	bus	transport	bus	accommodate	bus
+road.n.01	have.v.01	car.n.01	drive_on	car	park	car	contain	car
+road.n.01	have.v.01	mountain.n.01	drive_on	car	face	sky	align	bicycle
+road.n.01	have.v.01	train.n.01	accommodate	train	transport	train	contain	train
+road.n.01	have.v.01	truck.n.01	drive_on	road	transport	baggage	load	truck
+roof.n.01	cover.v.01	bench.n.01	contain	building
+sand.n.01	have.v.01	grass.n.01	contain	bush	lie	side	sit_on	bench
+shelf.n.01	have.v.01	basket.n.01	contain	apple	rest_on	table	hold	book
+shelf.n.01	have.v.01	cabinet.n.01	attach_to	cabinet	contain	book	rest_on	counter
+shelf.n.01	have.v.01	glass.n.02	contain	wine	rest_on	cup	hold	bottle
+shelf.n.01	have.v.01	plant.n.02	contain	potted_plant	rest_on	counter
+shirt.n.01	cover.v.01	person.n.01	wear	jacket	dress	person
+shirt.n.01	have.v.02	necktie.n.01	wear	necktie	attach_to	shirt	dress	person
+shirt.n.01	keep.v.01	sunglasses.n.01	attach_to	shirt	contain	bag	rest_on	shirt
+shoe.n.01	touch.v.01	skateboard.n.01	wear	person	stand_on	skateboard	ride	skateboard
+shoe.n.01	touch.v.01	street.n.02	walk	person	stand_on	side	ride	bicycle
+shrub.n.01	touch.v.01	bench.n.01	against	side	align	road
+shrub.n.01	touch.v.01	building.n.01	against	side
+sink.n.01	have.v.01	cup.n.01	wash	cup	fill	cup
+sink.n.01	have.v.01	faucet.n.01	attach_to	counter	use	hand
+skateboard.n.01	have.v.01	wheel.n.01	ride	person	use	ramp
+sky.n.01	cover.v.01	tower.n.01	taller_than	building	against	mountain	stand	street
+sky.n.01	have	kite.n.03	fly	kite	contain	bird
+sky.n.01	incorporate.v.02	sky.n.01	contain	airplane	contain	bird	contain	kite
+sofa.n.01	have.v.01	bag.n.01	contain	bag	rest_on	sofa	attach_to	sofa
+sofa.n.01	have.v.01	dog.n.01	sit_on	dog	sleep_on	dog	accommodate	dog
+sofa.n.01	have.v.01	person.n.01	sit_on	sofa	rest_on	sofa	own	sofa
+sofa.n.01	have.v.01	pillow.n.01	rest_on	sofa	contain	pillow	sit_on	sofa
+sofa.n.01	hold.v.10	person.n.01	sit_on	sofa	rest_on	sofa	lie	sofa
+spectacles.n.01	sit.v.07	face.n.01	wear	person	adjust	hand
+stove.n.01	have.v.01	laptop.n.01	contain	bag	rest_on	counter	sit_on	table
+stove.n.01	have.v.01	pot.n.01	contain	pot	cook	pot	rest_on	stove
+street.n.01	have.v.01	baggage.n.01	contain	bag	obstruct	side
+street.n.01	have.v.01	cone.n.01	contain	car	obstruct	car	align	road
+street.n.01	have.v.01	motorcycle.n.01	drive_on	car	park	bicycle	walk	person
+street.n.01	have.v.01	sand.n.01	contain	bush
+street.n.01	have.v.01	tree.n.01	contain	bush	align	bench
+street.n.01	have.v.02	bench.n.01	rest_on	side	align	building	contain	bush
+street.n.01	have.v.02	grass.n.01	contain	side	contain	shrub	contain	bush
+street.n.01	touch.v.05	ashcan.n.01	rest_on	road	stand_on	side
+street.n.02	have.v.01	bus.n.01	accommodate	bus	contain	bus	drive_on	bus
+street.n.02	have.v.01	car.n.01	park	car	drive_on	street	contain	car
+street.n.02	have.v.01	van.n.05	park	road	drive_on	road	contain	baggage
+street.n.02	hold.v.11	car.n.01	contain	parking_meter	contain	traffic_light	drive_on	car
+surfboard.n.01	tall.a.01	person.n.01	ride	surfboard	stand_on	surfboard	carry	surfboard
+table.n.01	have.v.01	bag.n.01	contain	baggage
+table.n.01	have.v.01	bottle.n.01	contain	bottle	rest_on	table	hold	bottle
+table.n.01	have.v.01	bowl.n.01	contain	apple	rest_on	counter	fill	bowl
+table.n.01	have.v.01	can.n.01	contain	can
+table.n.01	have.v.01	spectacles.n.01	inspect	monitor
+table.n.01	have.v.01	vase.n.01	sit_on	counter
+table.n.01	hold.v.10	laptop.n.01	rest_on	desk	contain	bag	align	monitor
+table.n.01	hold.v.10	monitor.n.04	contain	computer	rest_on	desk	hold	laptop
+table.n.02	carry.v.26	keyboard.n.01	contain	computer	rest_on	desk	accommodate	monitor
+table.n.02	cover.v.01	table.n.02	contain	bowl	rest_on	plate
+table.n.02	have.v.01	basket.n.01	contain	apple	rest_on	counter	use	backpack
+table.n.02	have.v.01	camera.n.01	rest_on	table	contain	camera	sit_on	table
+table.n.02	have.v.01	cat.n.01	sit_on	cat	rest_on	table	scratch	cat
+table.n.02	have.v.01	chair.n.01	sit	chair	rest_on	chair	align	chair
+table.n.02	have.v.01	cup.n.01	contain	beer	rest_on	table
+table.n.02	have.v.01	lamp.n.02	adjust	lamp	rest_on	table
+table.n.02	have.v.01	monitor.n.04	contain	computer	sit_on	desk
+table.n.02	have.v.01	mouse.n.01	rest_on	table	contain	bowl	sit_on	table
+table.n.02	have.v.01	person.n.01	use	dining_table	sit_on	chair	contain	book
+table.n.02	have.v.01	plant.n.02	contain	potted_plant	hold	potted_plant
+table.n.02	have.v.01	plate.n.04	contain	cup	contain	bowl	serve	pizza
+table.n.02	have.v.01	telephone.n.01	contain	telephone	rest_on	table
+table.n.02	keep.v.01	plant.n.02	contain	potted_plant	rest_on	counter
+table.n.02	transport.v.02	vase.n.01	carry	person	rest_on	handcart	move	hand
+table.n.03	incorporate.v.02	laptop.n.01	rest_on	table	use	computer	sit_on	chair
+telephone.n.01	have.v.02	camera.n.01	contain	cell_phone	incorporate	computer	attach_to	cellular_telephone
+tower.n.01	attach_to.v.01	building.n.01	taller_than	tree
+tower.n.01	have.v.01	roof.n.01	attach_to	building	cover	tower	stand_on	building
+tower.n.01	hold.v.11	clock.n.01	attach_to	building	stand_on	street	taller_than	tree
+tower.n.01	keep.v.01	clock.n.01	attach_to	building	install	tower	rest_on	roof
+tower.n.01	tall.a.01	building.n.01	taller_than	building	stand_on	street	attach_to	building
+tower.n.01	tall.a.01	tree.n.01	attach_to	building	taller_than	bush	stand_on	mountain
+traffic_light.n.01	have.v.01	hand.n.01	manipulate	person	direct	traffic_light	attach_to	post
+train.n.01	against	sky.n.01	move	train	watch	person	ride	train
+train.n.01	have.v.01	engine.n.01	transport	baggage
+train.n.01	have.v.01	wheel.n.01	attach_to	train	transport	baggage
+train.n.01	have.v.02	roof.n.01	contain	baggage
+train.n.01	have.v.02	side.n.04	lean_on	building	attach_to	bench
+train.n.01	transport.v.02	baggage.n.01	contain	bag	carry	person	load	handcart
+tree.n.01	against	sky.n.01	contain	bird	front	building	align	kite
+tree.n.01	attach_to.v.01	grass.n.01
+tree.n.01	attach_to.v.01	tree.n.01	rest_on	bird	cover	bush
+tree.n.01	confront.v.01	bicycle.n.01	obstruct	road	stand_on	side	taller_than	bicycle
+tree.n.01	have.v.01	clock.n.01	attach_to	tree	rest_on	bench	contain	bird
+tree.n.01	have.v.01	pot.n.04	contain	potted_plant	use	plant	attach	bush
+tree.n.01	tall.a.01	building.n.01	stand_on	street	align	building
+tree.n.01	tall.a.01	giraffe.n.01	contain	giraffe
+tree.n.01	tall.a.01	grass.n.01	contain	plant
+tree.n.01	tall.a.01	shrub.n.01	rest_on	mountain	contain	bird	face	building
+tree.n.01	tall.a.01	skateboard.n.01	rest_on	tree	stand_on	skateboard	lean_on	tree
+tree.n.01	taller_than	elephant.n.01	inhere_in	mountain	contain	bird
+tree.n.01	taller_than	person.n.01	stand_on	mountain	rest_on	building
+trouser.n.01	touch.v.01	boat.n.01	board	boat	wear	trouser	sail	boat
+trouser.n.01	touch.v.01	desk.n.01	rest_on	desk	wear	person	lean_on	desk
+trouser.n.01	touch.v.01	shoe.n.01	wear	person	walk	person	dress	person
+truck.n.01	drive.v.01	road.n.01	drive_on	street	contain	traffic_light	park	van
+truck.n.01	follow.v.01	truck.n.01	drive_on	road	follow	person	transport	baggage
+truck.n.01	have.v.01	basket.n.01	contain	apple	carry	baggage	load	banana
+truck.n.01	have.v.01	boat.n.01	transport	boat	carry	boat	own	boat
+truck.n.01	have.v.01	cone.n.01	transport	cone	attach_to	cone	carry	cone
+truck.n.01	have.v.01	person.n.01	drive	truck	own	truck	load	baggage
+truck.n.01	have.v.01	plate.n.02	contain	plate	transport	plate	attach_to	plate
+truck.n.01	have.v.01	ramp.n.01	attach	ramp	use	bicycle	load	baggage
+truck.n.01	have.v.01	roof.n.01	carry	roof	cover	truck	transport	roof
+truck.n.01	have.v.01	wheel.n.01
+truck.n.01	have.v.02	bed.n.01	contain	baggage	transport	baggage	carry	bag
+truck.n.01	incorporate.v.02	box.n.01	contain	baggage	accommodate	bottle	transport	bicycle
+truck.n.01	park.v.01	grass.n.01	rest_on	side	obstruct	road
+truck.n.01	park.v.01	road.n.01	drive_on	road	stand_on	road	contain	baggage
+truck.n.01	park.v.01	street.n.01	load	baggage	align	building	obstruct	traffic_light
+truck.n.01	pull.v.01	boat.n.01	drive_on	road
+truck.n.01	transport.v.02	elephant.n.01	contain	baggage	carry	person	drive	road
+truck.n.01	transport.v.02	person.n.01	carry	baggage	drive_on	road
+truck.n.01	transport.v.02	wheel.n.01	attach	wheel	load	wheel
+umbrella.n.01	cover.v.01	bag.n.01	use	umbrella	carry	bag
+umbrella.n.01	cover.v.01	table.n.03
+umbrella.n.01	cover.v.02	dog.n.01	sit	bench	rest_on	grass	walk	person
+umbrella.n.01	cover.v.02	person.n.01	use	hand	stand	street	wear	jacket
+umbrella.n.01	cover.v.02	surfboard.n.01	rest_on	sand	contain	bag	attach_to	bicycle
+van.n.05	have.v.02	wheel.n.01	transport	baggage	drive_on	road	accommodate	person
+vase.n.01	have.v.01	plant.n.02	contain	potted_plant	rest_on	table	sit_on	counter
+vase.n.01	hold.v.11	plant.n.02	rest_on	table
+wheel.n.01	attach.v.02	airplane.n.01	align	airplane	rest_on	airplane
+wheel.n.01	attach_to.v.01	bus.n.01	drive_on	road	transport	person
+wheel.n.01	have.v.02	wheel.n.03	attach_to	car	drive	bicycle	align	bus
+wheel.n.01	inhere_in.v.01	handcart.n.01	attach_to	cart	move	baggage	push	hand
+wheel.n.01	touch.v.01	street.n.02	drive_on	car	ride	bicycle	drive_on	bus
+airplane.n.01	have.v.01	roof.n.02	contain	baggage	cover	engine
+bag.n.01	lie.v.01	baggage.n.01	rest_on	bench	contain	apple
+basket.n.01	have.v.01	ski.n.01	contain	ski	carry	ski	transport	ski
+bear.n.01	drive.v.01	car.n.01	inspect	person	drive_on	road
+bear.n.01	wear.v.01	ski.n.01	stand_on	mountain	slide	snowboard
+bench.n.01	against	table.n.02	sit_on	bench	rest_on	table	contain	baggage
+boat.n.01	have.v.01	wheel.n.01	steer	person	accommodate	person
+building.n.01	have.v.01	wheel.n.01	incorporate	cart	incorporate	handcart	contain	cart
+building.n.01	tall.a.01	person.n.01	stand_on	roof	inspect	tower
+bus.n.01	have.v.01	person.n.01	board	bus	ride	bus	accommodate	person
+bus.n.01	have.v.01	plate.n.02	attach	car	contain	baggage	align	motorcycle
+cabinet.n.01	have.v.01	counter.n.01	attach_to	counter	contain	cup
+car.n.01	have.v.01	person.n.02	drive	car	own	car	park	car
+car.n.01	have.v.01	plate.n.02	attach	car	align	road	contain	engine
+car.n.01	park.v.01	street.n.02	align	parking_meter	rest_on	side	obstruct	traffic_light
+cart.n.01	hold.v.02	bag.n.06	contain	baggage	transport	baggage	carry	bag
+cart.n.01	hold.v.11	baggage.n.01	transport	baggage	carry	bag	load	baggage
+cat.n.01	have.v.01	hat.n.01	wear	hat	carry	hat	play	hat
+cat.n.01	sleep.v.01	car.n.01	rest_on	car	contain	cat	lie	car
+cat.n.01	stand.v.01	chair.n.01	inspect	bush	look	bird	rest_on	bowl
+chair.n.01	taller_than	person.n.01	stand_on	table	rest_on	bench	attach_to	building
+chair.n.01	touch.v.01	table.n.02	align	dining_table
+clock.n.01	attach_to.v.01	tower.n.01	sit_on	building	taller_than	building
+clock.n.01	lie.v.02	chair.n.01	rest_on	desk	rest_on	table	accommodate	desk
+counter.n.01	have.v.01	sink.n.01	attach_to	faucet	contain	cabinet
+desk.n.01	have.v.01	bag.n.01	contain	laptop	contain	book	rest_on	chair
+dog.n.01	follow.v.01	person.n.01	walk	person	accommodate	dog	carry	bag
+dog.n.01	pull.v.01	person.n.01	drag	bag	restrain	person
+dog.n.01	sit.v.01	basket.n.01	contain	ball	rest_on	grass
+dog.n.01	sit.v.01	bed.n.01	rest_on	pillow	sit_on	sofa	accommodate	person
+dog.n.01	wear.v.01	hat.n.01	carry	person	sit_on	bench	play	frisbee
+dog.n.01	wear.v.02	sunglasses.n.01	sit_on	bench	play	ball	walk	street
+elephant.n.01	wear.v.01	hat.n.01	wear	coat	stand_on	grass
+face.n.01	have.v.02	spectacles.n.01	wear	person
+hand.n.01	touch.v.01	grass.n.01	lean_on	bench
+horse.n.01	look.v.01	street.n.01	stand_on	side	face	building	watch	car
+horse.n.01	pull.v.01	cart.n.01	attach_to	wheel	move	road	carry	baggage
+kite.n.03	against	sky.n.01	fly	bird	launch	person
+motorcycle.n.01	have.v.02	person.n.01	ride	person	own	person	use	helmet
+motorcycle.n.01	incorporate.v.02	basket.n.01	attach	basket	carry	baggage	accommodate	bag
+person.n.01	attach.v.03	snowboard.n.01	stand_on	mountain
+person.n.01	carry.v.02	jacket.n.01	carry	bag	board	airplane	contain	backpack
+person.n.01	carry.v.02	telephone.n.01	contain	bag	hold	hand	keep	backpack
+person.n.01	clean.v.01	refrigerator.n.01	contain	shelf
+person.n.01	cut.v.01	hotdog.n.02	use	knife	cut	plate	sit	dining_table
+person.n.01	cut.v.04	knife.n.01	cut	apple	cut	cake	use	hand
+person.n.01	direct.v.01	truck.n.01	inspect	truck	operate	truck	use	handcart
+person.n.01	discipline.v.01	dog.n.01	carry	bag
+person.n.01	drive.v.02	street.n.01	drive	car	steer	bicycle	drive_on	road
+person.n.01	eat.v.01	apple.n.01	sit	bench	hold	bowl	use	knife
+person.n.01	eat.v.01	broccoli.n.01	use	fork	contain	bowl	sit_on	chair
+person.n.01	embrace.v.02	dog.n.01	sit_on	bench	stand_on	street
+person.n.01	feed.v.02	cat.n.01	use	bowl	contain	apple	sit_on	chair
+person.n.01	fill.v.01	wine.n.01	fill	glass	fill	bottle	fill	cup
+person.n.01	have.v.01	kite.n.03	fly	kite	carry	bag	play	kite
+person.n.01	have.v.01	oven.n.01	use	oven	cook	cake	clean	oven
+person.n.01	have.v.01	pizza.n.01	eat	pizza	carry	box	sit	dining_table
+person.n.01	have.v.01	shoe.n.01	wear	shoe	carry	bag
+person.n.01	have.v.02	hand.n.01	hold	bottle
+person.n.01	hold.v.02	bag.n.01	carry	baggage	wear	backpack	contain	apple
+person.n.01	hold.v.02	baseball_bat.n.01	swing	baseball_bat	stand	bench	wear	helmet
+person.n.01	hold.v.02	box.n.01	carry	backpack	contain	apple	stand	street
+person.n.01	hold.v.02	cellular_telephone.n.01	use	cell_phone	talk	person	carry	backpack
+person.n.01	hold.v.02	teddy.n.01	sit_on	bench	sit_on	bed	carry	backpack
+person.n.01	inspect.v.01	car.n.01	check	engine
+person.n.01	inspect.v.01	cup.n.01	contain	bottle	rest_on	table	clean	cup
+person.n.01	inspect.v.01	tennis_racket.n.01	check	bag	own	tennis_racket	carry	backpack
+person.n.01	jump.v.01	car.n.01	run	road	wear	shoe
+person.n.01	keep.v.01	car.n.01	clean	car	own	car	repair	car
+person.n.01	lean_on.v.01	person.n.01	embrace	person	rest_on	bench
+person.n.01	lick.v.02	bottle.n.01	contain	beer	hold	hand	sit	bench
+person.n.01	look.v.01	camera.n.01	hold	camera	use	camera	inspect	camera
+person.n.01	look.v.01	cat.n.01	sit_on	bench	hold	camera
+person.n.01	look.v.01	cone.n.01	inspect	cone	stand	street
+person.n.01	look.v.01	skateboard.n.01	stand_on	skateboard	ride	skateboard	inspect	skateboard
+person.n.01	pet.v.01	bird.n.01	sit	bench	own	bird	watch	sky
+person.n.01	pick_up.v.01	cake.n.01
+person.n.01	produce.v.02	cake.n.01	assemble	bench	pack	box
+person.n.01	produce.v.02	vase.n.01	use	pot	paint	vase
+person.n.01	pull.v.01	bag.n.01	contain	baggage	pull	cart	transport	backpack
+person.n.01	pull.v.01	bicycle.n.01	drag	cart	lean_on	bench
+person.n.01	repair.v.01	clock.n.01	sit_on	bench	inspect	clock
+person.n.01	repair.v.01	traffic_light.n.01	repair	road	inspect	traffic_light
+person.n.01	restrain.v.03	airplane.n.01	operate	engine
+person.n.01	ride.v.02	train.n.01	sit	chair	hold	bag	read	book
+person.n.01	search.v.02	bus.n.01	board	bus	inspect	bus	lean_on	bench
+person.n.01	sit.v.01	box.n.01	rest_on	bench	sit_on	chair
+person.n.01	sit.v.01	person.n.01	sit_on	bench	sit_on	chair	sit_on	sofa
+person.n.01	sit.v.01	truck.n.01	sit_on	bench	hold	book	lean_on	backpack
+person.n.01	sleep.v.01	pillow.n.01	rest_on	bed	sleep_on	sofa
+person.n.01	smell.v.01	apple.n.01	hold	apple	contain	apple
+person.n.01	stand.v.01	grass.n.01	hold	umbrella	watch	dog	talk	cell_phone
+person.n.01	stand.v.03	train.n.01	hold	bag	watch	clock
+person.n.01	stop.v.01	traffic_light.n.01	drive	car	walk	side	ride	bicycle
+person.n.01	straddle.v.01	motorcycle.n.01	ride	motorcycle	wear	helmet	park	motorcycle
+person.n.01	talk.v.01	telephone.n.01	use	cell_phone	talk	person	hold	telephone
+person.n.01	touch.v.01	giraffe.n.01	pet	giraffe	feed	giraffe
+person.n.01	touch.v.01	grass.n.01	sit_on	bench	wear	shoe	walk	road
+person.n.01	touch.v.01	horse.n.01	groom	horse	pet	horse
+person.n.01	touch.v.01	keyboard.n.01	use	computer	sit	desk
+person.n.01	touch.v.01	paper.n.01	rest_on	desk	pick_up	paper
+person.n.01	touch.v.01	person.n.01	carry	bag
+person.n.01	touch.v.01	skateboard.n.01	stand_on	skateboard	own	skateboard	play	skateboard
+person.n.01	transport.v.02	bag.n.01	carry	backpack	load	car	board	bus
+person.n.01	transport.v.02	banana.n.01	carry	hand	own	backpack	contain	bag
+person.n.01	transport.v.02	cellular_telephone.n.01	carry	bag	sit_on	bench	hold	hand
+person.n.01	transport.v.02	surfboard.n.01	carry	backpack	hold	hand	ride	bicycle
+person.n.01	wash.v.01	toilet.n.01
+person.n.01	wash.v.02	train.n.01	clean	train
+person.n.01	watch.v.01	bear.n.01	stand	bench	hold	camera	sit	bush
+person.n.01	watch.v.01	elephant.n.01	sit_on	bench	hold	camera
+person.n.01	watch.v.01	zebra.n.01	sit	bench	use	camera	sit_on	grass
+person.n.01	wear.v.01	jacket.n.01	carry	backpack	ride	bicycle	walk	dog
+plate.n.04	hold.v.11	pizza.n.01	serve	dining_table	contain	bowl
+shoe.n.01	attach.v.03	ski.n.01	align	ski	use	person	ride	mountain
+skateboard.n.01	touch.v.01	person.n.01	ride	skateboard	manipulate	skateboard	carry	skateboard
+sky.n.01	have.v.01	person.n.01	watch	person	contain	airplane	cover	mountain
+stove.n.01	have.v.01	clock.n.01	contain	clock	use	clock	incorporate	clock
+street.n.01	have.v.02	traffic_light.n.01	drive_on	car	walk	person	contain	building
+surfboard.n.01	have.v.02	person.n.01	carry	backpack	own	person
+surfboard.n.01	touch.v.01	sand.n.01	carry	person	use	person
+table.n.02	have.v.01	keyboard.n.01	contain	computer	rest_on	desk
+table.n.02	have.v.01	umbrella.n.01	attach_to	dining_table	contain	bottle	rest_on	potted_plant
+table.n.02	hold.v.10	vase.n.01	contain	plant
+tower.n.01	have.v.01	clock.n.01	attach_to	building	align	side	text_on	tower
+train.n.01	have.v.01	person.n.01	accommodate	person	transport	person	contain	person
+train.n.01	transport.v.02	person.n.01	board	train	sit_on	bench	carry	baggage
+truck.n.01	transport.v.02	truck.n.01	load	baggage	drive	person
+umbrella.n.01	attach.v.03	post.n.01	align	umbrella	rest_on	post	cover	person
+umbrella.n.01	cover.v.01	handcart.n.01	attach_to	hand	use	person	contain	baggage
+umbrella.n.01	have.v.02	post.n.01	cover	person
+bag.n.01	sit.v.07	street.n.01	contain	bottle	lean_on	bench
+bear.n.01	against	pillow.n.01	rest_on	pillow	sleep_on	bed	lie	sofa
+bear.n.01	have.v.01	hat.n.01	wear	hat	carry	hat	own	hat
+bear.n.01	look.v.01	bear.n.01
+bloomers.n.01	touch.v.01	sofa.n.01	sit_on	sofa	rest_on	sofa	lie	sofa
+boat.n.01	have.v.01	person.n.01	sail	boat	own	boat	ride	boat
+box.n.01	attach_to.v.01	motorcycle.n.01	contain	baggage	carry	helmet	attach	bag
+box.n.01	keep.v.01	pizza.n.01	contain	pizza	transport	pizza	serve	pizza
+bus.n.01	have.v.01	bicycle.n.01	carry	bicycle	accommodate	bicycle	transport	bicycle
+cart.n.01	have.v.02	can.n.01	contain	can	transport	can	carry	can
+cart.n.01	have.v.02	wheel.n.01	carry	baggage	pull	horse
+cart.n.01	transport.v.02	baggage.n.01	load	baggage	pull	horse	carry	bag
+cat.n.01	ride.v.10	skateboard.n.01	sit_on	bench	jump	ramp	play	ball
+chair.n.01	have.v.01	cat.n.01	sit_on	chair	rest_on	chair	contain	cat
+chair.n.01	have.v.01	clock.n.01	attach_to	chair	rest_on	table	contain	bag
+desk.n.01	hold.v.02	chair.n.01	contain	chair	align	chair	rest_on	chair
+dog.n.01	ride.v.01	horse.n.01	accommodate	person
+dog.n.01	wear.v.01	necktie.n.01	sit_on	bench	greet	person	play	ball
+dog.n.01	wear.v.01	shoe.n.01	walk	street
+elephant.n.01	transport.v.02	person.n.01	carry	person	ride	elephant	sit_on	elephant
+engine.n.01	have.v.01	roof.n.02	contain	car	contain	truck	contain	bus
+face.n.01	have.v.01	hand.n.01	attach	person	point	admonisher	touch	person
+giraffe.n.01	follow.v.01	giraffe.n.01	walk	grass	rest_on	tree	move	bush
+hand.n.01	hold.v.02	can.n.01	contain	beer	open	can	drink	beer
+hand.n.01	hold.v.02	pizza.n.01	hold	person
+hand.n.01	hold.v.02	spectacles.n.01	inspect	spectacles	adjust	spectacles	use	spectacles
+horse.n.01	eat.v.01	grass.n.01	feed	person
+horse.n.01	stand.v.01	grass.n.01	groom	horse	eat	grass
+horse.n.01	walk.v.01	tree.n.01	walk	grass	walk	road
+monitor.n.04	sit.v.01	table.n.02	rest_on	desk	contain	computer	accommodate	keyboard
+motorcycle.n.01	attach_to.v.01	cart.n.01	carry	baggage	pull	handcart	ride	person
+motorcycle.n.01	have.v.01	roof.n.01	attach_to	motorcycle	cover	motorcycle	contain	motorcycle
+motorcycle.n.01	have.v.01	wheel.n.01	attach_to	motorcycle	drive_on	road
+mountain.n.01	have.v.01	tree.n.01	contain	bush	contain	grass	accommodate	ski
+person.n.01	buy.v.01	apple.n.01	contain	bag	carry	basket	eat	apple
+person.n.01	carry.v.02	basket.n.01	contain	apple	contain	banana
+person.n.01	carry.v.02	pizza.n.01	contain	bag	contain	basket	walk	street
+person.n.01	carry.v.02	snowboard.n.01	transport	bus	carry	backpack	ride	mountain
+person.n.01	clean.v.01	keyboard.n.01	clean	desk	clean	computer	use	hand
+person.n.01	clean.v.01	microwave.n.01	inspect	microwave	use	bottle	wash	hand
+person.n.01	clean.v.01	sink.n.01	use	hand	wash	bowl	inspect	faucet
+person.n.01	cook.v.01	carrot.n.01	use	knife	contain	bowl	cook	pot
+person.n.01	decant.v.01	bottle.n.01	contain	beer	hold	bottle	use	hand
+person.n.01	drive.v.01	van.n.05	load	baggage	drive_on	road	contain	box
+person.n.01	embrace.v.02	bag.n.06	sit_on	bench	carry	baggage	own	backpack
+person.n.01	embrace.v.02	elephant.n.01	stand_on	grass	carry	backpack	have	manner
+person.n.01	embrace.v.02	fireplug.n.01	lean_on	fireplug	inhere_in	manner	stand	bench
+person.n.01	have.v.01	baggage.n.01	carry	bag	pack	backpack
+person.n.01	have.v.01	computer.n.01	use	computer	operate	computer	own	computer
+person.n.01	have.v.01	jean.n.01	wear	jean	buy	jean	pack	bag
+person.n.01	have.v.01	spectacles.n.01	wear	spectacles	use	computer	read	book
+person.n.01	have.v.01	trouser.n.01	wear	trouser	wash	trouser	own	trouser
+person.n.01	hold.v.02	bottle.n.01	drink	bottle	contain	bottle	carry	bottle
+person.n.01	hold.v.02	helmet.n.01	stand_on	motorcycle	transport	bicycle
+person.n.01	hold.v.02	kite.n.03	fly	kite	watch	sky
+person.n.01	hold.v.02	plate.n.02	carry	basket	sit_on	bench	eat	cake
+person.n.01	hold.v.02	sheep.n.01	inspect	sheep	restrain	sheep	transport	sheep
+person.n.01	hold.v.02	skateboard.n.01	carry	baggage	ride	skateboard	use	skateboard
+person.n.01	hose.v.01	dog.n.01	clean	dog	groom	dog	play	dog
+person.n.01	inspect.v.01	banana.n.01	inspect	bag	hold	banana	look	basket
+person.n.01	inspect.v.01	boat.n.01	board	boat	repair	boat	buy	boat
+person.n.01	inspect.v.01	fireplug.n.01	inspect	hydrant	stand	street
+person.n.01	inspect.v.01	orange.n.01	contain	basket	inspect	bag	hold	hand
+person.n.01	jump.v.01	skateboard.n.01	jump	ramp	wear	helmet
+person.n.01	keep.v.01	baggage.n.01	carry	airplane	pack	car	inspect	building
+person.n.01	keep.v.01	cat.n.01	feed	cat	groom	cat	contain	cat
+person.n.01	keep.v.01	mouse.n.01	contain	box	keep	bag	own	desk
+person.n.01	lean.v.01	bus.n.01	rest_on	side	lean_on	bench	stand_on	street
+person.n.01	lean_on.v.01	ramp.n.01	carry	backpack	hold	bottle	wear	hat
+person.n.01	lick.v.02	knife.n.01	inspect	knife	clean	knife	use	knife
+person.n.01	lie.v.02	bed.n.01	rest_on	pillow	watch	television
+person.n.01	lie.v.02	pillow.n.01	rest_on	bed	sit_on	sofa
+person.n.01	look.v.01	mountain.n.01	sit	bench	carry	backpack
+person.n.01	look.v.01	person.n.01	sit_on	bench	wear	sunglasses	hold	book
+person.n.01	look.v.01	truck.n.01	stand_on	street	hold	camera	inspect	truck
+person.n.01	open.v.01	umbrella.n.01	carry	bag	stand_on	street	walk	side
+person.n.01	open.v.03	refrigerator.n.01	put	bottle	hold	bowl
+person.n.01	pet.v.01	elephant.n.01	groom	elephant	feed	elephant	ride	elephant
+person.n.01	pick_up.v.02	pizza.n.01
+person.n.01	play.v.01	laptop.n.01	sit_on	chair	use	keyboard	watch	monitor
+person.n.01	read.v.01	cellular_telephone.n.01	sit_on	bench	hold	cell_phone	sit	chair
+person.n.01	ride.v.01	skateboard.n.01	stand_on	skateboard	hop_on	skateboard	ride	ramp
+person.n.01	ride.v.02	baggage.n.01	ride	airplane	contain	backpack
+person.n.01	sit.v.01	bag.n.01	sit_on	bench	contain	backpack	rest_on	chair
+person.n.01	sit.v.01	bus.n.01	carry	bag	use	cell_phone	wear	hat
+person.n.01	sit.v.01	skateboard.n.01	lean_on	bench	use	helmet
+person.n.01	skin.v.04	apple.n.01	use	knife	sit	dining_table	contain	bowl
+person.n.01	smell.v.01	carrot.n.01	hold	carrot	put	bowl	eat	carrot
+person.n.01	snog.v.01	horse.n.01	ride	horse
+person.n.01	stand.v.01	motorcycle.n.01	stand_on	motorcycle	lean_on	motorcycle
+person.n.01	stir.v.01	broccoli.n.01	cook	pot	contain	bowl
+person.n.01	tall.a.01	elephant.n.01
+person.n.01	touch.v.01	bear.n.01	pet	bear	have	backpack	stand	side
+person.n.01	touch.v.01	box.n.01	open	box	carry	box	inspect	box
+person.n.01	touch.v.01	bus.n.01	board	bus	hold	bag	lean_on	bus
+person.n.01	touch.v.01	chair.n.01	sit_on	chair	move	chair	inspect	chair
+person.n.01	touch.v.01	motorcycle.n.01	wear	helmet	stand_on	side	inspect	motorcycle
+person.n.01	touch.v.01	ski.n.01	carry	bag	rest_on	mountain	use	snowboard
+person.n.01	touch.v.01	telephone.n.01	use	cellular_telephone	inspect	telephone	pick_up	cell_phone
+person.n.01	transport.v.02	sofa.n.01	load	truck	carry	handcart	load	car
+person.n.01	use.v.01	mouse.n.04	attach_to	computer	sit_on	desk	operate	monitor
+person.n.01	walk.v.01	box.n.01	carry	box	transport	box
+person.n.01	walk.v.09	elephant.n.01	direct	elephant
+person.n.01	walk.v.09	motorcycle.n.01	push	motorcycle	lean_on	motorcycle	inspect	motorcycle
+person.n.01	wash.v.01	boat.n.01	wash	hand	wash	sink
+person.n.01	wash.v.01	car.n.01	wash	wheel
+person.n.01	wash.v.01	glass.n.02	use	faucet	rest_on	sink
+person.n.01	wash.v.01	orange.n.01	contain	basket
+person.n.01	watch.v.01	bird.n.01	sit	bench	stand_on	grass
+person.n.01	wear.v.01	short_pants.n.01	sit_on	bench	walk	street	play	sports_ball
+pizza.n.01	have	pizza.n.01	contain	pizza	serve	pizza	accommodate	pizza
+post.n.01	have.v.01	clock.n.01	inspect	person
+road.n.01	have.v.01	bicycle.n.01	accommodate	bicycle	transport	bicycle	drive_on	bicycle
+road.n.01	have.v.01	motorcycle.n.01	accommodate	motorcycle	drive_on	motorcycle	park	motorcycle
+road.n.01	have.v.01	person.n.01	accommodate	person	walk	person	drive_on	person
+road.n.01	have.v.01	shrub.n.01	against	side	contain	bush	align	street
+roof.n.01	cover.v.01	tower.n.01	attach_to	building	taller_than	building
+shirt.n.01	touch.v.01	jacket.n.01	wear	jacket	rest_on	shirt	cover	jacket
+shrub.n.01	attach_to.v.01	mountain.n.01	rest_on	side	inhere_in	grass	align	bush
+sink.n.01	have.v.01	paper.n.01	contain	bag	use	hand	rest_on	counter
+sky.n.01	cover.v.01	sky.n.01	fly	airplane	fly	kite
+street.n.01	have.v.01	person.n.01	walk	street	carry	backpack	use	cell_phone
+street.n.02	have.v.01	bicycle.n.01	ride	person	park	bicycle	lean_on	post
+table.n.02	have	box.n.01	contain	apple	rest_on	table
+table.n.02	have.v.01	laptop.n.01	rest_on	desk	contain	computer
+table.n.02	have.v.02	pot.n.01	contain	cup	accommodate	dining_table	hold	plate
+table.n.02	hold.v.11	vase.n.01	sit_on	dining_table
+train.n.01	pull.v.01	train.n.01	attach	engine	transport	person
+tree.n.01	cover.v.01	mountain.n.01	inhere_in	grass	inhere_in	bush
+tree.n.01	cover.v.01	person.n.01	contain	baggage	rest	bench
+vase.n.01	carry.v.02	plant.n.02	contain	basket	rest_on	table	fill	pot

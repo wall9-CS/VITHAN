@@ -1,0 +1,76 @@
+admonisher.n.01	restrain.v.03	person.n.01
+airplane.n.01	fly.v.01	road.n.01	against	traffic_light.n.01
+airplane.n.01	fly.v.01	sky.n.01	launch.v.02	airplane.n.01	against	sky.n.01	race.v.02	airplane.n.01
+airplane.n.01	have.v.01	engine.n.01
+airplane.n.01	have.v.01	wheel.n.01
+airplane.n.01	have.v.02	wheel.n.01	attach.v.03	airplane.n.01	use.v.01	wheel.n.01	operate.v.01	airplane.n.01
+airplane.n.01	park.v.01	street.n.01	obstruct.v.01	traffic_light.n.01	rest_on	road.n.01	stand.v.01	building.n.01
+airplane.n.01	park.v.02	grass.n.01	rest_on	wheel.n.01	against	tree.n.01
+airplane.n.01	tall.a.01	truck.n.01	taller_than	tower.n.01	carry.v.02	bag.n.04
+ashcan.n.01	have.v.02	bag.n.01	contain.v.05	paper.n.01
+ashcan.n.01	touch.v.01	refrigerator.n.01	contain.v.05	bag.n.01	rest_on	counter.n.01	hold.v.11	hand.n.01
+bag.n.01	against	shelf.n.01	rest.v.01	counter.n.01	contain.v.05	book.n.01
+bag.n.01	attach.v.02	table.n.02	contain.v.05	vase.n.01	rest_on	chair.n.01	lie.v.01	desk.n.01
+bag.n.01	lie.v.01	person.n.01	rest_on	chair.n.01	carry.v.02	backpack.n.01	wear.v.01	hat.n.01
+bag.n.06	have.v.01	wheel.n.01	carry.v.26	person.n.01
+bag.n.06	hold.v.11	shirt.n.01	contain.v.05	jean.n.01	carry.v.26	necktie.n.01	accommodate.v.04	coat.n.03
+baggage.n.01	have.v.01	bag.n.01	carry.v.02	hand.n.01	own.v.01	person.n.01
+baggage.n.01	have.v.01	wheel.n.01	transport.v.02	truck.n.01	carry.v.02	handcart.n.01	attach.v.01	cart.n.01
+basket.n.01	attach.v.02	bicycle.n.01	contain.v.05	bag.n.01	carry.v.02	person.n.01
+basket.n.01	contain.v.05	dog.n.01	accommodate.v.04	cat.n.01	contain.v.05	hat.n.01	hold.v.22	ball.n.01
+basket.n.01	have.v.01	beer.n.01	contain.v.05	bottle.n.01	carry.v.02	bag.n.01	rest.v.01	table.n.01
+basket.n.01	transport.v.02	bag.n.01	contain.v.05	apple.n.01	carry.v.02	hand.n.01	hold.v.22	person.n.01
+bear.n.01	have.v.01	coat.n.03	rest_on	grass.n.01
+bear.n.01	sit.v.01	basket.n.01	rest_on	chair.n.01	contain.v.05	apple.n.01
+bear.n.01	sit.v.01	chair.n.01	rest.v.01	sofa.n.01	lean.v.01	table.n.03	watch.v.01	television.n.01
+bear.n.01	stand.v.01	grass.n.01	taller_than	shrub.n.01	rest_on	mountain.n.01	obstruct.v.01	street.n.01
+bear.n.01	wear.v.01	hat.n.01	sit_on	bench.n.01	stand.v.03	mountain.n.01	walk.v.01	street.n.03
+bear.n.01	wear.v.01	jacket.n.01	stand.v.01	mountain.n.01	rest_on	grass.n.01	walk.v.01	street.n.01
+bed.n.01	have	person.n.01	rest_on	pillow.n.01	accommodate.v.04	person.n.01	sit_on	chair.n.01
+bed.n.01	have.v.01	jacket.n.01	rest_on	pillow.n.01	contain.v.05	shirt.n.01	cover.v.02	coat.n.01
+bed.n.01	have.v.01	post.n.04
+bed.n.01	have.v.02	bench.n.01	accommodate.v.04	person.n.01	rest_on	pillow.n.01
+bed.n.01	have.v.02	pillow.n.01	rest_on	sofa.n.01	cover.v.01	bed.n.01	contain.v.05	bag.n.01
+bench.n.01	get.v.03	person.n.01	sit_on	chair.n.01	wear.v.05	jacket.n.01	hold.v.02	umbrella.n.01
+bench.n.01	have.v.01	dog.n.01	sit_on	chair.n.01	rest.v.01	sofa.n.01	watch.v.01	television.n.01
+bench.n.01	keep.v.01	person.n.01	sit.v.01	sport.n.01	sit_on	street.n.01
+bicycle.n.01	have.v.01	basket.n.01	attach.v.01	helmet.n.01	carry.v.26	bag.n.01	ride.v.01	road.n.01
+bicycle.n.01	have.v.01	bottle.n.01	attach.v.01	bag.n.01	carry.v.02	sports_ball
+bicycle.n.01	park.v.01	bus.n.01	against	traffic_light.n.01
+bicycle.n.01	park.v.01	table.n.02	rest_on	chair.n.01	contain.v.05	bag.n.01	attach_to	bicycle.n.01
+boat.n.01	follow.v.01	boat.n.01	race.v.04	sport.n.01
+boat.n.01	have.v.01	ball.n.01	accommodate.v.04	person.n.01	contain.v.05	sports_ball
+boat.n.01	have.v.01	engine.n.01	operate.v.03	person.n.01	contain.v.05	bag.n.04
+boat.n.01	have.v.02	roof.n.01
+boat.n.01	transport.v.02	person.n.01
+bottle.n.01	have.v.01	plant.n.02	contain.v.05	vase.n.01	rest_on	table.n.03
+bottle.n.01	touch.v.01	bag.n.01
+bowl.n.01	hold.v.11	bowl.n.01	contain.v.05	broccoli.n.01	rest.v.02	dining_table.n.01
+box.n.01	have.v.01	clock.n.01	contain.v.05	watch.n.01	rest.v.01	table.n.01	accommodate.v.04	paper.n.01
+box.n.01	have.v.01	pizza.n.01	contain.v.05	plate.n.03	accommodate.v.04	table.n.03	rest_on	counter.n.01
+box.n.01	hold.v.11	pizza.n.01	contain.v.05	bag.n.01	rest.v.01	table.n.03	sit.v.01	chair.n.01
+box.n.01	incorporate.v.02	clock.n.01	contain.v.05	vase.n.01	rest.v.01	shelf.n.01
+building.n.01	accommodate.v.04	person.n.01	contain.v.05	table.n.01	stand.v.01	tower.n.01	rest_on	street.n.01
+building.n.01	attach_to.v.01	tower.n.01	stand.v.01	street.n.01	taller_than	tree.n.01	have.v.01	roof.n.01
+building.n.01	have.v.01	clock.n.01	stand.v.01	tower.n.01	contain.v.05	monitor.n.05	rest_on	roof.n.01
+building.n.01	have.v.01	grass.n.01	contain.v.05	potted_plant	stand.v.01	bench.n.01	cover.v.02	tree.n.01
+building.n.01	have.v.01	tower.n.01	attach_to	roof.n.01	taller_than	building.n.01	stand.v.01	street.n.01
+building.n.01	have.v.02	roof.n.01	stand.v.01	tower.n.01	cover.v.02	street.n.03	attach.v.01	chair.n.01
+building.n.01	have.v.02	truck.n.01	park.v.02	street.n.01	contain.v.05	chair.n.01	rest.v.01	roof.n.01
+building.n.01	tall.a.01	hydrant.n.02	stand.v.03	tower.n.01	rest_on	roof.n.01	taller_than	giraffe.n.01
+building.n.01	tall.a.01	tree.n.01	stand.v.01	tower.n.01	taller_than	giraffe.n.01	rest.v.02	roof.n.02
+building.n.01	taller_than	shrub.n.01	rest_on	street.n.01	contain.v.05	person.n.01	have.v.01	roof.n.01
+building.n.01	touch.v.01	street.n.01	front.v.01	street.n.01	stand.v.01	tower.n.01	obstruct.v.01	traffic_light.n.01
+bus.n.01	drive.v.01	road.n.01	obstruct.v.01	traffic_light.n.01	race.v.02	motorcycle.n.01	park.v.01	parking_meter.n.01
+bus.n.01	drive.v.01	street.n.01	drive_on	road.n.01	obstruct.v.01	traffic_light.n.01	race.v.02	car.n.01
+bus.n.01	have.v.01	cat.n.01	carry.v.26	person.n.01	accommodate.v.04	bag.n.01	contain.v.05	chair.n.01
+bus.n.01	have.v.01	face.n.01	transport.v.02	person.n.01	carry.v.02	baggage.n.01	accommodate.v.04	street.n.01
+bus.n.01	have.v.01	roof.n.02	cover.v.01	street.n.01	attach_to.v.01	wheel.n.01
+bus.n.01	have.v.01	wheel.n.01	carry.v.26	person.n.01	operate.v.01	engine.n.01	drive.v.02	road.n.01
+bus.n.01	have.v.02	ramp.n.01
+bus.n.01	park.v.02	road.n.01	obstruct.v.01	traffic_light.n.01	stand.v.01	street.n.01	accommodate.v.04	parking_meter.n.01
+bus.n.01	park.v.02	street.n.02	obstruct.v.01	traffic_light.n.01	stand.v.03	hydrant.n.02	align.v.01	parking_meter.n.01
+bus.n.01	transport.v.02	person.n.01	board.v.01	bus.n.01	sit.v.01	chair.n.01	carry.v.26	bag.n.01
+cabinet.n.01	have.v.01	glass.n.02	contain.v.05	bottle.n.01	accommodate.v.04	vase.n.01	hold.v.22	cup.n.01
+cabinet.n.01	have.v.01	paper.n.01	contain.v.05	book.n.01	accommodate.v.04	vase.n.01
+cabinet.n.01	keep.v.01	monitor.n.04	contain.v.05	shelf.n.01
